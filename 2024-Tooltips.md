@@ -75,11 +75,31 @@
 `[wprop]Topple[/wprop]`  
 `[wprop]Vex[/wprop]`  
 
+`[rules]Skill[/rules]`  
+`[skill]Athletics[/skill]`  
+`[skill]Acrobatics[/skill]`  
+`[skill]Sleight of Hand[/skill]`  
+`[skill]Stealth[/skill]`  
+`[skill]Arcana[/skill]`  
+`[skill]History[/skill]`  
+`[skill]Investigation[/skill]`  
+`[skill]Nature[/skill]`  
+`[skill]Religion[/skill]`  
+`[skill]Animal Handling[/skill]`  
+`[skill]Insight[/skill]`  
+`[skill]Medicine[/skill]`  
+`[skill]Perception[/skill]`  
+`[skill]Survival[/skill]`  
+`[skill]Deception[/skill]`  
+`[skill]Intimidation[/skill]`  
+`[skill]Performance[/skill]`  
+`[skill]Persuasion[/skill]`
 
-skill
-rules
 
-Damage Types?
+
+`[rules]Damage Types[/rules]`  
+
+
 
 `[sense]Blindsight[/sense]`  
 `[sense]Darkvision[/sense]`  
@@ -120,7 +140,6 @@ Damage Types?
 `[rules]D20 Test[/rules]`  
 `[rules]Damage[/rules]`  
 `[rules]Damage Threshold[/rules]`  
-`[rules]Damage Types[/rules]`  
 `[rules]Darkness[/rules]`  
 `[rules]Dead[/rules]`  
 `[rules]Death Saving Throw[/rules]`  
@@ -165,7 +184,6 @@ Damage Types?
 `[rules]Short Rest[/rules]`  
 `[rules]Simultaneous Effects[/rules]`  
 `[rules]Size[/rules]`  
-`[rules]Skill[/rules]`  
 `[rules]Speed[/rules]`  
 `[rules]Spell[/rules]`  
 `[rules]Spell Attack[/rules]`  
