@@ -1,5 +1,40 @@
-#### Tooltips for the D&D Free Rules (2024)
+# Tooltips for the D&D Free Rules (2024)
+## Playing the Game
+### Player or DM?
+#### Being the Dungeon Master
+`[rules]Adventure[/rules]`
+### Dice
+#### What are Dice for?
+`[rules]Damage[/rules]`  
+### The Six Abilities
+`[rules]Ability Score and Modifier[/rules]`  
+### D20 Tests
+`[rules]D20 Test[/rules]`  
+### Proficiency
+`[rules]Proficiency[/rules]`  
+#### Skill Proficiencies
+`[rules]Skill[/rules]`  
+`[skill]Athletics[/skill]`  
+`[skill]Acrobatics[/skill]`  
+`[skill]Sleight of Hand[/skill]`  
+`[skill]Stealth[/skill]`  
+`[skill]Arcana[/skill]`  
+`[skill]History[/skill]`  
+`[skill]Investigation[/skill]`  
+`[skill]Nature[/skill]`  
+`[skill]Religion[/skill]`  
+`[skill]Animal Handling[/skill]`  
+`[skill]Insight[/skill]`  
+`[skill]Medicine[/skill]`  
+`[skill]Perception[/skill]`  
+`[skill]Survival[/skill]`  
+`[skill]Deception[/skill]`  
+`[skill]Intimidation[/skill]`  
+`[skill]Performance[/skill]`  
+`[skill]Persuasion[/skill]`
 
+
+---
 `[rules]Action[/rules]`  
 `[action]Attack[/action]`  
 `[action]Dash[/action]`  
@@ -75,25 +110,7 @@
 `[wprop]Topple[/wprop]`  
 `[wprop]Vex[/wprop]`  
 
-`[rules]Skill[/rules]`  
-`[skill]Athletics[/skill]`  
-`[skill]Acrobatics[/skill]`  
-`[skill]Sleight of Hand[/skill]`  
-`[skill]Stealth[/skill]`  
-`[skill]Arcana[/skill]`  
-`[skill]History[/skill]`  
-`[skill]Investigation[/skill]`  
-`[skill]Nature[/skill]`  
-`[skill]Religion[/skill]`  
-`[skill]Animal Handling[/skill]`  
-`[skill]Insight[/skill]`  
-`[skill]Medicine[/skill]`  
-`[skill]Perception[/skill]`  
-`[skill]Survival[/skill]`  
-`[skill]Deception[/skill]`  
-`[skill]Intimidation[/skill]`  
-`[skill]Performance[/skill]`  
-`[skill]Persuasion[/skill]`
+
 
 
 
@@ -112,9 +129,9 @@
 `[action]Opportunity Attack[/action]`  
 
 `[rules]Ability Check[/rules]`  
-`[rules]Ability Score and Modifier[/rules]`  
+
 `[rules]Advantage[/rules]`  
-`[rules]Adventure[/rules]`  
+
 `[rules]Alignment[/rules]`  
 `[rules]Ally[/rules]`  
 `[rules]Armor Class[/rules]`  
@@ -139,8 +156,8 @@
 `[rules]Creature Type[/rules]`  
 `[rules]Critical Hit[/rules]`  
 `[rules]Curses[/rules]`  
-`[rules]D20 Test[/rules]`  
-`[rules]Damage[/rules]`  
+
+
 `[rules]Damage Threshold[/rules]`  
 `[rules]Darkness[/rules]`  
 `[rules]Dead[/rules]`  
@@ -176,7 +193,7 @@
 `[rules]Per Day[/rules]`  
 `[rules]Player Character[/rules]`  
 `[rules]Possession[/rules]`  
-`[rules]Proficiency[/rules]`  
+
 `[rules]Reaction[/rules]`  
 `[rules]Resistance[/rules]`  
 `[rules]Ritual[/rules]`  
