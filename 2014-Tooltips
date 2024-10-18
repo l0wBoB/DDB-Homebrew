@@ -14,14 +14,11 @@
 
 # Choosing a Race (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/races#ChoosingaRace)
 [rule]Race[/rule]
-[rule]Races[/rule]
-[rule]Species[/rule]
 
 ## Chapter 3: Classes
 
 # Classes (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes)
 [rule]Class[/rule]
-[rule]Classes[/rule]
 
 ## Chapter 4: Personality and Background
 
@@ -36,7 +33,6 @@
 [rule]Lawful Evil[/rule]
 [rule]Neutral Evil[/rule]
 [rule]Chaotic Evil[/rule]
-[rule]Unaligned[/rule]
 # Personal Characteristics (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/personality-and-background#PersonalCharacteristics)
 [rule]Personality Traits[/rule]
 [rule]Ideals[/rule]
@@ -46,7 +42,6 @@
 [rule]Inspiration[/rule]
 # Backgrounds (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/personality-and-background#Backgrounds)
 [rule]Background[/rule]
-[rule]Backgrounds[/rule]
 
 ## Chapter 5: Equipment
 
@@ -67,18 +62,11 @@
 
 # Ability Scores and Modifiers (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#AbilityScoresandModifiers)
 [rule]Ability Scores[/rule]
-[rule]Modifiers[/rule]
 # Advantage and Disadvantage (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#AdvantageandDisadvantage)
 [rule]Advantage[/rule]
 [rule]Disadvantage[/rule]
 # Proficiency Bonus (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#ProficiencyBonus)
-[rule]Proficiency[/rule]
 [rule]Proficiency Bonus[/rule]
-# Ability Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#AbilityChecks)
-[rule]Ability Check[/rule]
-[rule]Ability Checks[/rule]
-[rule]Difficulty Class[/rule]
-[rule]Difficulty Classes[/rule]
 # Strength Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#StrengthChecks)
 [skill]Athletics[/skill]
 # Dexterity Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#DexterityChecks)
@@ -103,30 +91,19 @@
 [skill]Performance[/skill]
 [skill]Persuasion[/skill]
 # Saving Throws (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#SavingThrows)
-[rule]Saving Throw[/rule]
 [rule]Saving Throws[/rule]
 
 ## Chapter 8: Adventuring
 
 # Movement (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/adventuring#Movement)
 [rule]Speed[/rule]
-[rule]Travel Pace[/rule]
 [rule]Difficult Terrain[/rule]
-[rule]Climbing, Swimming, and Crawling[/rule]
-[rule]Jumping[/rule]
+[rule]Climbing Swimming Crawling[/rule]
 # Environment (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/adventuring#TheEnvironment)
 [rule]Falling[/rule]
 [rule]Suffocating[/rule]
 [rule]Lightly Obscured[/rule]
 [rule]Heavily Obscured[/rule]
-[rule]Bright Light[/rule]
-[rule]Dim Light[/rule]
-[rule]Darkness[/rule]
-# Social Interaction (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/adventuring#SocialInteraction)
-[rule]Ability Checks[/rule]
-[rule]Resting[/rule]
-[rule]Short Rest[/rule]
-[rule]Long Rest[/rule]
 
 ## Chapter 9: Combat
 
@@ -147,14 +124,12 @@
 [action]Search[/action]
 [action]Use an Object[/action]
 # Cover (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#Cover)
-[rule]Cover[/rule]
 [rule]Half Cover[/rule]
 [rule]Three-Quarters Cover[/rule]
 [rule]Total Cover[/rule]
 # Hit Points (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#HitPoints)
 [rule]Hit Points[/rule]
 # Critical Hits (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#CriticalHits)
-[rule]Critical Hit[/rule]
 [rule]Critical Hits[/rule]
 # Damage Types (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#DamageTypes)
 [rule]Acid Damage[/rule]
@@ -175,7 +150,6 @@
 [rule]Damage Vulnerability[/rule]
 # Dropping to 0 Hit Points (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#Droppingto0HitPoints)
 [rule]Instant Death[/rule]
-[rule]Death Saving Throw[/rule]
 [rule]Death Saving Throws[/rule]
 # Temporary Hit Points (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#TemporaryHitPoints)
 [rule]Temporary Hit Points[/rule]
@@ -217,7 +191,7 @@
 [item]*[/item]
 
 # Magic Items (https://www.dndbeyond.com/magic-items)
-[magicItem]*[/magicItem]
+[magicitem]*[/magicitem]
 
 # Monsters (https://www.dndbeyond.com/monsters)
 [monster]*[/monster]
