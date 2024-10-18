@@ -81,106 +81,106 @@ rules
 
 Damage Types?
 
-Ability Check
-Ability Score and Modifier
-Advantage
-Adventure
-Alignment
-Ally
-Armor Class
-Armor Training
-Attack Roll
-Attunement
-Blindsight
-Bloodied
-Bonus Action
-Breaking Objects
-Bright Light
-Burrow Speed
-Campaign
-Cantrip
-Carrying Capacity
-Challenge Rating
-Character Sheet
-Climbing
-Concentration
-Cover
-Crawling
-Creature
-Creature Type
-Critical Hit
-Curses
-D20 Test
-Damage
-Damage Threshold
-Damage Types
-Darkness
-Darkvision
-Dead
-Death Saving Throw
-Difficult Terrain
-Difficulty Class
-Dim Light
-Disadvantage
-Encounter
-Enemy
-Experience Points
-Expertise
-Flying
-Grappling
-Healing
-Heavily Obscured
-Heroic Inspiration
-Hit Point Dice
-Hit Points
-Hover
-Illusions
-Immunity
-Improvised Weapons
-Initiative
-Knocking Out a Creature
-Lightly Obscured
-Long Rest
-Magical Effect
-Monster
-Nonplayer Character
-Object
-Occupied Space
-Opportunity Attacks
-Passive Perception
-Per Day
-Player Character
-Possession
-Proficiency
-Reaction
-Resistance
-Ritual
-Round Down
-Saving Throw
-Shape-Shifting
-Short Rest
-Simultaneous Effects
-Size
-Skill
-Speed
-Spell
-Spell Attack
-Spellcasting Focus
-Stable
-Stat Block
-Surprise
-Swimming
-Target
-Telepathy
-Teleportation
-Temporary Hit Points
-Tremorsense
-Truesight
-Unarmed Strike
-Unoccupied Space
-Vulnerability
-Weapon
-Weapon Attack
+`[rules]Ability Check[/rules]`  
+`[rules]Ability Score and Modifier[/rules]`  
+`[rules]Advantage[/rules]`  
+`[rules]Adventure[/rules]`  
+`[rules]Alignment[/rules]`  
+`[rules]Ally[/rules]`  
+`[rules]Armor Class[/rules]`  
+`[rules]Armor Training[/rules]`  
+`[rules]Attack Roll[/rules]`  
+`[rules]Attunement[/rules]`  
+`[rules]Blindsight[/rules]`  
+`[rules]Bloodied[/rules]`  
+`[rules]Bonus Action[/rules]`  
+`[rules]Breaking Objects[/rules]`  
+`[rules]Bright Light[/rules]`  
+`[rules]Burrow Speed[/rules]`  
+`[rules]Campaign[/rules]`  
+`[rules]Cantrip[/rules]`  
+`[rules]Carrying Capacity[/rules]`  
+`[rules]Challenge Rating[/rules]`  
+`[rules]Character Sheet[/rules]`  
+`[rules]Climbing[/rules]`  
+`[rules]Concentration[/rules]`  
+`[rules]Cover[/rules]`  
+`[rules]Crawling[/rules]`  
+`[rules]Creature[/rules]`  
+`[rules]Creature Type[/rules]`  
+`[rules]Critical Hit[/rules]`  
+`[rules]Curses[/rules]`  
+`[rules]D20 Test[/rules]`  
+`[rules]Damage[/rules]`  
+`[rules]Damage Threshold[/rules]`  
+`[rules]Damage Types[/rules]`  
+`[rules]Darkness[/rules]`  
+`[rules]Darkvision[/rules]`  
+`[rules]Dead[/rules]`  
+`[rules]Death Saving Throw[/rules]`  
+`[rules]Difficult Terrain[/rules]`  
+`[rules]Difficulty Class[/rules]`  
+`[rules]Dim Light[/rules]`  
+`[rules]Disadvantage[/rules]`  
+`[rules]Encounter[/rules]`  
+`[rules]Enemy[/rules]`  
+`[rules]Experience Points[/rules]`  
+`[rules]Expertise[/rules]`  
+`[rules]Flying[/rules]`  
+`[rules]Grappling[/rules]`  
+`[rules]Healing[/rules]`  
+`[rules]Heavily Obscured[/rules]`  
+`[rules]Heroic Inspiration[/rules]`  
+`[rules]Hit Point Dice[/rules]`  
+`[rules]Hit Points[/rules]`  
+`[rules]Hover[/rules]`  
+`[rules]Illusions[/rules]`  
+`[rules]Immunity[/rules]`  
+`[rules]Improvised Weapons[/rules]`  
+`[rules]Initiative[/rules]`  
+`[rules]Knocking Out a Creature[/rules]`  
+`[rules]Lightly Obscured[/rules]`  
+`[rules]Long Rest[/rules]`  
+`[rules]Magical Effect[/rules]`  
+`[rules]Monster[/rules]`  
+`[rules]Nonplayer Character[/rules]`  
+`[rules]Object[/rules]`  
+`[rules]Occupied Space[/rules]`  
+`[rules]Opportunity Attacks[/rules]`  
+`[rules]Passive Perception[/rules]`  
+`[rules]Per Day[/rules]`  
+`[rules]Player Character[/rules]`  
+`[rules]Possession[/rules]`  
+`[rules]Proficiency[/rules]`  
+`[rules]Reaction[/rules]`  
+`[rules]Resistance[/rules]`  
+`[rules]Ritual[/rules]`  
+`[rules]Round Down[/rules]`  
+`[rules]Saving Throw[/rules]`  
+`[rules]Shape-Shifting[/rules]`  
+`[rules]Short Rest[/rules]`  
+`[rules]Simultaneous Effects[/rules]`  
+`[rules]Size[/rules]`  
+`[rules]Skill[/rules]`  
+`[rules]Speed[/rules]`  
+`[rules]Spell[/rules]`  
+`[rules]Spell Attack[/rules]`  
+`[rules]Spellcasting Focus[/rules]`  
+`[rules]Stable[/rules]`  
+`[rules]Stat Block[/rules]`  
+`[rules]Surprise[/rules]`  
+`[rules]Swimming[/rules]`  
+`[rules]Target[/rules]`  
+`[rules]Telepathy[/rules]`  
+`[rules]Teleportation[/rules]`  
+`[rules]Temporary Hit Points[/rules]`  
+`[rules]Tremorsense[/rules]`  
+`[rules]Truesight[/rules]`  
+`[rules]Unarmed Strike[/rules]`  
+`[rules]Unoccupied Space[/rules]`  
+`[rules]Vulnerability[/rules]`  
+`[rules]Weapon[/rules]`  
+`[rules]Weapon Attack[/rules]`  
 # Tooltips for the D&D Free Rules (2024)
 ## Spells (https://www.dndbeyond.com/spells?filter-source=148)
 `[spells]Spell Name[/spells]`
