@@ -1,22 +1,5 @@
 #### Tooltips for the D&D Free Rules (2024)
 
-items
-magicitems
-monsters
-monimgs
-
-sense
-skill
-spells
-wprops
-vehicles
-rules
-Hazard?
-Area of Effect?
-Damage Types?
-
-
-
 `[rules]Action[/rules]`  
 `[action]Attack[/action]`  
 `[action]Dash[/action]`  
@@ -72,6 +55,20 @@ Damage Types?
 `[rules]High Jump[/rules]`  
 `[rules]Long Jump[/rules]`  
 
+items
+magicitems
+monsters
+monimgs
+
+sense
+skill
+spells
+wprops
+vehicles
+rules
+Hazard?
+Area of Effect?
+Damage Types?
 
 Ability Check
 Ability Score and Modifier
@@ -173,3 +170,18 @@ Unoccupied Space
 Vulnerability
 Weapon
 Weapon Attack
+
+https://www.dndbeyond.com/spells?filter-search=&filter-verbal=&filter-somatic=&filter-material=&filter-concentration=&filter-ritual=&filter-source=&filter-partnered-content=f
+# Tooltips for the Basic Rules (2024)
+## Spells (https://www.dndbeyond.com/spells?filter-source=148)
+`[spells]Spell Name[/spells]`
+## Equipment (https://www.dndbeyond.com/equipment?filter-source=148)
+`[item]Item Name[/item]`
+## Magic Items (https://www.dndbeyond.com/magic-items?filter-source=148)
+`[magicitem]Magic Item Name[/magicitem]`
+## Monsters (https://www.dndbeyond.com/monsters?filter-source=148)
+`[monster]Monster Name[/monster]`
+## Monster Images (https://www.dndbeyond.com/monsters?filter-source=148)
+`[monimg]Monster Name[/monimg]`
+## Vehicles (https://www.dndbeyond.com/vehicles)
+`[vehicle]Vehicle Name[/vehicle]`
