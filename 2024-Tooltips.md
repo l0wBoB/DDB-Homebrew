@@ -14,6 +14,7 @@
 `[rules]Proficiency[/rules]`  
 #### Skill Proficiencies
 `[rules]Skill[/rules]`  
+##### Skill List
 `[skill]Athletics[/skill]`  
 `[skill]Acrobatics[/skill]`  
 `[skill]Sleight of Hand[/skill]`  
