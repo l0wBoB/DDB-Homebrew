@@ -66,19 +66,17 @@
 `[wprops]Two-Handed[wprops]`  
 `[wprops]Versatile[wprops]`  
 
-Cleave
-Graze
-Nick
-Push
-Sap
-Slow
-Topple
-Vex
+`[wprops]Cleave[wprops]`  
+`[wprops]Graze[wprops]`  
+`[wprops]Nick[wprops]`  
+`[wprops]Push[wprops]`  
+`[wprops]Sap[wprops]`  
+`[wprops]Slow[wprops]`  
+`[wprops]Topple[wprops]`  
+`[wprops]Vex[wprops]`  
 
 sense
 skill
-spells
-wprops
 rules
 
 Damage Types?
