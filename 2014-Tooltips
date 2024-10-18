@@ -1,0 +1,31 @@
+## Tooltips for 2014 Rules
+
+# Actions (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#ActionsinCombat)
+[action]Attack[/action]
+[action]Cast a Spell[/action]
+[action]Dash[/action]
+[action]Disengage[/action]
+[action]Dodge[/action]
+[action]Help[/action]
+[action]Hide[/action]
+[action]Ready[/action]
+[action]Search[/action]
+[action]Use an Object[/action]
+
+# Conditions (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/appendix-a-conditions)
+[condition]Blinded[/condition]
+[condition]Charmed
+[condition]Deafened
+[condition]Exhaustion
+[condition]Frightened
+[condition]Grappled
+[condition]Incapacitated
+[condition]Invisible
+[condition]Paralyzed
+[condition]Petrified
+[condition]Poisoned
+[condition]Prone
+[condition]Restrained
+[condition]Stunned
+[condition]Unconscious
+
