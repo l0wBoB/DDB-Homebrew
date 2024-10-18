@@ -10,11 +10,15 @@
 `[rules]Ability Score and Modifier[/rules]`  
 ### D20 Tests
 `[rules]D20 Test[/rules]`  
+`[rules]Difficulty Class[/rules]`  
+#### Ability Checks
+`[rules]Ability Check[/rules]`  
+#### Saving Throws
+`[rules]Saving Throw[/rules]`  
 ### Proficiency
 `[rules]Proficiency[/rules]`  
 #### Skill Proficiencies
 `[rules]Skill[/rules]`  
-##### Skill List
 `[skill]Athletics[/skill]`  
 `[skill]Acrobatics[/skill]`  
 `[skill]Sleight of Hand[/skill]`  
@@ -33,9 +37,7 @@
 `[skill]Intimidation[/skill]`  
 `[skill]Performance[/skill]`  
 `[skill]Persuasion[/skill]`
-
-
----
+### Actions
 `[rules]Action[/rules]`  
 `[action]Attack[/action]`  
 `[action]Dash[/action]`  
@@ -49,6 +51,19 @@
 `[action]Search[/action]`  
 `[action]Study[/action]`  
 `[action]Utilize[/action]`  
+`[rules]Bonus Action[/rules]`  
+`[rules]Reaction[/rules]`  
+### Social Interaction
+`[rules]Attitude[/rules]`  
+`[rules]Friendly[/rules]`  
+`[rules]Hostile[/rules]`  
+`[rules]Indifferent[/rules]`  
+### Combat
+
+
+
+---
+
 
 `[rules]Area of Effect[/rules]`  
 `[rules]Cone[/rules]`  
@@ -58,10 +73,7 @@
 `[rules]Line[/rules]`  
 `[rules]Sphere[/rules]`  
 
-`[rules]Attitude[/rules]`  
-`[rules]Friendly[/rules]`  
-`[rules]Hostile[/rules]`  
-`[rules]Indifferent[/rules]`  
+
 
 `[rules]Condition[/rules]`  
 `[condition]Blinded[/condition]`  
@@ -129,7 +141,7 @@
 `[action]Shove[/action]`  
 `[action]Opportunity Attack[/action]`  
 
-`[rules]Ability Check[/rules]`  
+
 
 `[rules]Advantage[/rules]`  
 
@@ -140,7 +152,7 @@
 `[rules]Attack Roll[/rules]`  
 `[rules]Attunement[/rules]`  
 `[rules]Bloodied[/rules]`  
-`[rules]Bonus Action[/rules]`  
+
 `[rules]Breaking Objects[/rules]`  
 `[rules]Bright Light[/rules]`  
 `[rules]Burrow Speed[/rules]`  
@@ -164,7 +176,7 @@
 `[rules]Dead[/rules]`  
 `[rules]Death Saving Throw[/rules]`  
 `[rules]Difficult Terrain[/rules]`  
-`[rules]Difficulty Class[/rules]`  
+
 `[rules]Dim Light[/rules]`  
 `[rules]Disadvantage[/rules]`  
 `[rules]Encounter[/rules]`  
@@ -195,11 +207,10 @@
 `[rules]Player Character[/rules]`  
 `[rules]Possession[/rules]`  
 
-`[rules]Reaction[/rules]`  
 `[rules]Resistance[/rules]`  
 `[rules]Ritual[/rules]`  
 `[rules]Round Down[/rules]`  
-`[rules]Saving Throw[/rules]`  
+
 `[rules]Shape-Shifting[/rules]`  
 `[rules]Short Rest[/rules]`  
 `[rules]Simultaneous Effects[/rules]`  
