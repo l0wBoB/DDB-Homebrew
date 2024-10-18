@@ -174,7 +174,7 @@
 `[wprop]Burst Fire[/wprop]`  
 `[wprop]Reload[/wprop]`
 # Tooltips for the Basic Rules (2014), Dungeon Master's Guide (2014) and Monster Manual (2014)
-## Spells (https://www.dndbeyond.com/spells?filter-search=&filter-source=1&filter-source=3&filter-source=5)
+## Spells (https://www.dndbeyond.com/spells?filter-source=1&filter-source=3&filter-source=5)
 `[spell]Spell Name[/spell]`
 ## Equipment (https://www.dndbeyond.com/equipment?filter-source=1&filter-source=3&filter-source=5)
 `[item]Item Name[/item]`
