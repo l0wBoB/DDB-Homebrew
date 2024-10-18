@@ -1,28 +1,26 @@
-### Tooltips for the Basic Rules (2014)
+#### Tooltips for the Basic Rules (2014)
 
-## Chapter 1: Step-By-Step Characters
-
-# Level (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/step-by-step-characters#Level)
+### Chapter 1: Step-By-Step Characters
+## 2. Choose a Class
+# Level
 [rule]Level[/rule]
 [rule]Experience Points[/rule]
-# Hit Points and Hit Dice (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/step-by-step-characters#HitPointsandHitDice)
+# Hit Points and Hit Dice
 [rule]Hit Dice[/rule]
-# Armor Class (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/step-by-step-characters#ArmorClass)
+## 5. Choose Equipment
+# Armor Class
 [rule]Armor Class[/rule]
 
-## Chapter 2: Races
-
-# Choosing a Race (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/races#ChoosingaRace)
+### Chapter 2: Races
+## Choosing a Race
 [rule]Race[/rule]
 
-## Chapter 3: Classes
-
-# Classes (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes)
+### Chapter 3: Classes
+## Classes
 [rule]Class[/rule]
 
-## Chapter 4: Personality and Background
-
-# Alignment (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/personality-and-background#Alignment)
+### Chapter 4: Personality and Background
+## Alignment
 [rule]Alignment[/rule]
 [rule]Lawful Good[/rule]
 [rule]Neutral Good[/rule]
@@ -33,19 +31,19 @@
 [rule]Lawful Evil[/rule]
 [rule]Neutral Evil[/rule]
 [rule]Chaotic Evil[/rule]
-# Personal Characteristics (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/personality-and-background#PersonalCharacteristics)
+## Personal Characteristics
 [rule]Personality Traits[/rule]
 [rule]Ideals[/rule]
 [rule]Bonds[/rule]
 [rule]Flaws[/rule]
-# Inspiration (https://www.dndbeyond.com/sources/dnd/phb-2014/personality-and-background#Inspiration)
+## Inspiration
 [rule]Inspiration[/rule]
-# Backgrounds (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/personality-and-background#Backgrounds)
+## Backgrounds
 [rule]Background[/rule]
 
-## Chapter 5: Equipment
-
-# Weapon Properties (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/equipment#WeaponProperties)
+### Chapter 5: Equipment
+## Weapons
+# Properties
 [wprop]Ammunition[/wprop]
 [wprop]Finesse[/wprop]
 [wprop]Heavy[/wprop]
@@ -58,61 +56,57 @@
 [wprop]Two-Handed[/wprop]
 [wprop]Versatile[/wprop]
 
-## Chapter 7: Using Ability Scores
-
-# Ability Scores and Modifiers (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#AbilityScoresandModifiers)
+### Chapter 7: Using Ability Scores
+## Ability Scores and Modifiers
 [rule]Ability Scores[/rule]
-# Advantage and Disadvantage (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#AdvantageandDisadvantage)
+## Advantage and Disadvantage
 [rule]Advantage[/rule]
 [rule]Disadvantage[/rule]
-# Proficiency Bonus (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#ProficiencyBonus)
+## Proficiency Bonus
 [rule]Proficiency Bonus[/rule]
-# Strength Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#StrengthChecks)
+## Ability Checks
+# Skills
 [skill]Athletics[/skill]
-# Dexterity Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#DexterityChecks)
 [skill]Acrobatics[/skill]
 [skill]Sleight of Hand[/skill]
 [skill]Stealth[/skill]
-# Intelligence Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#IntelligenceChecks)
 [skill]Arcana[/skill]
 [skill]History[/skill]
 [skill]Investigation[/skill]
 [skill]Nature[/skill]
 [skill]Religion[/skill]
-# Wisdom Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#WisdomChecks)
 [skill]Animal Handling[/skill]
 [skill]Insight[/skill]
 [skill]Medicine[/skill]
 [skill]Perception[/skill]
 [skill]Survival[/skill]
-# Charisma Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#CharismaChecks)
 [skill]Deception[/skill]
 [skill]Intimidation[/skill]
 [skill]Performance[/skill]
 [skill]Persuasion[/skill]
-# Saving Throws (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#SavingThrows)
+# Passive Checks
+[rule]Senses (Passive Checks)[/rule]
+## Saving Throws
 [rule]Saving Throws[/rule]
 
-## Chapter 8: Adventuring
-
-# Movement (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/adventuring#Movement)
+### Chapter 8: Adventuring
+## Movement
 [rule]Speed[/rule]
 [rule]Difficult Terrain[/rule]
 [rule]Climbing Swimming Crawling[/rule]
-# Environment (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/adventuring#TheEnvironment)
+## The Environment
 [rule]Falling[/rule]
 [rule]Suffocating[/rule]
 [rule]Lightly Obscured[/rule]
 [rule]Heavily Obscured[/rule]
 
-## Chapter 9: Combat
-
-# Order of Combat (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#TheOrderofCombat)
+### Chapter 9: Combat
+## The Order of Combat
 [rule]Surprise[/rule]
 [rule]Initiative[/rule]
-# Movement and Position (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#MovementandPosition)
+## Movement and Position
 [rule]Flying[/rule]
-# Actions in Combat (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#ActionsinCombat)
+## Actions in Combat
 [action]Attack[/action]
 [action]Cast a Spell[/action]
 [action]Dash[/action]
@@ -123,15 +117,16 @@
 [action]Ready[/action]
 [action]Search[/action]
 [action]Use an Object[/action]
-# Cover (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#Cover)
+## Cover
 [rule]Half Cover[/rule]
 [rule]Three-Quarters Cover[/rule]
 [rule]Total Cover[/rule]
-# Hit Points (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#HitPoints)
+## Damage and Healing
+# Hit Points
 [rule]Hit Points[/rule]
-# Critical Hits (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#CriticalHits)
+# Critical Hits
 [rule]Critical Hits[/rule]
-# Damage Types (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#DamageTypes)
+# Damage Types
 [rule]Acid Damage[/rule]
 [rule]Bludgeoning Damage[/rule]
 [rule]Cold Damage[/rule]
@@ -145,29 +140,27 @@
 [rule]Radiant Damage[/rule]
 [rule]Slashing Damage[/rule]
 [rule]Thunder Damage[/rule]
-# Damage Resistance and Vulnerability (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#DamageResistanceandVulnerability)
+# Damage Resistance and Vulnerability
 [rule]Damage Resistance[/rule]
 [rule]Damage Vulnerability[/rule]
-# Dropping to 0 Hit Points (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#Droppingto0HitPoints)
+# Dropping to 0 Hit Points
 [rule]Instant Death[/rule]
 [rule]Death Saving Throws[/rule]
-# Temporary Hit Points (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#TemporaryHitPoints)
+# Temporary Hit Points
 [rule]Temporary Hit Points[/rule]
-# Underwater Combat (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#UnderwaterCombat)
+# Underwater Combat
 [rule]Underwater[/rule]
 
-## Chapter 12: Monsters
-
-# Senses (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/monsters#Senses)
+### Chapter 12: Monsters
+## Monster Statistics
+# Senses
 [rule]Senses[/rule]
 [sense]Blindsight[/sense]
 [sense]Darkvision[/sense]
 [sense]Tremorsense[/sense]
 [sense]Truesight[/sense]
 
-## Appendix A: Conditions
-
-# Conditions (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/appendix-a-conditions)
+### Appendix A: Conditions
 [condition]Blinded[/condition]
 [condition]Charmed[/condition]
 [condition]Deafened[/condition]
@@ -184,20 +177,31 @@
 [condition]Stunned[/condition]
 [condition]Unconscious[/condition]
 
-# Spells (https://www.dndbeyond.com/spells)
+#### Tooltips for the Dungeon Master's Guide (2014)
+
+### Chapter 9: Dungeon Master's Workshop
+## Adventuring Options
+# Firearms
+[wprop]Ammunition (Firearms)[/wprop]
+[wprop]Burst Fire[/wprop]
+[wprop]Reload[/wprop]
+
+#### Tooltips for the Basic Rules (2014), Dungeon Master's Guide (2014) and Monster Manual (2014)
+
+### Spells (https://www.dndbeyond.com/spells?filter-search=&filter-source=1&filter-source=3&filter-source=5)
 [spell]*[/spell]
 
-# Equipment (https://www.dndbeyond.com/equipment)
+### Equipment (https://www.dndbeyond.com/equipment?filter-source=1&filter-source=3&filter-source=5)
 [item]*[/item]
 
-# Magic Items (https://www.dndbeyond.com/magic-items)
+### Magic Items (https://www.dndbeyond.com/magic-items?filter-source=1&filter-source=3&filter-source=5)
 [magicitem]*[/magicitem]
 
-# Monsters (https://www.dndbeyond.com/monsters)
+### Monsters (https://www.dndbeyond.com/monsters?filter-source=1&filter-source=3&filter-source=5)
 [monster]*[/monster]
 
-# Monster Images (https://www.dndbeyond.com/monsters)
+### Monster Images (https://www.dndbeyond.com/monsters?filter-source=1&filter-source=3&filter-source=5)
 [monimg]*[/monimg]
 
-# Vehicles (https://www.dndbeyond.com/vehicles)
+### Vehicles (https://www.dndbeyond.com/vehicles)
 [vehicle]*[/vehicle]
