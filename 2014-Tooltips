@@ -1,45 +1,29 @@
-# Tooltips for 2014 Rules
+### Tooltips for the Basic Rules (2014)
 
-# Actions (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#ActionsinCombat)
-[action]Attack[/action]
-[action]Cast a Spell[/action]
-[action]Dash[/action]
-[action]Disengage[/action]
-[action]Dodge[/action]
-[action]Help[/action]
-[action]Hide[/action]
-[action]Ready[/action]
-[action]Search[/action]
-[action]Use an Object[/action]
+## Chapter 1: Step-By-Step Characters
 
-# Conditions (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/appendix-a-conditions)
-[condition]Blinded[/condition]
-[condition]Charmed[/condition]
-[condition]Deafened[/condition]
-[condition]Exhaustion[/condition]
-[condition]Frightened[/condition]
-[condition]Grappled[/condition]
-[condition]Incapacitated[/condition]
-[condition]Invisible[/condition]
-[condition]Paralyzed[/condition]
-[condition]Petrified[/condition]
-[condition]Poisoned[/condition]
-[condition]Prone[/condition]
-[condition]Restrained[/condition]
-[condition]Stunned[/condition]
-[condition]Unconscious[/condition]
+# Level (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/step-by-step-characters#Level)
+[rule]Level[/rule]
+[rule]Experience Points[/rule]
+# Hit Points and Hit Dice (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/step-by-step-characters#HitPointsandHitDice)
+[rule]Hit Dice[/rule]
+# Armor Class (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/step-by-step-characters#ArmorClass)
+[rule]Armor Class[/rule]
 
-# Items
-[item]*[/item]
+## Chapter 2: Races
 
-# Magic Items
-[magicItem]*[/magicItem]
+# Choosing a Race (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/races#ChoosingaRace)
+[rule]Race[/rule]
+[rule]Races[/rule]
+[rule]Species[/rule]
 
-# Monsters
-[monster]*[/monster]
+## Chapter 3: Classes
 
-# Monster Images
-[monimg]*[/monimg]
+# Classes (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/classes)
+[rule]Class[/rule]
+[rule]Classes[/rule]
+
+## Chapter 4: Personality and Background
 
 # Alignment (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/personality-and-background#Alignment)
 [rule]Alignment[/rule]
@@ -53,6 +37,34 @@
 [rule]Neutral Evil[/rule]
 [rule]Chaotic Evil[/rule]
 [rule]Unaligned[/rule]
+# Personal Characteristics (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/personality-and-background#PersonalCharacteristics)
+[rule]Personality Traits[/rule]
+[rule]Ideals[/rule]
+[rule]Bonds[/rule]
+[rule]Flaws[/rule]
+# Inspiration (https://www.dndbeyond.com/sources/dnd/phb-2014/personality-and-background#Inspiration)
+[rule]Inspiration[/rule]
+# Backgrounds (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/personality-and-background#Backgrounds)
+[rule]Background[/rule]
+[rule]Backgrounds[/rule]
+
+## Chapter 5: Equipment
+
+# Weapon Properties (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/equipment#WeaponProperties)
+[wprop]Ammunition[/wprop]
+[wprop]Finesse[/wprop]
+[wprop]Heavy[/wprop]
+[wprop]Light[/wprop]
+[wprop]Loading[/wprop]
+[wprop]Range[/wprop]
+[wprop]Reach[/wprop]
+[wprop]Special[/wprop]
+[wprop]Thrown[/wprop]
+[wprop]Two-Handed[/wprop]
+[wprop]Versatile[/wprop]
+
+## Chapter 7: Using Ability Scores
+
 # Ability Scores and Modifiers (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#AbilityScoresandModifiers)
 [rule]Ability Scores[/rule]
 [rule]Modifiers[/rule]
@@ -62,8 +74,9 @@
 # Proficiency Bonus (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#ProficiencyBonus)
 [rule]Proficiency[/rule]
 [rule]Proficiency Bonus[/rule]
-
 # Ability Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#AbilityChecks)
+[rule]Ability Check[/rule]
+[rule]Ability Checks[/rule]
 [rule]Difficulty Class[/rule]
 [rule]Difficulty Classes[/rule]
 # Strength Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#StrengthChecks)
@@ -89,6 +102,11 @@
 [skill]Intimidation[/skill]
 [skill]Performance[/skill]
 [skill]Persuasion[/skill]
+# Saving Throws (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#SavingThrows)
+[rule]Saving Throw[/rule]
+[rule]Saving Throws[/rule]
+
+## Chapter 8: Adventuring
 
 # Movement (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/adventuring#Movement)
 [rule]Speed[/rule]
@@ -109,8 +127,35 @@
 [rule]Resting[/rule]
 [rule]Short Rest[/rule]
 [rule]Long Rest[/rule]
+
+## Chapter 9: Combat
+
+# Order of Combat (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#TheOrderofCombat)
+[rule]Surprise[/rule]
+[rule]Initiative[/rule]
 # Movement and Position (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#MovementandPosition)
 [rule]Flying[/rule]
+# Actions in Combat (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#ActionsinCombat)
+[action]Attack[/action]
+[action]Cast a Spell[/action]
+[action]Dash[/action]
+[action]Disengage[/action]
+[action]Dodge[/action]
+[action]Help[/action]
+[action]Hide[/action]
+[action]Ready[/action]
+[action]Search[/action]
+[action]Use an Object[/action]
+# Cover (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#Cover)
+[rule]Cover[/rule]
+[rule]Half Cover[/rule]
+[rule]Three-Quarters Cover[/rule]
+[rule]Total Cover[/rule]
+# Hit Points (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#HitPoints)
+[rule]Hit Points[/rule]
+# Critical Hits (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#CriticalHits)
+[rule]Critical Hit[/rule]
+[rule]Critical Hits[/rule]
 # Damage Types (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#DamageTypes)
 [rule]Acid Damage[/rule]
 [rule]Bludgeoning Damage[/rule]
@@ -125,8 +170,19 @@
 [rule]Radiant Damage[/rule]
 [rule]Slashing Damage[/rule]
 [rule]Thunder Damage[/rule]
+# Damage Resistance and Vulnerability (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#DamageResistanceandVulnerability)
+[rule]Damage Resistance[/rule]
+[rule]Damage Vulnerability[/rule]
+# Dropping to 0 Hit Points (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#Droppingto0HitPoints)
+[rule]Instant Death[/rule]
+[rule]Death Saving Throw[/rule]
+[rule]Death Saving Throws[/rule]
+# Temporary Hit Points (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#TemporaryHitPoints)
+[rule]Temporary Hit Points[/rule]
 # Underwater Combat (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#UnderwaterCombat)
 [rule]Underwater[/rule]
+
+## Chapter 12: Monsters
 
 # Senses (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/monsters#Senses)
 [rule]Senses[/rule]
@@ -135,23 +191,39 @@
 [sense]Tremorsense[/sense]
 [sense]Truesight[/sense]
 
+## Appendix A: Conditions
 
+# Conditions (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/appendix-a-conditions)
+[condition]Blinded[/condition]
+[condition]Charmed[/condition]
+[condition]Deafened[/condition]
+[condition]Exhaustion[/condition]
+[condition]Frightened[/condition]
+[condition]Grappled[/condition]
+[condition]Incapacitated[/condition]
+[condition]Invisible[/condition]
+[condition]Paralyzed[/condition]
+[condition]Petrified[/condition]
+[condition]Poisoned[/condition]
+[condition]Prone[/condition]
+[condition]Restrained[/condition]
+[condition]Stunned[/condition]
+[condition]Unconscious[/condition]
 
-# Spells
+# Spells (https://www.dndbeyond.com/spells)
 [spell]*[/spell]
 
-# Weapon Properties (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/equipment#WeaponProperties)
-[wprop]Ammunition[/wprop]
-[wprop]Finesse[/wprop]
-[wprop]Heavy[/wprop]
-[wprop]Light[/wprop]
-[wprop]Loading[/wprop]
-[wprop]Range[/wprop]
-[wprop]Reach[/wprop]
-[wprop]Special[/wprop]
-[wprop]Thrown[/wprop]
-[wprop]Two-Handed[/wprop]
-[wprop]Versatile[/wprop]
+# Equipment (https://www.dndbeyond.com/equipment)
+[item]*[/item]
+
+# Magic Items (https://www.dndbeyond.com/magic-items)
+[magicItem]*[/magicItem]
+
+# Monsters (https://www.dndbeyond.com/monsters)
+[monster]*[/monster]
+
+# Monster Images (https://www.dndbeyond.com/monsters)
+[monimg]*[/monimg]
 
 # Vehicles (https://www.dndbeyond.com/vehicles)
 [vehicle]*[/vehicle]
