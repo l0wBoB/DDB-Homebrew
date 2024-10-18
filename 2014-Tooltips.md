@@ -109,6 +109,9 @@
 `[action]Ready[/action]`  
 `[action]Search[/action]`  
 `[action]Use an Object[/action]`
+### Making an Attack
+#### Melee Attacks
+`[action]Opportunity Attack[/action]`
 ### Cover
 `[rule]Half Cover[/rule]`  
 `[rule]Three-Quarters Cover[/rule]`  
