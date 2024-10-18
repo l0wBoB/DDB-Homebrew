@@ -55,25 +55,25 @@
 `[rules]High Jump[/rules]`  
 `[rules]Long Jump[/rules]`  
 
-`[wprops]Ammunition[/wprops]`  
-`[wprops]Finesse[/wprops]`  
-`[wprops]Heavy[/wprops]`  
-`[wprops]Light[/wprops]`  
-`[wprops]Loading[/wprops]`  
-`[wprops]Range[/wprops]`  
-`[wprops]Reach[/wprops]`  
-`[wprops]Thrown[/wprops]`  
-`[wprops]Two-Handed[/wprops]`  
-`[wprops]Versatile[/wprops]`  
+`[wprop]Ammunition[/wprop]`  
+`[wprop]Finesse[/wprop]`  
+`[wprop]Heavy[/wprop]`  
+`[wprop]Light[/wprop]`  
+`[wprop]Loading[/wprop]`  
+`[wprop]Range[/wprop]`  
+`[wprop]Reach[/wprop]`  
+`[wprop]Thrown[/wprop]`  
+`[wprop]Two-Handed[/wprop]`  
+`[wprop]Versatile[/wprop]`  
 
-`[wprops]Cleave[/wprops]`  
-`[wprops]Graze[/wprops]`  
-`[wprops]Nick[/wprops]`  
-`[wprops]Push[/wprops]`  
-`[wprops]Sap[/wprops]`  
-`[wprops]Slow[/wprops]`  
-`[wprops]Topple[/wprops]`  
-`[wprops]Vex[/wprops]`  
+`[wprop]Cleave[/wprop]`  
+`[wprop]Graze[/wprop]`  
+`[wprop]Nick[/wprop]`  
+`[wprop]Push[/wprop]`  
+`[wprop]Sap[/wprop]`  
+`[wprop]Slow[/wprop]`  
+`[wprop]Topple[/wprop]`  
+`[wprop]Vex[/wprop]`  
 
 sense
 skill
