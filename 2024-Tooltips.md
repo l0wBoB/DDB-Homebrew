@@ -107,6 +107,7 @@
 `[sense]Truesight[/sense]`  
 
 `[action]Grapple[/action]`  
+`[action]Shove[/action]`  
 `[action]Opportunity Attack[/action]`  
 
 `[rules]Ability Check[/rules]`  
