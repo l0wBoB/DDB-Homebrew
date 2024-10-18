@@ -1,4 +1,4 @@
-## Tooltips for 2014 Rules
+# Tooltips for 2014 Rules
 
 # Actions (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#ActionsinCombat)
 [action]Attack[/action]
@@ -14,18 +14,144 @@
 
 # Conditions (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/appendix-a-conditions)
 [condition]Blinded[/condition]
-[condition]Charmed
-[condition]Deafened
-[condition]Exhaustion
-[condition]Frightened
-[condition]Grappled
-[condition]Incapacitated
-[condition]Invisible
-[condition]Paralyzed
-[condition]Petrified
-[condition]Poisoned
-[condition]Prone
-[condition]Restrained
-[condition]Stunned
-[condition]Unconscious
+[condition]Charmed[/condition]
+[condition]Deafened[/condition]
+[condition]Exhaustion[/condition]
+[condition]Frightened[/condition]
+[condition]Grappled[/condition]
+[condition]Incapacitated[/condition]
+[condition]Invisible[/condition]
+[condition]Paralyzed[/condition]
+[condition]Petrified[/condition]
+[condition]Poisoned[/condition]
+[condition]Prone[/condition]
+[condition]Restrained[/condition]
+[condition]Stunned[/condition]
+[condition]Unconscious[/condition]
 
+# Items
+[item]*[/item]
+
+# Magic Items
+[magicItem]*[/magicItem]
+
+# Monsters
+[monster]*[/monster]
+
+# Monster Images
+[monimg]*[/monimg]
+
+# Alignment (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/personality-and-background#Alignment)
+[rule]Alignment[/rule]
+[rule]Lawful Good[/rule]
+[rule]Neutral Good[/rule]
+[rule]Chaotic Good[/rule]
+[rule]Lawful Neutral[/rule]
+[rule]Neutral[/rule]
+[rule]Chaotic Neutral[/rule]
+[rule]Lawful Evil[/rule]
+[rule]Neutral Evil[/rule]
+[rule]Chaotic Evil[/rule]
+[rule]Unaligned[/rule]
+# Ability Scores and Modifiers (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#AbilityScoresandModifiers)
+[rule]Ability Scores[/rule]
+[rule]Modifiers[/rule]
+# Advantage and Disadvantage (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#AdvantageandDisadvantage)
+[rule]Advantage[/rule]
+[rule]Disadvantage[/rule]
+# Proficiency Bonus (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#ProficiencyBonus)
+[rule]Proficiency[/rule]
+[rule]Proficiency Bonus[/rule]
+
+# Ability Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#AbilityChecks)
+[rule]Difficulty Class[/rule]
+[rule]Difficulty Classes[/rule]
+# Strength Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#StrengthChecks)
+[skill]Athletics[/skill]
+# Dexterity Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#DexterityChecks)
+[skill]Acrobatics[/skill]
+[skill]Sleight of Hand[/skill]
+[skill]Stealth[/skill]
+# Intelligence Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#IntelligenceChecks)
+[skill]Arcana[/skill]
+[skill]History[/skill]
+[skill]Investigation[/skill]
+[skill]Nature[/skill]
+[skill]Religion[/skill]
+# Wisdom Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#WisdomChecks)
+[skill]Animal Handling[/skill]
+[skill]Insight[/skill]
+[skill]Medicine[/skill]
+[skill]Perception[/skill]
+[skill]Survival[/skill]
+# Charisma Checks (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/using-ability-scores#CharismaChecks)
+[skill]Deception[/skill]
+[skill]Intimidation[/skill]
+[skill]Performance[/skill]
+[skill]Persuasion[/skill]
+
+# Movement (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/adventuring#Movement)
+[rule]Speed[/rule]
+[rule]Travel Pace[/rule]
+[rule]Difficult Terrain[/rule]
+[rule]Climbing, Swimming, and Crawling[/rule]
+[rule]Jumping[/rule]
+# Environment (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/adventuring#TheEnvironment)
+[rule]Falling[/rule]
+[rule]Suffocating[/rule]
+[rule]Lightly Obscured[/rule]
+[rule]Heavily Obscured[/rule]
+[rule]Bright Light[/rule]
+[rule]Dim Light[/rule]
+[rule]Darkness[/rule]
+# Social Interaction (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/adventuring#SocialInteraction)
+[rule]Ability Checks[/rule]
+[rule]Resting[/rule]
+[rule]Short Rest[/rule]
+[rule]Long Rest[/rule]
+# Movement and Position (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#MovementandPosition)
+[rule]Flying[/rule]
+# Damage Types (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#DamageTypes)
+[rule]Acid Damage[/rule]
+[rule]Bludgeoning Damage[/rule]
+[rule]Cold Damage[/rule]
+[rule]Fire Damage[/rule]
+[rule]Force Damage[/rule]
+[rule]Lightning Damage[/rule]
+[rule]Necrotic Damage[/rule]
+[rule]Piercing Damage[/rule]
+[rule]Poison Damage[/rule]
+[rule]Psychic Damage[/rule]
+[rule]Radiant Damage[/rule]
+[rule]Slashing Damage[/rule]
+[rule]Thunder Damage[/rule]
+# Underwater Combat (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/combat#UnderwaterCombat)
+[rule]Underwater[/rule]
+
+# Senses (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/monsters#Senses)
+[rule]Senses[/rule]
+[sense]Blindsight[/sense]
+[sense]Darkvision[/sense]
+[sense]Tremorsense[/sense]
+[sense]Truesight[/sense]
+
+
+
+# Spells
+[spell]*[/spell]
+
+# Weapon Properties (https://www.dndbeyond.com/sources/dnd/basic-rules-2014/equipment#WeaponProperties)
+[wprop]Ammunition[/wprop]
+[wprop]Finesse[/wprop]
+[wprop]Heavy[/wprop]
+[wprop]Light[/wprop]
+[wprop]Loading[/wprop]
+[wprop]Range[/wprop]
+[wprop]Reach[/wprop]
+[wprop]Special[/wprop]
+[wprop]Thrown[/wprop]
+[wprop]Two-Handed[/wprop]
+[wprop]Versatile[/wprop]
+
+# Vehicles (https://www.dndbeyond.com/vehicles)
+[vehicle]*[/vehicle]
