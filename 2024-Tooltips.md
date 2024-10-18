@@ -12,6 +12,8 @@
 `[rules]Ability Check[/rules]`  
 `[rules]Saving Throw[/rules]`  
 `[rules]Attack Roll[/rules]`  
+`[rules]Advantage[/rules]`  
+`[rules]Disadvantage[/rules]`  
 ### Proficiency
 `[rules]Proficiency[/rules]`  
 `[rules]Skill[/rules]`  
@@ -54,6 +56,28 @@
 `[rules]Friendly[/rules]`  
 `[rules]Hostile[/rules]`  
 `[rules]Indifferent[/rules]`  
+### Exploration
+#### Vision and Light
+`[rules]Lightly Obscured[/rules]`  
+`[rules]Heavily Obscured[/rules]`  
+`[rules]Bright Light[/rules]`  
+`[rules]Dim Light[/rules]`  
+`[rules]Darkness[/rules]`  
+##### Special Senses
+`[sense]Blindsight[/sense]`  
+`[sense]Darkvision[/sense]`  
+`[sense]Tremorsense[/sense]`  
+`[sense]Truesight[/sense]`  
+#### Interacting with Objects
+`[rules]Object[/rules]`  
+`[rules]Breaking Objects[/rules]`  
+#### Hazards
+`[rules]Hazard[/rules]`  
+`[rules]Burning[/rules]`  
+`[rules]Dehydration[/rules]`  
+`[rules]Falling[/rules]`  
+`[rules]Malnutrition[/rules]`  
+`[rules]Suffocation[/rules]`  
 ### Combat
 #### The Order of Combat
 `[rules]Initiative[/rules]`  
@@ -114,34 +138,15 @@
 `[condition]Restrained[/condition]`  
 `[condition]Stunned[/condition]`  
 `[condition]Unconscious[/condition]`  
+## Creating a Character
+## Character Classes
+## Character Origins
 
-
-
-
----
-
-
-`[rules]Area of Effect[/rules]`  
-`[rules]Cone[/rules]`  
-`[rules]Cube[/rules]`  
-`[rules]Cylinder[/rules]`  
-`[rules]Emanation[/rules]`  
-`[rules]Line[/rules]`  
-`[rules]Sphere[/rules]`  
-
-
-
-
-
-`[rules]Hazard[/rules]`  
-`[rules]Burning[/rules]`  
-`[rules]Dehydration[/rules]`  
-`[rules]Falling[/rules]`  
-`[rules]Malnutrition[/rules]`  
-`[rules]Suffocation[/rules]`  
-
-
-
+## Equipment
+### Weapons
+`[rules]Weapon[/rules]`  
+`[rules]Improvised Weapons[/rules]`  
+#### Properties
 `[wprop]Ammunition[/wprop]`  
 `[wprop]Finesse[/wprop]`  
 `[wprop]Heavy[/wprop]`  
@@ -152,7 +157,7 @@
 `[wprop]Thrown[/wprop]`  
 `[wprop]Two-Handed[/wprop]`  
 `[wprop]Versatile[/wprop]`  
-
+#### Mastery Properties
 `[wprop]Cleave[/wprop]`  
 `[wprop]Graze[/wprop]`  
 `[wprop]Nick[/wprop]`  
@@ -161,6 +166,27 @@
 `[wprop]Slow[/wprop]`  
 `[wprop]Topple[/wprop]`  
 `[wprop]Vex[/wprop]`  
+### Armor
+`[rules]Armor Class[/rules]`  
+`[rules]Armor Training[/rules]`  
+### Magic Items
+`[rules]Attunement[/rules]`  
+## Spells
+`[rules]Spell[/rules]`  
+`[rules]Cantrip[/rules]`  
+`[rules]Ritual[/rules]`  
+`[rules]Concentration[/rules]`  
+`[rules]Spellcasting Focus[/rules]`  
+`[rules]Area of Effect[/rules]`  
+`[rules]Cone[/rules]`  
+`[rules]Cube[/rules]`  
+`[rules]Cylinder[/rules]`  
+`[rules]Emanation[/rules]`  
+`[rules]Line[/rules]`  
+`[rules]Sphere[/rules]`  
+`[rules]Spell Attack[/rules]`  
+
+---
 
 
 
@@ -170,10 +196,20 @@
 
 
 
-`[sense]Blindsight[/sense]`  
-`[sense]Darkvision[/sense]`  
-`[sense]Tremorsense[/sense]`  
-`[sense]Truesight[/sense]`  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 `[action]Two-Weapon Fighting[/action]`  
 `[action]Grapple[/action]`  
@@ -182,67 +218,46 @@
 
 
 
-`[rules]Advantage[/rules]`  
+
 `[rules]Alignment[/rules]`  
 `[rules]Ally[/rules]`  
-`[rules]Armor Class[/rules]`  
-`[rules]Armor Training[/rules]`  
-`[rules]Attunement[/rules]`  
-`[rules]Breaking Objects[/rules]`  
-`[rules]Bright Light[/rules]`  
+
+
 `[rules]Burrow Speed[/rules]`  
 `[rules]Campaign[/rules]`  
-`[rules]Cantrip[/rules]`  
 `[rules]Carrying Capacity[/rules]`  
 `[rules]Challenge Rating[/rules]`  
 `[rules]Character Sheet[/rules]`  
-`[rules]Concentration[/rules]`  
 `[rules]Creature[/rules]`  
 `[rules]Creature Type[/rules]`  
 `[rules]Curses[/rules]`  
 `[rules]Damage Threshold[/rules]`  
-`[rules]Darkness[/rules]`  
-`[rules]Dim Light[/rules]`  
-`[rules]Disadvantage[/rules]`  
+
 `[rules]Encounter[/rules]`  
 `[rules]Enemy[/rules]`  
 `[rules]Experience Points[/rules]`  
 `[rules]Expertise[/rules]`  
 `[rules]Flying[/rules]`  
-`[rules]Heavily Obscured[/rules]`  
+
 `[rules]Heroic Inspiration[/rules]`  
 `[rules]Hit Point Dice[/rules]`  
 `[rules]Hover[/rules]`  
 `[rules]Illusions[/rules]`  
-`[rules]Improvised Weapons[/rules]`  
-
-`[rules]Lightly Obscured[/rules]`  
 
 `[rules]Magical Effect[/rules]`  
 `[rules]Monster[/rules]`  
 `[rules]Nonplayer Character[/rules]`  
-`[rules]Object[/rules]`  
 `[rules]Passive Perception[/rules]`  
 `[rules]Per Day[/rules]`  
 `[rules]Player Character[/rules]`  
 `[rules]Possession[/rules]`  
-
-`[rules]Ritual[/rules]`  
 `[rules]Round Down[/rules]`  
 `[rules]Shape-Shifting[/rules]`  
-
 `[rules]Simultaneous Effects[/rules]`  
-`[rules]Spell[/rules]`  
-`[rules]Spell Attack[/rules]`  
-`[rules]Spellcasting Focus[/rules]`  
-`[rules]Stable[/rules]`  
 `[rules]Stat Block[/rules]`  
 `[rules]Telepathy[/rules]`  
 `[rules]Teleportation[/rules]`  
-
 `[rules]Unarmed Strike[/rules]`  
-
-`[rules]Weapon[/rules]`  
 `[rules]Weapon Attack[/rules]`  
 # Tooltips for the D&D Free Rules (2024)
 ## Spells (https://www.dndbeyond.com/spells?filter-source=148)
