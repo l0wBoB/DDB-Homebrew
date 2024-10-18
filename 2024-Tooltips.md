@@ -55,19 +55,32 @@
 `[rules]High Jump[/rules]`  
 `[rules]Long Jump[/rules]`  
 
-items
-magicitems
-monsters
-monimgs
+`[wprops]Ammunition[wprops]`  
+`[wprops]Finesse[wprops]`  
+`[wprops]Heavy[wprops]`  
+`[wprops]Light[wprops]`  
+`[wprops]Loading[wprops]`  
+`[wprops]Range[wprops]`  
+`[wprops]Reach[wprops]`  
+`[wprops]Thrown[wprops]`  
+`[wprops]Two-Handed[wprops]`  
+`[wprops]Versatile[wprops]`  
+
+Cleave
+Graze
+Nick
+Push
+Sap
+Slow
+Topple
+Vex
 
 sense
 skill
 spells
 wprops
-vehicles
 rules
-Hazard?
-Area of Effect?
+
 Damage Types?
 
 Ability Check
@@ -170,18 +183,16 @@ Unoccupied Space
 Vulnerability
 Weapon
 Weapon Attack
-
-https://www.dndbeyond.com/spells?filter-search=&filter-verbal=&filter-somatic=&filter-material=&filter-concentration=&filter-ritual=&filter-source=&filter-partnered-content=f
-# Tooltips for the Basic Rules (2024)
+# Tooltips for the D&D Free Rules (2024)
 ## Spells (https://www.dndbeyond.com/spells?filter-source=148)
 `[spells]Spell Name[/spells]`
 ## Equipment (https://www.dndbeyond.com/equipment?filter-source=148)
-`[item]Item Name[/item]`
+`[items]Item Name[/items]`
 ## Magic Items (https://www.dndbeyond.com/magic-items?filter-source=148)
-`[magicitem]Magic Item Name[/magicitem]`
+`[magicitems]Magic Item Name[/magicitems]`
 ## Monsters (https://www.dndbeyond.com/monsters?filter-source=148)
-`[monster]Monster Name[/monster]`
+`[monsters]Monster Name[/monsters]`
 ## Monster Images (https://www.dndbeyond.com/monsters?filter-source=148)
-`[monimg]Monster Name[/monimg]`
+`[monimgs]Monster Name[/monimgs]`
 ## Vehicles (https://www.dndbeyond.com/vehicles)
-`[vehicle]Vehicle Name[/vehicle]`
+`[vehicles]Vehicle Name[/vehicles]`
