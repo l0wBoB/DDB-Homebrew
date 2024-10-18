@@ -106,6 +106,7 @@
 `[sense]Tremorsense[/sense]`  
 `[sense]Truesight[/sense]`  
 
+`[action]Two-Weapon Fighting[/action]`  
 `[action]Grapple[/action]`  
 `[action]Shove[/action]`  
 `[action]Opportunity Attack[/action]`  
