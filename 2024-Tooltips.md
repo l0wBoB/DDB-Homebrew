@@ -1,23 +1,19 @@
 # Tooltips for the D&D Free Rules (2024)
 ## Playing the Game
 ### Player or DM?
-#### Being the Dungeon Master
 `[rules]Adventure[/rules]`
 ### Dice
-#### What are Dice for?
 `[rules]Damage[/rules]`  
 ### The Six Abilities
 `[rules]Ability Score and Modifier[/rules]`  
 ### D20 Tests
 `[rules]D20 Test[/rules]`  
 `[rules]Difficulty Class[/rules]`  
-#### Ability Checks
 `[rules]Ability Check[/rules]`  
-#### Saving Throws
 `[rules]Saving Throw[/rules]`  
+`[rules]Attack Roll[/rules]`  
 ### Proficiency
 `[rules]Proficiency[/rules]`  
-#### Skill Proficiencies
 `[rules]Skill[/rules]`  
 `[skill]Athletics[/skill]`  
 `[skill]Acrobatics[/skill]`  
@@ -59,22 +55,49 @@
 `[rules]Hostile[/rules]`  
 `[rules]Indifferent[/rules]`  
 ### Combat
-
-
-
----
-
-
-`[rules]Area of Effect[/rules]`  
-`[rules]Cone[/rules]`  
-`[rules]Cube[/rules]`  
-`[rules]Cylinder[/rules]`  
-`[rules]Emanation[/rules]`  
-`[rules]Line[/rules]`  
-`[rules]Sphere[/rules]`  
-
-
-
+#### The Order of Combat
+`[rules]Initiative[/rules]`  
+`[rules]Surprise[/rules]`  
+#### Movement and Position
+`[rules]Speed[/rules]`  
+`[rules]Climbing[/rules]`  
+`[rules]Crawling[/rules]`  
+`[rules]Jumping[/rules]`  
+`[rules]Long Jump[/rules]`  
+`[rules]High Jump[/rules]`  
+`[rules]Swimming[/rules]`  
+`[rules]Difficult Terrain[/rules]`  
+`[rules]Size[/rules]`  
+`[rules]Occupied Space[/rules]`  
+`[rules]Unoccupied Space[/rules]`  
+#### Making an Attack
+`[rules]Target[/rules]`  
+#### Cover
+`[rules]Cover[/rules]`  
+`[rules]Half Cover[/rules]`  
+`[rules]Three-Quarters Cover[/rules]`  
+`[rules]Total Cover[/rules]`  
+#### Melee Attacks
+`[action]Opportunity Attack[/action]`  
+#### Underwater Combat
+`[rules]Swim Speed[/rules]`  
+### Damage and Healing
+`[rules]Hit Points[/rules]`  
+`[rules]Bloodied[/rules]`  
+`[rules]Critical Hit[/rules]`  
+`[rules]Damage Types[/rules]`  
+`[rules]Resistance[/rules]`  
+`[rules]Vulnerability[/rules]`  
+`[rules]Immunity[/rules]`  
+`[rules]Healing[/rules]`  
+`[rules]Short Rest[/rules]`  
+`[rules]Long Rest[/rules]`  
+`[rules]Dead[/rules]`  
+`[rules]Knocking Out a Creature[/rules]`  
+`[rules]Death Saving Throw[/rules]`  
+`[rules]Stable[/rules]`  
+`[rules]Temporary Hit Points[/rules]`  
+### Conditions
 `[rules]Condition[/rules]`  
 `[condition]Blinded[/condition]`  
 `[condition]Charmed[/condition]`  
@@ -92,6 +115,24 @@
 `[condition]Stunned[/condition]`  
 `[condition]Unconscious[/condition]`  
 
+
+
+
+---
+
+
+`[rules]Area of Effect[/rules]`  
+`[rules]Cone[/rules]`  
+`[rules]Cube[/rules]`  
+`[rules]Cylinder[/rules]`  
+`[rules]Emanation[/rules]`  
+`[rules]Line[/rules]`  
+`[rules]Sphere[/rules]`  
+
+
+
+
+
 `[rules]Hazard[/rules]`  
 `[rules]Burning[/rules]`  
 `[rules]Dehydration[/rules]`  
@@ -99,9 +140,7 @@
 `[rules]Malnutrition[/rules]`  
 `[rules]Suffocation[/rules]`  
 
-`[rules]Jumping[/rules]`  
-`[rules]High Jump[/rules]`  
-`[rules]Long Jump[/rules]`  
+
 
 `[wprop]Ammunition[/wprop]`  
 `[wprop]Finesse[/wprop]`  
@@ -127,7 +166,7 @@
 
 
 
-`[rules]Damage Types[/rules]`  
+
 
 
 
@@ -139,20 +178,16 @@
 `[action]Two-Weapon Fighting[/action]`  
 `[action]Grapple[/action]`  
 `[action]Shove[/action]`  
-`[action]Opportunity Attack[/action]`  
+
 
 
 
 `[rules]Advantage[/rules]`  
-
 `[rules]Alignment[/rules]`  
 `[rules]Ally[/rules]`  
 `[rules]Armor Class[/rules]`  
 `[rules]Armor Training[/rules]`  
-`[rules]Attack Roll[/rules]`  
 `[rules]Attunement[/rules]`  
-`[rules]Bloodied[/rules]`  
-
 `[rules]Breaking Objects[/rules]`  
 `[rules]Bright Light[/rules]`  
 `[rules]Burrow Speed[/rules]`  
@@ -161,22 +196,12 @@
 `[rules]Carrying Capacity[/rules]`  
 `[rules]Challenge Rating[/rules]`  
 `[rules]Character Sheet[/rules]`  
-`[rules]Climbing[/rules]`  
 `[rules]Concentration[/rules]`  
-`[rules]Cover[/rules]`  
-`[rules]Crawling[/rules]`  
 `[rules]Creature[/rules]`  
 `[rules]Creature Type[/rules]`  
-`[rules]Critical Hit[/rules]`  
 `[rules]Curses[/rules]`  
-
-
 `[rules]Damage Threshold[/rules]`  
 `[rules]Darkness[/rules]`  
-`[rules]Dead[/rules]`  
-`[rules]Death Saving Throw[/rules]`  
-`[rules]Difficult Terrain[/rules]`  
-
 `[rules]Dim Light[/rules]`  
 `[rules]Disadvantage[/rules]`  
 `[rules]Encounter[/rules]`  
@@ -184,52 +209,39 @@
 `[rules]Experience Points[/rules]`  
 `[rules]Expertise[/rules]`  
 `[rules]Flying[/rules]`  
-`[rules]Healing[/rules]`  
 `[rules]Heavily Obscured[/rules]`  
 `[rules]Heroic Inspiration[/rules]`  
 `[rules]Hit Point Dice[/rules]`  
-`[rules]Hit Points[/rules]`  
 `[rules]Hover[/rules]`  
 `[rules]Illusions[/rules]`  
-`[rules]Immunity[/rules]`  
 `[rules]Improvised Weapons[/rules]`  
-`[rules]Initiative[/rules]`  
-`[rules]Knocking Out a Creature[/rules]`  
+
 `[rules]Lightly Obscured[/rules]`  
-`[rules]Long Rest[/rules]`  
+
 `[rules]Magical Effect[/rules]`  
 `[rules]Monster[/rules]`  
 `[rules]Nonplayer Character[/rules]`  
 `[rules]Object[/rules]`  
-`[rules]Occupied Space[/rules]`  
 `[rules]Passive Perception[/rules]`  
 `[rules]Per Day[/rules]`  
 `[rules]Player Character[/rules]`  
 `[rules]Possession[/rules]`  
 
-`[rules]Resistance[/rules]`  
 `[rules]Ritual[/rules]`  
 `[rules]Round Down[/rules]`  
-
 `[rules]Shape-Shifting[/rules]`  
-`[rules]Short Rest[/rules]`  
+
 `[rules]Simultaneous Effects[/rules]`  
-`[rules]Size[/rules]`  
-`[rules]Speed[/rules]`  
 `[rules]Spell[/rules]`  
 `[rules]Spell Attack[/rules]`  
 `[rules]Spellcasting Focus[/rules]`  
 `[rules]Stable[/rules]`  
 `[rules]Stat Block[/rules]`  
-`[rules]Surprise[/rules]`  
-`[rules]Swimming[/rules]`  
-`[rules]Target[/rules]`  
 `[rules]Telepathy[/rules]`  
 `[rules]Teleportation[/rules]`  
-`[rules]Temporary Hit Points[/rules]`  
+
 `[rules]Unarmed Strike[/rules]`  
-`[rules]Unoccupied Space[/rules]`  
-`[rules]Vulnerability[/rules]`  
+
 `[rules]Weapon[/rules]`  
 `[rules]Weapon Attack[/rules]`  
 # Tooltips for the D&D Free Rules (2024)
