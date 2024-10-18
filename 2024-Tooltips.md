@@ -81,13 +81,13 @@ rules
 
 Damage Types?
 
-`[senses]Blindsight[/senses]`  
-`[rules]Darkvision[/rules]`  
-`[rules]Tremorsense[/rules]`  
-`[rules]Truesight[/rules]`  
+`[sense]Blindsight[/sense]`  
+`[sense]Darkvision[/sense]`  
+`[sense]Tremorsense[/sense]`  
+`[sense]Truesight[/sense]`  
 
-`[rules]Grappling[/rules]`  
-`[rules]Opportunity Attacks[/rules]`  
+`[action]Grapple[/action]`  
+`[action]Opportunity Attack[/action]`  
 
 `[rules]Ability Check[/rules]`  
 `[rules]Ability Score and Modifier[/rules]`  
