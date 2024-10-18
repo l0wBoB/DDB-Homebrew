@@ -75,11 +75,19 @@
 `[wprop]Topple[/wprop]`  
 `[wprop]Vex[/wprop]`  
 
-sense
+
 skill
 rules
 
 Damage Types?
+
+`[senses]Blindsight[/senses]`  
+`[rules]Darkvision[/rules]`  
+`[rules]Tremorsense[/rules]`  
+`[rules]Truesight[/rules]`  
+
+`[rules]Grappling[/rules]`  
+`[rules]Opportunity Attacks[/rules]`  
 
 `[rules]Ability Check[/rules]`  
 `[rules]Ability Score and Modifier[/rules]`  
@@ -91,7 +99,6 @@ Damage Types?
 `[rules]Armor Training[/rules]`  
 `[rules]Attack Roll[/rules]`  
 `[rules]Attunement[/rules]`  
-`[rules]Blindsight[/rules]`  
 `[rules]Bloodied[/rules]`  
 `[rules]Bonus Action[/rules]`  
 `[rules]Breaking Objects[/rules]`  
@@ -115,7 +122,6 @@ Damage Types?
 `[rules]Damage Threshold[/rules]`  
 `[rules]Damage Types[/rules]`  
 `[rules]Darkness[/rules]`  
-`[rules]Darkvision[/rules]`  
 `[rules]Dead[/rules]`  
 `[rules]Death Saving Throw[/rules]`  
 `[rules]Difficult Terrain[/rules]`  
@@ -127,7 +133,6 @@ Damage Types?
 `[rules]Experience Points[/rules]`  
 `[rules]Expertise[/rules]`  
 `[rules]Flying[/rules]`  
-`[rules]Grappling[/rules]`  
 `[rules]Healing[/rules]`  
 `[rules]Heavily Obscured[/rules]`  
 `[rules]Heroic Inspiration[/rules]`  
@@ -146,7 +151,6 @@ Damage Types?
 `[rules]Nonplayer Character[/rules]`  
 `[rules]Object[/rules]`  
 `[rules]Occupied Space[/rules]`  
-`[rules]Opportunity Attacks[/rules]`  
 `[rules]Passive Perception[/rules]`  
 `[rules]Per Day[/rules]`  
 `[rules]Player Character[/rules]`  
@@ -174,8 +178,6 @@ Damage Types?
 `[rules]Telepathy[/rules]`  
 `[rules]Teleportation[/rules]`  
 `[rules]Temporary Hit Points[/rules]`  
-`[rules]Tremorsense[/rules]`  
-`[rules]Truesight[/rules]`  
 `[rules]Unarmed Strike[/rules]`  
 `[rules]Unoccupied Space[/rules]`  
 `[rules]Vulnerability[/rules]`  
