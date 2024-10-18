@@ -52,6 +52,7 @@
 `[action]Study[/action]`  
 `[action]Utilize[/action]`  
 `[rules]Bonus Action[/rules]`  
+`[action]Two-Weapon Fighting[/action]`  
 `[rules]Reaction[/rules]`  
 ### Social Interaction
 `[rules]Attitude[/rules]`  
@@ -160,7 +161,6 @@
 `[wprop]Finesse[/wprop]`  
 `[wprop]Heavy[/wprop]`  
 `[wprop]Light[/wprop]`  
-`[action]Two-Weapon Fighting[/action]`  
 `[wprop]Loading[/wprop]`  
 `[wprop]Range[/wprop]`  
 `[wprop]Reach[/wprop]`  
