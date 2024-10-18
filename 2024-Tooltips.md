@@ -41,12 +41,14 @@
 `[action]Dash[/action]`  
 `[action]Disengage[/action]`  
 `[action]Dodge[/action]`  
+`[action]Grapple[/action]`  
 `[action]Help[/action]`  
 `[action]Hide[/action]`  
 `[action]Influence[/action]`  
 `[action]Magic[/action]`  
 `[action]Ready[/action]`  
 `[action]Search[/action]`  
+`[action]Shove[/action]`  
 `[action]Study[/action]`  
 `[action]Utilize[/action]`  
 `[rules]Bonus Action[/rules]`  
@@ -103,6 +105,7 @@
 `[rules]Total Cover[/rules]`  
 #### Melee Attacks
 `[action]Opportunity Attack[/action]`  
+`[rules]Teleportation[/rules]`  
 #### Underwater Combat
 `[rules]Swim Speed[/rules]`  
 ### Damage and Healing
@@ -139,9 +142,15 @@
 `[condition]Stunned[/condition]`  
 `[condition]Unconscious[/condition]`  
 ## Creating a Character
+### Get Ready
+`[rules]Character Sheet[/rules]`  
+### Create Your Character
+`[rules]Experience Points[/rules]`  
+`[rules]Alignment[/rules]`  
+`[rules]Passive Perception[/rules]`  
+`[rules]Hit Point Dice[/rules]`  
 ## Character Classes
 ## Character Origins
-
 ## Equipment
 ### Weapons
 `[rules]Weapon[/rules]`  
@@ -151,6 +160,7 @@
 `[wprop]Finesse[/wprop]`  
 `[wprop]Heavy[/wprop]`  
 `[wprop]Light[/wprop]`  
+`[action]Two-Weapon Fighting[/action]`  
 `[wprop]Loading[/wprop]`  
 `[wprop]Range[/wprop]`  
 `[wprop]Reach[/wprop]`  
@@ -185,6 +195,12 @@
 `[rules]Line[/rules]`  
 `[rules]Sphere[/rules]`  
 `[rules]Spell Attack[/rules]`  
+## Creature Stat Blocks
+`[rules]Stat Block[/rules]`  
+`[rules]Creature[/rules]`  
+`[rules]Creature Type[/rules]`  
+`[rules]Challenge Rating[/rules]`  
+
 
 ---
 
@@ -193,70 +209,29 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-`[action]Two-Weapon Fighting[/action]`  
-`[action]Grapple[/action]`  
-`[action]Shove[/action]`  
-
-
-
-
-
-`[rules]Alignment[/rules]`  
 `[rules]Ally[/rules]`  
-
-
 `[rules]Burrow Speed[/rules]`  
 `[rules]Campaign[/rules]`  
 `[rules]Carrying Capacity[/rules]`  
-`[rules]Challenge Rating[/rules]`  
-`[rules]Character Sheet[/rules]`  
-`[rules]Creature[/rules]`  
-`[rules]Creature Type[/rules]`  
 `[rules]Curses[/rules]`  
 `[rules]Damage Threshold[/rules]`  
-
 `[rules]Encounter[/rules]`  
 `[rules]Enemy[/rules]`  
-`[rules]Experience Points[/rules]`  
 `[rules]Expertise[/rules]`  
 `[rules]Flying[/rules]`  
-
 `[rules]Heroic Inspiration[/rules]`  
-`[rules]Hit Point Dice[/rules]`  
 `[rules]Hover[/rules]`  
 `[rules]Illusions[/rules]`  
-
 `[rules]Magical Effect[/rules]`  
 `[rules]Monster[/rules]`  
 `[rules]Nonplayer Character[/rules]`  
-`[rules]Passive Perception[/rules]`  
 `[rules]Per Day[/rules]`  
 `[rules]Player Character[/rules]`  
 `[rules]Possession[/rules]`  
 `[rules]Round Down[/rules]`  
 `[rules]Shape-Shifting[/rules]`  
 `[rules]Simultaneous Effects[/rules]`  
-`[rules]Stat Block[/rules]`  
 `[rules]Telepathy[/rules]`  
-`[rules]Teleportation[/rules]`  
 `[rules]Unarmed Strike[/rules]`  
 `[rules]Weapon Attack[/rules]`  
 # Tooltips for the D&D Free Rules (2024)
