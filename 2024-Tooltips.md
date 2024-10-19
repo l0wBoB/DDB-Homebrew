@@ -1,8 +1,8 @@
 # Tooltips for the D&D Free Rules (2024)
 ## Playing the Game
-`[rules]Campaign[/rules]`  
 `[rules]Adventure[/rules]`  
 `[rules]Encounter[/rules]`  
+`[rules]Campaign[/rules]`  
 ### Dice
 `[rules]Damage[/rules]`  
 ### The Six Abilities
@@ -13,8 +13,11 @@
 `[rules]Ability Check[/rules]`  
 `[rules]Saving Throw[/rules]`  
 `[rules]Attack Roll[/rules]`  
+`[rules]Weapon Attack[/rules]`  
+`[rules]Spell Attack[/rules]`  
 `[rules]Advantage[/rules]`  
 `[rules]Disadvantage[/rules]`  
+`[rules]Heroic Inspiration[/rules]`  
 ### Proficiency
 `[rules]Proficiency[/rules]`  
 `[rules]Expertise[/rules]`  
@@ -55,6 +58,11 @@
 `[rules]Bonus Action[/rules]`  
 `[rules]Reaction[/rules]`  
 ### Social Interaction
+`[rules]Player Character[/rules]`  
+`[rules]Monster[/rules]`  
+`[rules]Nonplayer Character[/rules]`  
+`[rules]Ally[/rules]`  
+`[rules]Enemy[/rules]`  
 `[rules]Attitude[/rules]`  
 `[rules]Friendly[/rules]`  
 `[rules]Hostile[/rules]`  
@@ -85,6 +93,7 @@
 #### The Order of Combat
 `[rules]Initiative[/rules]`  
 `[rules]Surprise[/rules]`  
+`[rules]Simultaneous Effects[/rules]`  
 #### Movement and Position
 `[rules]Speed[/rules]`  
 `[rules]Climbing[/rules]`  
@@ -125,6 +134,7 @@
 `[rules]Round Down[/rules]`  
 `[rules]Vulnerability[/rules]`  
 `[rules]Immunity[/rules]`  
+`[rules]Damage Threshold[/rules]`  
 `[rules]Healing[/rules]`  
 `[rules]Short Rest[/rules]`  
 `[rules]Long Rest[/rules]`  
@@ -191,6 +201,7 @@
 `[rules]Armor Training[/rules]`  
 ### Magic Items
 `[rules]Attunement[/rules]`  
+`[rules]Magical Effect[/rules]`  
 ## Spells
 `[rules]Spell[/rules]`  
 `[rules]Cantrip[/rules]`  
@@ -204,46 +215,17 @@
 `[rules]Emanation[/rules]`  
 `[rules]Line[/rules]`  
 `[rules]Sphere[/rules]`  
-`[rules]Spell Attack[/rules]`  
+`[rules]Illusions[/rules]`  
+`[rules]Curses[/rules]`  
+`[rules]Possession[/rules]`  
+`[rules]Shape-Shifting[/rules]`  
+`[rules]Telepathy[/rules]`  
 ## Creature Stat Blocks
 `[rules]Stat Block[/rules]`  
 `[rules]Creature[/rules]`  
 `[rules]Creature Type[/rules]`  
 `[rules]Challenge Rating[/rules]`  
-
-
----
-
-
-
-
-`[rules]Player Character[/rules]`  
-`[rules]Monster[/rules]`  
-`[rules]Nonplayer Character[/rules]`  
-`[rules]Ally[/rules]`  
-`[rules]Enemy[/rules]`  
-
-
-
-
-
-
-`[rules]Curses[/rules]`  
-`[rules]Possession[/rules]`  
-
-
-`[rules]Damage Threshold[/rules]`  
-
-`[rules]Heroic Inspiration[/rules]`  
-`[rules]Illusions[/rules]`  
-`[rules]Magical Effect[/rules]`  
 `[rules]Per Day[/rules]`  
-
-`[rules]Shape-Shifting[/rules]`  
-`[rules]Simultaneous Effects[/rules]`  
-`[rules]Telepathy[/rules]`  
-
-`[rules]Weapon Attack[/rules]`  
 # Tooltips for the D&D Free Rules (2024)
 ## Spells (https://www.dndbeyond.com/spells?filter-source=148)
 `[spells]Spell Name[/spells]`
