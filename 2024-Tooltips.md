@@ -1,7 +1,8 @@
 # Tooltips for the D&D Free Rules (2024)
 ## Playing the Game
-### Player or DM?
 `[rules]Adventure[/rules]`
+`[rules]Encounter[/rules]`  
+`[rules]Campaign[/rules]`  
 ### Dice
 `[rules]Damage[/rules]`  
 ### The Six Abilities
@@ -16,6 +17,8 @@
 `[rules]Disadvantage[/rules]`  
 ### Proficiency
 `[rules]Proficiency[/rules]`  
+`[rules]Expertise[/rules]`  
+#### Skills
 `[rules]Skill[/rules]`  
 `[skill]Athletics[/skill]`  
 `[skill]Acrobatics[/skill]`  
@@ -41,18 +44,15 @@
 `[action]Dash[/action]`  
 `[action]Disengage[/action]`  
 `[action]Dodge[/action]`  
-`[action]Grapple[/action]`  
 `[action]Help[/action]`  
 `[action]Hide[/action]`  
 `[action]Influence[/action]`  
 `[action]Magic[/action]`  
 `[action]Ready[/action]`  
 `[action]Search[/action]`  
-`[action]Shove[/action]`  
 `[action]Study[/action]`  
 `[action]Utilize[/action]`  
 `[rules]Bonus Action[/rules]`  
-`[action]Two-Weapon Fighting[/action]`  
 `[rules]Reaction[/rules]`  
 ### Social Interaction
 `[rules]Attitude[/rules]`  
@@ -88,11 +88,17 @@
 #### Movement and Position
 `[rules]Speed[/rules]`  
 `[rules]Climbing[/rules]`  
+`[rules]Climb Speed[/rules]`  
 `[rules]Crawling[/rules]`  
 `[rules]Jumping[/rules]`  
 `[rules]Long Jump[/rules]`  
 `[rules]High Jump[/rules]`  
 `[rules]Swimming[/rules]`  
+`[rules]Swim Speed[/rules]`  
+`[rules]Burrow Speed[/rules]`  
+`[rules]Flying[/rules]`  
+`[rules]Fly Speed[/rules]`  
+`[rules]Hover[/rules]`  
 `[rules]Difficult Terrain[/rules]`  
 `[rules]Size[/rules]`  
 `[rules]Occupied Space[/rules]`  
@@ -105,10 +111,11 @@
 `[rules]Three-Quarters Cover[/rules]`  
 `[rules]Total Cover[/rules]`  
 #### Melee Attacks
+`[rules]Unarmed Strike[/rules]`  
+`[action]Grapple[/action]`  
+`[action]Shove[/action]`  
 `[action]Opportunity Attack[/action]`  
 `[rules]Teleportation[/rules]`  
-#### Underwater Combat
-`[rules]Swim Speed[/rules]`  
 ### Damage and Healing
 `[rules]Hit Points[/rules]`  
 `[rules]Bloodied[/rules]`  
@@ -150,12 +157,14 @@
 `[rules]Alignment[/rules]`  
 `[rules]Passive Perception[/rules]`  
 `[rules]Hit Point Dice[/rules]`  
+`[rules]Carrying Capacity[/rules]`  
 ## Character Classes
 ## Character Origins
 ## Equipment
 ### Weapons
 `[rules]Weapon[/rules]`  
 `[rules]Improvised Weapons[/rules]`  
+`[action]Two-Weapon Fighting[/action]`  
 #### Properties
 `[wprop]Ammunition[/wprop]`  
 `[wprop]Finesse[/wprop]`  
@@ -214,19 +223,16 @@
 `[rules]Enemy[/rules]`  
 
 
-`[rules]Flying[/rules]`  
-`[rules]Hover[/rules]`  
-`[rules]Burrow Speed[/rules]`  
 
-`[rules]Campaign[/rules]`  
-`[rules]Encounter[/rules]`  
+
+
 
 `[rules]Curses[/rules]`  
 `[rules]Possession[/rules]`  
 
-`[rules]Carrying Capacity[/rules]`  
+
 `[rules]Damage Threshold[/rules]`  
-`[rules]Expertise[/rules]`  
+
 `[rules]Heroic Inspiration[/rules]`  
 `[rules]Illusions[/rules]`  
 `[rules]Magical Effect[/rules]`  
@@ -235,7 +241,7 @@
 `[rules]Shape-Shifting[/rules]`  
 `[rules]Simultaneous Effects[/rules]`  
 `[rules]Telepathy[/rules]`  
-`[rules]Unarmed Strike[/rules]`  
+
 `[rules]Weapon Attack[/rules]`  
 # Tooltips for the D&D Free Rules (2024)
 ## Spells (https://www.dndbeyond.com/spells?filter-source=148)
