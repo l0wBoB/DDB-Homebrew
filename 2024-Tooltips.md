@@ -85,10 +85,10 @@
 #### Hazards
 - `[rules]Hazard[/rules]` `[rules]Hazard;Hazards[/rules]`
 - `[rules]Burning[/rules]` `[rules]Burning;Burn Damage[/rules]`
-- `[rules]Dehydration[/rules]` `[rules]Dehydration;Dehydrating[/rules]` `[rules]Dehydration;Water[/rules]`
+- `[rules]Dehydration[/rules]` `[rules]Dehydration;Dehydrating[/rules]` `[rules]Dehydration;Water[/rules]` `[rules]Dehydration;drink[/rules]`
 - `[rules]Falling[/rules]` `[rules]Falling;Fall Damage[/rules]`
-- `[rules]Malnutrition[/rules]` `[rules]Malnutrition;Nutrition[/rules]` `[rules]Malnutrition;Food[/rules]`
-- `[rules]Suffocation[/rules]` `[rules]Suffocation;Suffocating[/rules]` `[rules]Suffocation;Air[/rules]`
+- `[rules]Malnutrition[/rules]` `[rules]Malnutrition;Nutrition[/rules]` `[rules]Malnutrition;Food[/rules]` `[rules]Malnutrition;eat[/rules]`
+- `[rules]Suffocation[/rules]` `[rules]Suffocation;Suffocating[/rules]` `[rules]Suffocation;Air[/rules]` `[rules]Suffocation;Breath[/rules]` `[rules]Suffocation;breathe[/rules]`
 ### Combat
 #### The Order of Combat
 - `[rules]Initiative[/rules]`
@@ -130,9 +130,9 @@
 - `[rules]Bloodied[/rules]`
 - `[rules]Critical Hit[/rules]` `[rules]Critical Hit;Critical Hits[/rules]` `[rules]Critical Hit;Crit[/rules]` `[rules]Critical Hit;Crits[/rules]`
 - `[rules]Damage Types[/rules]` `[rules]Damage Types;Damage Type[/rules]`
-- `[rules]Resistance[/rules]` `[rules]Resistance;Resistance[/rules]` `[rules]Resistance;Damage Resistance[/rules]` `[rules]Resistance;Damage Resistances[/rules]`
+- `[rules]Resistance[/rules]` `[rules]Resistance;Resistance[/rules]` `[rules]Resistance;Damage Resistance[/rules]` `[rules]Resistance;Damage Resistances[/rules]` `[rules]Resistance;resistant[/rules]`
 - `[rules]Round Down[/rules]`
-- `[rules]Vulnerability[/rules]` `[rules]Vulnerability;Vulnerabilities[/rules]` `[rules]Vulnerability;Damage Vulnerability[/rules]` `[rules]Vulnerability;Damage Vulnerabilities[/rules]`
+- `[rules]Vulnerability[/rules]` `[rules]Vulnerability;Vulnerabilities[/rules]` `[rules]Vulnerability;Damage Vulnerability[/rules]` `[rules]Vulnerability;Damage Vulnerabilities[/rules]` `[rules]Vulnerability;vulnerable[/rules]`
 - `[rules]Immunity[/rules]` `[rules]Immunity;Immunities[/rules]` `[rules]Immunity;Damage Immunity[/rules]` `[rules]Immunity;Damage Immunities[/rules]` `[rules]Immunity;Condition Immunity[/rules]` `[rules]Immunity;Condition Immunities[/rules]` `[rules]Immunity;immune[/rules]`
 - `[rules]Damage Threshold[/rules]`
 - `[rules]Healing[/rules]` `[rules]Healing;heal[/rules]`
@@ -142,11 +142,11 @@
 - `[rules]Knocking Out a Creature[/rules]`
 - `[rules]Death Saving Throw[/rules]` `[rules]Death Saving Throw;Death Saving Throws[/rules]` `[rules]Death Saving Throw;Death Save[/rules]` `[rules]Death Saving Throw;Death Saves[/rules]`
 - `[rules]Stable[/rules]` `[rules]Stable;stabilize[/rules]`
-- `[rules]Temporary Hit Points[/rules]` `[rules]Temporary Hit Points;Temporary Hit Point[/rules]` `[rules]Temporary Hit Points;Temporary HP[/rules]` `[rules]Temporary Hit Points;Temp HP[/rules]`
+- `[rules]Temporary Hit Points[/rules]` `[rules]Temporary Hit Points;Temporary Hit Point[/rules]` `[rules]Temporary Hit Points;Temporary HP[/rules]` `[rules]Temporary Hit Points;Temp HP[/rules]` `[rules]Temporary Hit Points;THP[/rules]`
 ### Conditions
 - `[rules]Condition[/rules]` `[rules]Condition;Conditions[/rules]`
-- `[condition]Blinded[/condition]`
-- `[condition]Charmed[/condition]`
+- `[condition]Blinded[/condition]` `[condition]Blinded;blind[/condition]`
+- `[condition]Charmed[/condition]` `[condition]Deafened;deaf[/condition]`
 - `[condition]Deafened[/condition]`
 - `[condition]Exhaustion[/condition]` `[condition]Exhaustion;exhausted[/condition]` `[condition]Exhaustion;Sleep[/condition]`
 - `[condition]Frightened[/condition]`
