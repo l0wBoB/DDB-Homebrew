@@ -161,11 +161,11 @@
 - `[condition]Blinded[/condition]` `[condition]Blinded;blind[/condition]`
 - `[condition]Charmed[/condition]`
 - `[condition]Deafened[/condition]` `[condition]Deafened;deaf[/condition]`
-- `[condition]Exhaustion[/condition]` `[condition]Exhaustion;exhausted[/condition]` `[condition]Exhaustion;Sleep[/condition]`
+- `[condition]Exhaustion[/condition]` `[condition]Exhaustion;exhausted[/condition]`
 - `[condition]Frightened[/condition]`
 - `[condition]Grappled[/condition]`
 - `[condition]Incapacitated[/condition]`
-- `[condition]Invisible[/condition]` `[condition]Invisible;Invisibility[/condition]`
+- `[condition]Invisible[/condition]`
 - `[condition]Paralyzed[/condition]`
 - `[condition]Petrified[/condition]`
 - `[condition]Poisoned[/condition]`
