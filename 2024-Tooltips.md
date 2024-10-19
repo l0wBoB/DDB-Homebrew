@@ -113,14 +113,14 @@
 - `[rules]Occupied Space[/rules]`
 - `[rules]Unoccupied Space[/rules]`
 #### Making an Attack
-- `[rules]Target[/rules]`
+- `[rules]Target[/rules]` - `[rules]Target;targets[/rules]`
 #### Cover
 - `[rules]Cover[/rules]`
 - `[rules]Half Cover[/rules]`
 - `[rules]Three-Quarters Cover[/rules]`
 - `[rules]Total Cover[/rules]`
 #### Melee Attacks
-- `[rules]Unarmed Strike[/rules]`
+- `[rules]Unarmed Strike[/rules]` - `[rules]Unarmed Strike;Unarmed Strikes[/rules]`
 - `[action]Grapple[/action]`
 - `[action]Shove[/action]`
 - `[action]Opportunity Attack[/action]`
