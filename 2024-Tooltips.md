@@ -223,7 +223,7 @@
 - `[rules]Creature[/rules]` `[rules]Creature;Creatures[/rules]`
 - `[rules]Creature Type[/rules]` `[rules]Creature Type;Creature Types[/rules]`
 - `[rules]Challenge Rating[/rules]` `[rules]Challenge Rating;CR[/rules]`
-- `[rules]Per Day[/rules]` `[rules]Per Day;/day[/rules]`
+- `[rules]Per Day[/rules]` `[rules]Per Day;/Day[/rules]`
 # Tooltips for the D&D Free Rules (2024)
 ## Spells
 - `[spells]Spell Name[/spells]` (https://www.dndbeyond.com/spells?filter-source=148)
