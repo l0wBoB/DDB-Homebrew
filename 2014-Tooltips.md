@@ -102,7 +102,7 @@
 - `[action]Attack[/action]` `[action]Attack;Weapon Attack[/action]` `[action]Attack;Unarmed Strike[/action]`
 - `[action]Cast a Spell[/action]` `[action]Cast a Spell;cast[/action]`
 > [!CAUTION]
-> this action tag is broken as of 2024-10-19
+> [action]Cast a Spell[/action] is broken as of 2024-10-19
 - `[action]Dash[/action]`
 - `[action]Disengage[/action]`
 - `[action]Dodge[/action]`
@@ -112,7 +112,7 @@
 - `[action]Search[/action]`
 - `[action]Use an Object[/action]` `[action]Use an Object;use[/action]` `[action]Use an Object;utilize[/action]`
 > [!CAUTION]
-> this action tag is broken as of 2024-10-19
+> [action]Use an Object[/action] is broken as of 2024-10-19
 ### Making an Attack
 #### Melee Attacks
 - `[action]Opportunity Attack[/action]` `[action]Opportunity Attack;Opportunity Attacks[/action]`
