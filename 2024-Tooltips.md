@@ -19,7 +19,7 @@
 - `[rules]Disadvantage[/rules]`
 - `[rules]Heroic Inspiration[/rules]` `[rules]Heroic Inspiration;Inspiration[/rules]`
 ### Proficiency
-- `[rules]Proficiency[/rules]` `[rules]Proficiency;Proficiencies[/rules]` `[rules]Proficiency;Proficiency Bonus[/rules]`
+- `[rules]Proficiency[/rules]` `[rules]Proficiency;Proficiencies[/rules]` `[rules]Proficiency;Proficiency Bonus[/rules]` `[rules]Proficiency;proficient[/rules]`
 - `[rules]Expertise[/rules]` `[rules]Expertise;Double Proficiency[/rules]`
 #### Skills
 - `[rules]Skill[/rules]` `[rules]Skill;Skills[/rules]`
