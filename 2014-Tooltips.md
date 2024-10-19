@@ -5,7 +5,7 @@
 - `[rule]Level[/rule]` `[rule]Level;Levels[/rule]`
 - `[rule]Experience Points[/rule]` `[rule]Experience Points;Experience Point[/rule]` `[rule]Experience Points;XP[/rule]`
 #### Hit Points and Hit Dice
-- `[rule]Hit Dice[/rule]` `[rule]Hit Dice;Hit Die[/rule]`
+- `[rule]Hit Dice[/rule]` `[rule]Hit Dice;Hit Die[/rule]` `[rule]Hit Dice;Hit Point Dice[/rule]` `[rule]Hit Dice;Hit Point Die[/rule]`
 ### 5. Choose Equipment
 #### Armor Class
 - `[rule]Armor Class[/rule]` `[rule]Armor Class;AC[/rule]`
@@ -17,7 +17,7 @@
 - `[rule]Class[/rule]` `[rule]Class;Classes[/rule]`
 ## Chapter 4: Personality and Background
 ### Alignment
-- `[rule]Alignment[/rule]` `[rule]Alignment;aligned[/rule]`
+- `[rule]Alignment[/rule]` `[rule]Alignment;Attitude[/rule]`
 - `[rule]Lawful Good[/rule]` `[rule]Lawful Good;LG[/rule]`
 - `[rule]Neutral Good[/rule]` `[rule]Neutral Good;NG[/rule]`
 - `[rule]Chaotic Good[/rule]` `[rule]Chaotic Good;CG[/rule]`
@@ -79,17 +79,17 @@
 - `Charisma ([skill]Performance[/skill])`
 - `Charisma ([skill]Persuasion[/skill])`
 #### Passive Checks
-- `[rule]Senses (Passive Checks)[/rule]` `[rule]Senses (Passive Checks);Passive Perception[/rule]`
+- `[rule]Senses (Passive Checks)[/rule]` `[rule]Senses (Passive Checks);Senses[/rule]` `[rule]Senses (Passive Checks);Passive Check[/rule]` `[rule]Senses (Passive Checks);Passive Checks[/rule]` `[rule]Senses (Passive Checks);Passive Perception[/rule]`
 ### Saving Throws
 - `[rule]Saving Throws[/rule]` `[rule]Saving Throws;Saving Throw[/rule]` `[rule]Saving Throws;Save[/rule]` `[rule]Saving Throws;Saves[/rule]`
 ## Chapter 8: Adventuring
 ### Movement
-- `[rule]Speed[/rule]` `[rule]Speed;Movement[/rule]`
+- `[rule]Speed[/rule]` `[rule]Speed;Movement[/rule]` `[rule]Speed;Jumping[/rule]` `[rule]Speed;jump[/rule]`
 - `[rule]Difficult Terrain[/rule]`
 - `[rule]Climbing Swimming Crawling[/rule]` `[rule]Climbing Swimming Crawling;Climbing[/rule]` `[rule]Climbing Swimming Crawling;climb[/rule]` `[rule]Climbing Swimming Crawling;Swimming[/rule]` `[rule]Climbing Swimming Crawling;swim[/rule]` `[rule]Climbing Swimming Crawling;Crawling[/rule]` `[rule]Climbing Swimming Crawling;crawl[/rule]`
 ### The Environment
 - `[rule]Falling[/rule]` `[rule]Falling;Fall Damage[/rule]` 
-- `[rule]Suffocating[/rule]` `[rule]Suffocating;Suffocation[/rule]` `[rule]Suffocating;Air[/rule]` `[rule]Suffocating;Breath[/rule]` `[rule]Suffocating;breath[/rule]`
+- `[rule]Suffocating[/rule]` `[rule]Suffocating;Suffocation[/rule]` `[rule]Suffocating;Air[/rule]` `[rule]Suffocating;Breath[/rule]` `[rule]Suffocating;breathe[/rule]`
 - `[rule]Lightly Obscured[/rule]`
 - `[rule]Heavily Obscured[/rule]`
 ## Chapter 9: Combat
@@ -154,21 +154,21 @@
 - `[sense]Tremorsense[/sense]`
 - `[sense]Truesight[/sense]`
 ## Appendix A: Conditions
-- `[condition]Blinded[/condition]` `[condition]Blinded;blind[/condition]`
-- `[condition]Charmed[/condition]`
-- `[condition]Deafened[/condition]` `[condition]Deafened;deaf[/condition]`
+- `[condition]Blinded[/condition]` `[condition]Blinded;Blinding[/condition]` `[condition]Blinded;blind[/condition]`
+- `[condition]Charmed[/condition]` `[condition]Charmed;Charming[/condition]`
+- `[condition]Deafened[/condition]` `[condition]Deafened;Defeaning[/condition]` `[condition]Deafened;deaf[/condition]`
 - `[condition]Exhaustion[/condition]` `[condition]Exhaustion;exhausted[/condition]` `[condition]Exhaustion;Sleep[/condition]`
-- `[condition]Frightened[/condition]`
-- `[condition]Grappled[/condition]`
-- `[condition]Incapacitated[/condition]`
-- `[condition]Invisible[/condition]`
-- `[condition]Paralyzed[/condition]`
-- `[condition]Petrified[/condition]`
-- `[condition]Poisoned[/condition]`
+- `[condition]Frightened[/condition]` `[condition]Frightened;Frightening[/condition]`
+- `[condition]Grappled[/condition]` `[condition]Grappled;Grappling[/condition]`
+- `[condition]Incapacitated[/condition]` `[condition]Incapacitated;Incapacitation[/condition]`
+- `[condition]Invisible[/condition]` `[condition]Invisible;Invisibility[/condition]`
+- `[condition]Paralyzed[/condition]` `[condition]Paralyzed;Paralyzation[/condition]`
+- `[condition]Petrified[/condition]` `[condition]Petrified;Petrification[/condition]`
+- `[condition]Poisoned[/condition]` `[condition]Poisoned;Poisoning[/condition]`
 - `[condition]Prone[/condition]`
-- `[condition]Restrained[/condition]`
-- `[condition]Stunned[/condition]`
-- `[condition]Unconscious[/condition]`
+- `[condition]Restrained[/condition]` `[condition]Restrained;Restraining[/condition]`
+- `[condition]Stunned[/condition]` `[condition]Stunned;Stunning[/condition]` `[condition]Stunned;Stun[/condition]`
+- `[condition]Unconscious[/condition]` `[condition]Unconscious;Unconsciousness[/condition]`
 # Tooltips for the Dungeon Master's Guide (2014)
 ## Chapter 9: Dungeon Master's Workshop
 ### Adventuring Options
