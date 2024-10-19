@@ -219,7 +219,7 @@
 - `[rules]Shape-Shifting[/rules]` `[rules]Shape-Shifting;shape-shift[/rules]`
 - `[rules]Telepathy[/rules]` `[rules]Telepathy;telepathically[/rules]`
 ## Creature Stat Blocks
-- `[rules]Stat Block[/rules]` `[rules]Stat Block;Stat Blocks[/rules]` `[rules]Stat Block;Statistics[/rules]`
+- `[rules]Stat Block[/rules]` `[rules]Stat Block;Stat Blocks[/rules]` `[rules]Stat Block;Monster Statistics[/rules]` `[rules]Stat Block;Monster Stats[/rules]` `[rules]Stat Block;Statistics[/rules]`
 - `[rules]Creature[/rules]` `[rules]Creature;Creatures[/rules]`
 - `[rules]Creature Type[/rules]` `[rules]Creature Type;Creature Types[/rules]`
 - `[rules]Challenge Rating[/rules]` `[rules]Challenge Rating;CR[/rules]`
