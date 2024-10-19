@@ -145,27 +145,27 @@
 - `[rules]Temporary Hit Points[/rules]` `[rules]Temporary Hit Points;Temporary Hit Point[/rules]` `[rules]Temporary Hit Points;Temporary HP[/rules]` `[rules]Temporary Hit Points;Temp HP[/rules]` `[rules]Temporary Hit Points;THP[/rules]`
 ### Conditions
 - `[rules]Condition[/rules]` `[rules]Condition;Conditions[/rules]`
-- `[condition]Blinded[/condition]` `[condition]Blinded;blind[/condition]`
-- `[condition]Charmed[/condition]` `[condition]Deafened;deaf[/condition]`
-- `[condition]Deafened[/condition]`
+- `[condition]Blinded[/condition]` `[condition]Blinded;Blinding[/condition]` `[condition]Blinded;blind[/condition]`
+- `[condition]Charmed[/condition]` `[condition]Charmed;Charming[/condition]`
+- `[condition]Deafened[/condition]` `[condition]Deafened;Defeaning[/condition]` `[condition]Deafened;deaf[/condition]`
 - `[condition]Exhaustion[/condition]` `[condition]Exhaustion;exhausted[/condition]` `[condition]Exhaustion;Sleep[/condition]`
-- `[condition]Frightened[/condition]`
-- `[condition]Grappled[/condition]`
-- `[condition]Incapacitated[/condition]`
-- `[condition]Invisible[/condition]`
-- `[condition]Paralyzed[/condition]`
-- `[condition]Petrified[/condition]`
-- `[condition]Poisoned[/condition]`
+- `[condition]Frightened[/condition]` `[condition]Frightened;Frightening[/condition]`
+- `[condition]Grappled[/condition]` `[condition]Grappled;Grappling[/condition]`
+- `[condition]Incapacitated[/condition]` `[condition]Incapacitated;Incapacitation[/condition]`
+- `[condition]Invisible[/condition]` `[condition]Invisible;Invisibility[/condition]`
+- `[condition]Paralyzed[/condition]` `[condition]Paralyzed;Paralyzation[/condition]`
+- `[condition]Petrified[/condition]` `[condition]Petrified;Petrification[/condition]`
+- `[condition]Poisoned[/condition]` `[condition]Poisoned;Poisoning[/condition]`
 - `[condition]Prone[/condition]`
-- `[condition]Restrained[/condition]`
-- `[condition]Stunned[/condition]`
-- `[condition]Unconscious[/condition]`
+- `[condition]Restrained[/condition]` `[condition]Restrained;Restraining[/condition]`
+- `[condition]Stunned[/condition]` `[condition]Stunned;Stunning[/condition]` `[condition]Stunned;Stun[/condition]`
+- `[condition]Unconscious[/condition]` `[condition]Unconscious;Unconsciousness[/condition]`
 ## Creating a Character
 ### Get Ready
 - `[rules]Character Sheet[/rules]` `[rules]Character Sheet;Character Sheets[/rules]` `[rules]Character Sheet;Sheet[/rules]` `[rules]Character Sheet;Sheets[/rules]`
 ### Create Your Character
 - `[rules]Experience Points[/rules]` `[rules]Experience Points;Experience Point[/rules]` `[rules]Experience Points;XP[/rules]`
-- `[rules]Alignment[/rules]` `[rules]Alignment;aligned[/rules]`
+- `[rules]Alignment[/rules]`
 - `[rules]Passive Perception[/rules]`
 - `[rules]Hit Point Dice[/rules]` `[rules]Hit Point Dice;Hit Point Die[/rules]`
 - `[rules]Carrying Capacity[/rules]` `[rules]Carrying Capacity;Dragging[/rules]` `[rules]Carrying Capacity;drag[/rules]` `[rules]Carrying Capacity;Lifting[/rules]` `[rules]Carrying Capacity;lift[/rules]` `[rules]Carrying Capacity;Pushing[/rules]` `[rules]Carrying Capacity;push[/rules]` `[rules]Carrying Capacity;Encumberment[/rules]` `[rules]Carrying Capacity;encumbered[/rules]`
