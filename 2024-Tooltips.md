@@ -6,23 +6,23 @@
 ### Dice
 `[rules]Damage[/rules]`
 ### The Six Abilities
-`[rules]Ability Score and Modifier[/rules]`
+`[rules]Ability Score and Modifier[/rules]` `[rules]Ability Score and Modifier;Ability Score[/rules]` `[rules]Ability Score and Modifier;Ability Scores[/rules]` `[rules]Ability Score and Modifier;Modifier[/rules]`
 ### D20 Tests
-`[rules]D20 Test[/rules]`  
-`[rules]Difficulty Class[/rules]`  
-`[rules]Ability Check[/rules]`  
-`[rules]Saving Throw[/rules]`  
-`[rules]Attack Roll[/rules]`  
-`[rules]Weapon Attack[/rules]`  
-`[rules]Spell Attack[/rules]`  
+`[rules]D20 Test[/rules]` `[rules]D20 Test;D20 Tests[/rules]` `[rules]D20 Test;Roll[/rules]` `[rules]D20 Test;Rolls[/rules]`  
+`[rules]Difficulty Class[/rules]` `[rules]Difficulty Class;DC[/rules]`  
+`[rules]Ability Check[/rules]` `[rules]Ability Check;Ability Checks[/rules]`  
+`[rules]Saving Throw[/rules]` `[rules]Saving Throw;Saving Throws[/rules]` `[rules]Saving Throw;Save[/rules]` `[rules]Saving Throw;Saves[/rules]`
+`[rules]Attack Roll[/rules]` `[rules]Attack Roll;Attack Rolls[/rules]`  
+`[rules]Weapon Attack[/rules]` `[rules]Weapon Attack;Weapon Attacks[/rules]`  
+`[rules]Spell Attack[/rules]` `[rules]Spell Attack;Spell Attacks[/rules]`  
 `[rules]Advantage[/rules]`  
 `[rules]Disadvantage[/rules]`  
-`[rules]Heroic Inspiration[/rules]`
+`[rules]Heroic Inspiration[/rules]` `[rules]Heroic Inspiration;Inspiration[/rules]`
 ### Proficiency
-`[rules]Proficiency[/rules]`  
+`[rules]Proficiency[/rules]` `[rules]Proficiency;Proficiencies[/rules]` `[rules]Proficiency;Proficiency Bonus[/rules]`  
 `[rules]Expertise[/rules]`
 #### Skills
-`[rules]Skill[/rules]`  
+`[rules]Skill[/rules]` `[rules]Skill;Skills[/rules]`  
 `[skill]Athletics[/skill]`  
 `[skill]Acrobatics[/skill]`  
 `[skill]Sleight of Hand[/skill]`  
@@ -42,8 +42,8 @@
 `[skill]Performance[/skill]`  
 `[skill]Persuasion[/skill]`
 ### Actions
-`[rules]Action[/rules]`  
-`[action]Attack[/action]`  
+`[rules]Action[/rules]` `[rules]Action;Actions[/rules]`  
+`[action]Attack[/action]` `[action]Attack;Attacks[/action]`  
 `[action]Dash[/action]`  
 `[action]Disengage[/action]`  
 `[action]Dodge[/action]`  
@@ -55,8 +55,8 @@
 `[action]Search[/action]`  
 `[action]Study[/action]`  
 `[action]Utilize[/action]`  
-`[rules]Bonus Action[/rules]`  
-`[rules]Reaction[/rules]`
+`[rules]Bonus Action[/rules]` `[rules]Bonus Action;Bonus Action[/rules]`  
+`[rules]Reaction[/rules]` `[rules]Reaction;Reactions[/rules]`
 ### Social Interaction
 `[rules]Player Character[/rules]`  
 `[rules]Monster[/rules]`  
