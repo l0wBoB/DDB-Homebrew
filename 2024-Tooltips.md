@@ -139,7 +139,7 @@
 - `[rules]Short Rest[/rules]` `[rules]Short Rest;SR[/rules]`
 - `[rules]Long Rest[/rules]` `[rules]Long Rest;LR[/rules]`
 - `[rules]Dead[/rules]`
-- `[rules]Knocking Out a Creature[/rules]`
+- `[rules]Knocking Out a Creature[/rules]` `[rules]Knocking Out a Creature;knock out[/rules]`
 - `[rules]Death Saving Throw[/rules]` `[rules]Death Saving Throw;Death Saving Throws[/rules]` `[rules]Death Saving Throw;Death Save[/rules]` `[rules]Death Saving Throw;Death Saves[/rules]`
 - `[rules]Stable[/rules]` `[rules]Stable;stabilize[/rules]`
 - `[rules]Temporary Hit Points[/rules]` `[rules]Temporary Hit Points;Temporary Hit Point[/rules]` `[rules]Temporary Hit Points;Temporary HP[/rules]` `[rules]Temporary Hit Points;Temp HP[/rules]` `[rules]Temporary Hit Points;THP[/rules]`
