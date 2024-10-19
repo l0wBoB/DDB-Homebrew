@@ -1,72 +1,72 @@
 # Tooltips for the D&D Free Rules (2024)
 ## Playing the Game
-`[rules]Adventure[/rules]` `[rules]Adventure;Adventures[/rules]`  
-`[rules]Encounter[/rules]`  
-`[rules]Campaign[/rules]` `[rules]Campaign;Campaigns[/rules]`
+- `[rules]Adventure[/rules]` `[rules]Adventure;Adventures[/rules]`  
+- `[rules]Encounter[/rules]`  
+- `[rules]Campaign[/rules]` `[rules]Campaign;Campaigns[/rules]`
 ### Dice
-`[rules]Damage[/rules]`
+- `[rules]Damage[/rules]`
 ### The Six Abilities
-`[rules]Ability Score and Modifier[/rules]` `[rules]Ability Score and Modifier;Ability Score[/rules]` `[rules]Ability Score and Modifier;Ability Scores[/rules]` `[rules]Ability Score and Modifier;Modifier[/rules]`
+- `[rules]Ability Score and Modifier[/rules]` `[rules]Ability Score and Modifier;Ability Score[/rules]` `[rules]Ability Score and Modifier;Ability Scores[/rules]` `[rules]Ability Score and Modifier;Modifier[/rules]`
 ### D20 Tests
-`[rules]D20 Test[/rules]` `[rules]D20 Test;D20 Tests[/rules]` `[rules]D20 Test;Roll[/rules]` `[rules]D20 Test;Rolls[/rules]`  
-`[rules]Difficulty Class[/rules]` `[rules]Difficulty Class;DC[/rules]`  
-`[rules]Ability Check[/rules]` `[rules]Ability Check;Ability Checks[/rules]`  
-`[rules]Saving Throw[/rules]` `[rules]Saving Throw;Saving Throws[/rules]` `[rules]Saving Throw;Save[/rules]` `[rules]Saving Throw;Saves[/rules]`
-`[rules]Attack Roll[/rules]` `[rules]Attack Roll;Attack Rolls[/rules]`  
-`[rules]Weapon Attack[/rules]` `[rules]Weapon Attack;Weapon Attacks[/rules]`  
-`[rules]Spell Attack[/rules]` `[rules]Spell Attack;Spell Attacks[/rules]`  
-`[rules]Advantage[/rules]`  
-`[rules]Disadvantage[/rules]`  
-`[rules]Heroic Inspiration[/rules]` `[rules]Heroic Inspiration;Inspiration[/rules]`
+- `[rules]D20 Test[/rules]` `[rules]D20 Test;D20 Tests[/rules]` `[rules]D20 Test;Roll[/rules]` `[rules]D20 Test;Rolls[/rules]`  
+- `[rules]Difficulty Class[/rules]` `[rules]Difficulty Class;DC[/rules]`  
+- `[rules]Ability Check[/rules]` `[rules]Ability Check;Ability Checks[/rules]`  
+- `[rules]Saving Throw[/rules]` `[rules]Saving Throw;Saving Throws[/rules]` `[rules]Saving Throw;Save[/rules]` `[rules]Saving Throw;Saves[/rules]`
+- `[rules]Attack Roll[/rules]` `[rules]Attack Roll;Attack Rolls[/rules]`  
+- `[rules]Weapon Attack[/rules]` `[rules]Weapon Attack;Weapon Attacks[/rules]`  
+- `[rules]Spell Attack[/rules]` `[rules]Spell Attack;Spell Attacks[/rules]`  
+- `[rules]Advantage[/rules]`  
+- `[rules]Disadvantage[/rules]`  
+- `[rules]Heroic Inspiration[/rules]` `[rules]Heroic Inspiration;Inspiration[/rules]`
 ### Proficiency
-`[rules]Proficiency[/rules]` `[rules]Proficiency;Proficiencies[/rules]` `[rules]Proficiency;Proficiency Bonus[/rules]`  
-`[rules]Expertise[/rules]`
+- `[rules]Proficiency[/rules]` `[rules]Proficiency;Proficiencies[/rules]` `[rules]Proficiency;Proficiency Bonus[/rules]`  
+- `[rules]Expertise[/rules]`
 #### Skills
-`[rules]Skill[/rules]` `[rules]Skill;Skills[/rules]`  
-`[skill]Athletics[/skill]`  
-`[skill]Acrobatics[/skill]`  
-`[skill]Sleight of Hand[/skill]`  
-`[skill]Stealth[/skill]`  
-`[skill]Arcana[/skill]`  
-`[skill]History[/skill]`  
-`[skill]Investigation[/skill]`  
-`[skill]Nature[/skill]`  
-`[skill]Religion[/skill]`  
-`[skill]Animal Handling[/skill]`  
-`[skill]Insight[/skill]`  
-`[skill]Medicine[/skill]`  
-`[skill]Perception[/skill]`  
-`[skill]Survival[/skill]`  
-`[skill]Deception[/skill]`  
-`[skill]Intimidation[/skill]`  
-`[skill]Performance[/skill]`  
-`[skill]Persuasion[/skill]`
+- `[rules]Skill[/rules]` `[rules]Skill;Skills[/rules]`  
+- `[skill]Athletics[/skill]`  
+- `[skill]Acrobatics[/skill]`  
+- `[skill]Sleight of Hand[/skill]`  
+- `[skill]Stealth[/skill]`  
+- `[skill]Arcana[/skill]`  
+- `[skill]History[/skill]`  
+- `[skill]Investigation[/skill]`  
+- `[skill]Nature[/skill]`  
+- `[skill]Religion[/skill]`  
+- `[skill]Animal Handling[/skill]`  
+- `[skill]Insight[/skill]`  
+- `[skill]Medicine[/skill]`  
+- `[skill]Perception[/skill]`  
+- `[skill]Survival[/skill]`  
+- `[skill]Deception[/skill]`  
+- `[skill]Intimidation[/skill]`  
+- `[skill]Performance[/skill]`  
+- `[skill]Persuasion[/skill]`
 ### Actions
-`[rules]Action[/rules]` `[rules]Action;Actions[/rules]`  
-`[action]Attack[/action]` `[action]Attack;Attacks[/action]`  
-`[action]Dash[/action]`  
-`[action]Disengage[/action]`  
-`[action]Dodge[/action]`  
-`[action]Help[/action]`  
-`[action]Hide[/action]`  
-`[action]Influence[/action]`  
-`[action]Magic[/action]`  
-`[action]Ready[/action]`  
-`[action]Search[/action]`  
-`[action]Study[/action]`  
-`[action]Utilize[/action]`  
-`[rules]Bonus Action[/rules]` `[rules]Bonus Action;Bonus Action[/rules]`  
-`[rules]Reaction[/rules]` `[rules]Reaction;Reactions[/rules]`
+- `[rules]Action[/rules]` `[rules]Action;Actions[/rules]`  
+- `[action]Attack[/action]` `[action]Attack;Attacks[/action]`  
+- `[action]Dash[/action]`  
+- `[action]Disengage[/action]`  
+- `[action]Dodge[/action]`  
+- `[action]Help[/action]`  
+- `[action]Hide[/action]`  
+- `[action]Influence[/action]`  
+- `[action]Magic[/action]`  
+- `[action]Ready[/action]`  
+- `[action]Search[/action]`  
+- `[action]Study[/action]`  
+- `[action]Utilize[/action]`  
+- `[rules]Bonus Action[/rules]` `[rules]Bonus Action;Bonus Action[/rules]`  
+- `[rules]Reaction[/rules]` `[rules]Reaction;Reactions[/rules]`
 ### Social Interaction
-`[rules]Player Character[/rules]`  
-`[rules]Monster[/rules]`  
-`[rules]Nonplayer Character[/rules]`  
-`[rules]Ally[/rules]`  
-`[rules]Enemy[/rules]`  
-`[rules]Attitude[/rules]`  
-`[rules]Friendly[/rules]`  
-`[rules]Hostile[/rules]`  
-`[rules]Indifferent[/rules]`
+- `[rules]Player Character[/rules]`  
+- `[rules]Monster[/rules]`  
+- `[rules]Nonplayer Character[/rules]`  
+- `[rules]Ally[/rules]`  
+- `[rules]Enemy[/rules]`  
+- `[rules]Attitude[/rules]`  
+- `[rules]Friendly[/rules]`  
+- `[rules]Hostile[/rules]`  
+- `[rules]Indifferent[/rules]`
 ### Exploration
 #### Vision and Light
 `[rules]Lightly Obscured[/rules]`  
