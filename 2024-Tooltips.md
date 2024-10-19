@@ -1,12 +1,12 @@
 # Tooltips for the D&D Free Rules (2024)
 ## Playing the Game
-`[rules]Adventure[/rules]`  
+`[rules]Adventure[/rules]` `[rules]Adventure;Adventure[/rules]`  
 `[rules]Encounter[/rules]`  
-`[rules]Campaign[/rules]`  
+`[rules]Campaign[/rules]` `[rules]Campaign;Campaigns[/rules]`
 ### Dice
-`[rules]Damage[/rules]`  
+`[rules]Damage[/rules]`
 ### The Six Abilities
-`[rules]Ability Score and Modifier[/rules]`  
+`[rules]Ability Score and Modifier[/rules]`
 ### D20 Tests
 `[rules]D20 Test[/rules]`  
 `[rules]Difficulty Class[/rules]`  
@@ -17,10 +17,10 @@
 `[rules]Spell Attack[/rules]`  
 `[rules]Advantage[/rules]`  
 `[rules]Disadvantage[/rules]`  
-`[rules]Heroic Inspiration[/rules]`  
+`[rules]Heroic Inspiration[/rules]`
 ### Proficiency
 `[rules]Proficiency[/rules]`  
-`[rules]Expertise[/rules]`  
+`[rules]Expertise[/rules]`
 #### Skills
 `[rules]Skill[/rules]`  
 `[skill]Athletics[/skill]`  
@@ -56,7 +56,7 @@
 `[action]Study[/action]`  
 `[action]Utilize[/action]`  
 `[rules]Bonus Action[/rules]`  
-`[rules]Reaction[/rules]`  
+`[rules]Reaction[/rules]`
 ### Social Interaction
 `[rules]Player Character[/rules]`  
 `[rules]Monster[/rules]`  
@@ -66,34 +66,34 @@
 `[rules]Attitude[/rules]`  
 `[rules]Friendly[/rules]`  
 `[rules]Hostile[/rules]`  
-`[rules]Indifferent[/rules]`  
+`[rules]Indifferent[/rules]`
 ### Exploration
 #### Vision and Light
 `[rules]Lightly Obscured[/rules]`  
 `[rules]Heavily Obscured[/rules]`  
 `[rules]Bright Light[/rules]`  
 `[rules]Dim Light[/rules]`  
-`[rules]Darkness[/rules]`  
+`[rules]Darkness[/rules]`
 ##### Special Senses
 `[sense]Blindsight[/sense]`  
 `[sense]Darkvision[/sense]`  
 `[sense]Tremorsense[/sense]`  
-`[sense]Truesight[/sense]`  
+`[sense]Truesight[/sense]`
 #### Interacting with Objects
 `[rules]Object[/rules]`  
-`[rules]Breaking Objects[/rules]`  
+`[rules]Breaking Objects[/rules]`
 #### Hazards
 `[rules]Hazard[/rules]`  
 `[rules]Burning[/rules]`  
 `[rules]Dehydration[/rules]`  
 `[rules]Falling[/rules]`  
 `[rules]Malnutrition[/rules]`  
-`[rules]Suffocation[/rules]`  
+`[rules]Suffocation[/rules]`
 ### Combat
 #### The Order of Combat
 `[rules]Initiative[/rules]`  
 `[rules]Surprise[/rules]`  
-`[rules]Simultaneous Effects[/rules]`  
+`[rules]Simultaneous Effects[/rules]`
 #### Movement and Position
 `[rules]Speed[/rules]`  
 `[rules]Climbing[/rules]`  
@@ -111,20 +111,20 @@
 `[rules]Difficult Terrain[/rules]`  
 `[rules]Size[/rules]`  
 `[rules]Occupied Space[/rules]`  
-`[rules]Unoccupied Space[/rules]`  
+`[rules]Unoccupied Space[/rules]`
 #### Making an Attack
-`[rules]Target[/rules]`  
+`[rules]Target[/rules]`
 #### Cover
 `[rules]Cover[/rules]`  
 `[rules]Half Cover[/rules]`  
 `[rules]Three-Quarters Cover[/rules]`  
-`[rules]Total Cover[/rules]`  
+`[rules]Total Cover[/rules]`
 #### Melee Attacks
 `[rules]Unarmed Strike[/rules]`  
 `[action]Grapple[/action]`  
 `[action]Shove[/action]`  
 `[action]Opportunity Attack[/action]`  
-`[rules]Teleportation[/rules]`  
+`[rules]Teleportation[/rules]`
 ### Damage and Healing
 `[rules]Hit Points[/rules]`  
 `[rules]Bloodied[/rules]`  
@@ -142,7 +142,7 @@
 `[rules]Knocking Out a Creature[/rules]`  
 `[rules]Death Saving Throw[/rules]`  
 `[rules]Stable[/rules]`  
-`[rules]Temporary Hit Points[/rules]`  
+`[rules]Temporary Hit Points[/rules]`
 ### Conditions
 `[rules]Condition[/rules]`  
 `[condition]Blinded[/condition]`  
@@ -159,23 +159,21 @@
 `[condition]Prone[/condition]`  
 `[condition]Restrained[/condition]`  
 `[condition]Stunned[/condition]`  
-`[condition]Unconscious[/condition]`  
+`[condition]Unconscious[/condition]`
 ## Creating a Character
 ### Get Ready
-`[rules]Character Sheet[/rules]`  
+`[rules]Character Sheet[/rules]`
 ### Create Your Character
 `[rules]Experience Points[/rules]`  
 `[rules]Alignment[/rules]`  
 `[rules]Passive Perception[/rules]`  
 `[rules]Hit Point Dice[/rules]`  
-`[rules]Carrying Capacity[/rules]`  
-## Character Classes
-## Character Origins
+`[rules]Carrying Capacity[/rules]`
 ## Equipment
 ### Weapons
 `[rules]Weapon[/rules]`  
 `[rules]Improvised Weapons[/rules]`  
-`[action]Two-Weapon Fighting[/action]`  
+`[action]Two-Weapon Fighting[/action]`
 #### Properties
 `[wprop]Ammunition[/wprop]`  
 `[wprop]Finesse[/wprop]`  
@@ -195,13 +193,13 @@
 `[wprop]Sap[/wprop]`  
 `[wprop]Slow[/wprop]`  
 `[wprop]Topple[/wprop]`  
-`[wprop]Vex[/wprop]`  
+`[wprop]Vex[/wprop]`
 ### Armor
 `[rules]Armor Class[/rules]`  
-`[rules]Armor Training[/rules]`  
+`[rules]Armor Training[/rules]`
 ### Magic Items
 `[rules]Attunement[/rules]`  
-`[rules]Magical Effect[/rules]`  
+`[rules]Magical Effect[/rules]`
 ## Spells
 `[rules]Spell[/rules]`  
 `[rules]Cantrip[/rules]`  
@@ -219,13 +217,13 @@
 `[rules]Curses[/rules]`  
 `[rules]Possession[/rules]`  
 `[rules]Shape-Shifting[/rules]`  
-`[rules]Telepathy[/rules]`  
+`[rules]Telepathy[/rules]`
 ## Creature Stat Blocks
 `[rules]Stat Block[/rules]`  
 `[rules]Creature[/rules]`  
 `[rules]Creature Type[/rules]`  
 `[rules]Challenge Rating[/rules]`  
-`[rules]Per Day[/rules]`  
+`[rules]Per Day[/rules]`
 # Tooltips for the D&D Free Rules (2024)
 ## Spells (https://www.dndbeyond.com/spells?filter-source=148)
 `[spells]Spell Name[/spells]`
