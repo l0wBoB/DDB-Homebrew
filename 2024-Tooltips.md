@@ -203,7 +203,7 @@
 ## Spells
 - `[rules]Spell[/rules]` `[rules]Spell;Spells[/rules]`
 - `[rules]Cantrip[/rules]` `[rules]Cantrip;Cantrips[/rules]`
-- `[rules]Ritual[/rules]`
+- `[rules]Ritual[/rules]` `[rules]Ritual;Rituals[/rules]` `[rules]Ritual;Rite[/rules]` `[rules]Ritual;Rites[/rules]`
 - `[rules]Concentration[/rules]` `[rules]Concentration;concentrating[/rules]`
 - `[rules]Spellcasting Focus[/rules]`
 - `[rules]Area of Effect[/rules]` `[rules]Area of Effect;AoE[/rules]`
