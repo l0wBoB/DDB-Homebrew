@@ -71,8 +71,8 @@
 #### Vision and Light
 - `[rules]Lightly Obscured[/rules]`
 - `[rules]Heavily Obscured[/rules]`
-- `[rules]Bright Light[/rules]`
-- `[rules]Dim Light[/rules]`
+- `[rules]Bright Light[/rules]` `[rules]Bright Light;Bright Lights[/rules]`
+- `[rules]Dim Light[/rules]` `[rules]Dim Light;Dim Lights[/rules]`
 - `[rules]Darkness[/rules]`
 ##### Special Senses
 - `[sense]Blindsight[/sense]`
@@ -81,14 +81,14 @@
 - `[sense]Truesight[/sense]`
 #### Interacting with Objects
 - `[rules]Object[/rules]` `[rules]Object;Objects[/rules]`
-- `[rules]Breaking Objects[/rules]`
+- `[rules]Breaking Objects[/rules]` `[rules]Breaking Objects;break[/rules]`
 #### Hazards
 - `[rules]Hazard[/rules]` `[rules]Hazard;Hazards[/rules]`
-- `[rules]Burning[/rules]`
-- `[rules]Dehydration[/rules]`
-- `[rules]Falling[/rules]`
-- `[rules]Malnutrition[/rules]`
-- `[rules]Suffocation[/rules]` `[rules]Suffocation;Suffocating[/rules]`
+- `[rules]Burning[/rules]` `[rules]Burning;Burn Damage[/rules]`
+- `[rules]Dehydration[/rules]` `[rules]Dehydration;Dehydrating[/rules]` `[rules]Malnutrition;Water[/rules]`
+- `[rules]Falling[/rules]` `[rules]Falling;Fall Damage[/rules]`
+- `[rules]Malnutrition[/rules]` `[rules]Malnutrition;Nutrition[/rules]` `[rules]Malnutrition;Food[/rules]`
+- `[rules]Suffocation[/rules]` `[rules]Suffocation;Suffocating[/rules]` `[rules]Suffocation;Air[/rules]`
 ### Combat
 #### The Order of Combat
 - `[rules]Initiative[/rules]`
@@ -121,10 +121,10 @@
 - `[rules]Total Cover[/rules]`
 #### Melee Attacks
 - `[rules]Unarmed Strike[/rules]` `[rules]Unarmed Strike;Unarmed Strikes[/rules]`
-- `[action]Grapple[/action]`
-- `[action]Shove[/action]`
-- `[action]Opportunity Attack[/action]`
-- `[rules]Teleportation[/rules]`
+- `[action]Grapple[/action]` `[action]Grapple;Grappling[/action]`
+- `[action]Shove[/action]` `[action]Shove;Shoving[/action]`
+- `[action]Opportunity Attack[/action]` `[action]Opportunity Attack;Opportunity Attacks[/action]`
+- `[rules]Teleportation[/rules]` `[rules]Teleportation;Teleporting[/rules]` `[rules]Teleportation;teleport[/rules]`
 ### Damage and Healing
 - `[rules]Hit Points[/rules]` `[rules]Hit Points;Hit Point[/rules]` `[rules]Hit Points;HP[/rules]`
 - `[rules]Bloodied[/rules]`
@@ -148,7 +148,7 @@
 - `[condition]Blinded[/condition]`
 - `[condition]Charmed[/condition]`
 - `[condition]Deafened[/condition]`
-- `[condition]Exhaustion[/condition]` `[condition]Exhaustion;exhausted[/condition]`
+- `[condition]Exhaustion[/condition]` `[condition]Exhaustion;exhausted[/condition]` `[condition]Exhaustion;Sleep[/condition]`
 - `[condition]Frightened[/condition]`
 - `[condition]Grappled[/condition]`
 - `[condition]Incapacitated[/condition]`
@@ -162,13 +162,13 @@
 - `[condition]Unconscious[/condition]`
 ## Creating a Character
 ### Get Ready
-- `[rules]Character Sheet[/rules]` `[rules]Character Sheet;Sheet[/rules]`
+- `[rules]Character Sheet[/rules]` `[rules]Character Sheet;Character Sheets[/rules]` `[rules]Character Sheet;Sheet[/rules]` `[rules]Character Sheet;Sheets[/rules]`
 ### Create Your Character
 - `[rules]Experience Points[/rules]` `[rules]Experience Points;Experience Point[/rules]` `[rules]Experience Points;XP[/rules]`
-- `[rules]Alignment[/rules]`
+- `[rules]Alignment[/rules]` `[rules]Alignment;aligned[/rules]`
 - `[rules]Passive Perception[/rules]`
 - `[rules]Hit Point Dice[/rules]` `[rules]Hit Point Dice;Hit Point Die[/rules]`
-- `[rules]Carrying Capacity[/rules]`
+- `[rules]Carrying Capacity[/rules]` `[rules]Carrying Capacity;Dragging[/rules]` `[rules]Carrying Capacity;drag[/rules]` `[rules]Carrying Capacity;Lifting[/rules]` `[rules]Carrying Capacity;lift[/rules]` `[rules]Carrying Capacity;Pushing[/rules]` `[rules]Carrying Capacity;push[/rules]` `[rules]Carrying Capacity;Encumberment[/rules]` `[rules]Carrying Capacity;encumbered[/rules]`
 ## Equipment
 ### Weapons
 - `[rules]Weapon[/rules]` `[rules]Weapon;Weapons[/rules]`
