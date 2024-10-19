@@ -61,7 +61,7 @@
 - `[rules]Player Character[/rules]` `[rules]Player Character;Player Characters[/rules]` `[rules]Player Character;Character[/rules]` `[rules]Player Character;Characters[/rules]` `[rules]Player Character;PC[/rules]` `[rules]Player Character;PCs[/rules]`
 - `[rules]Monster[/rules]` `[rules]Monster;Monsters[/rules]`
 - `[rules]Nonplayer Character[/rules]` `[rules]Nonplayer Character;Nonplayer Characters[/rules]` `[rules]Nonplayer Character;NPC[/rules]` `[rules]Nonplayer Character;NPCs[/rules]`
-- `[rules]Ally[/rules]` `[rules]Ally;Allies[/rules]` `[rules]Ally;Friend[/rules]` `[rules]Ally;Friends[/rules]`
+- `[rules]Ally[/rules]` `[rules]Ally;Allies[/rules]` `[rules]Ally;Friend[/rules]` `[rules]Ally;Friends[/rules]` `[rules]Ally;Sidekick[/rules]` `[rules]Ally;Sidekicks[/rules]`
 - `[rules]Enemy[/rules]` `[rules]Enemy;Enemies[/rules]` `[rules]Enemy;Foe[/rules]` `[rules]Enemy;Foes[/rules]` `[rules]Enemy;BBEG[/rules]`
 - `[rules]Attitude[/rules]`
 - `[rules]Friendly[/rules]`
@@ -133,7 +133,7 @@
 - `[rules]Resistance[/rules]` `[rules]Resistance;Resistance[/rules]` `[rules]Resistance;Damage Resistance[/rules]` `[rules]Resistance;Damage Resistances[/rules]`
 - `[rules]Round Down[/rules]`
 - `[rules]Vulnerability[/rules]` `[rules]Vulnerability;Vulnerabilities[/rules]` `[rules]Vulnerability;Damage Vulnerability[/rules]` `[rules]Vulnerability;Damage Vulnerabilities[/rules]`
-- `[rules]Immunity[/rules]` `[rules]Immunity;Immunities[/rules]` `[rules]Immunity;Damage Immunity[/rules]` `[rules]Immunity;Damage Immunities[/rules]`
+- `[rules]Immunity[/rules]` `[rules]Immunity;Immunities[/rules]` `[rules]Immunity;Damage Immunity[/rules]` `[rules]Immunity;Damage Immunities[/rules]` `[rules]Immunity;Condition Immunity[/rules]` `[rules]Immunity;Condition Immunities[/rules]` `[rules]Immunity;immune[/rules]`
 - `[rules]Damage Threshold[/rules]`
 - `[rules]Healing[/rules]` `[rules]Healing;heal[/rules]`
 - `[rules]Short Rest[/rules]` `[rules]Short Rest;SR[/rules]`
