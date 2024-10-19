@@ -84,11 +84,11 @@
 - `[rules]Breaking Objects[/rules]` `[rules]Breaking Objects;break[/rules]`
 #### Hazards
 - `[rules]Hazard[/rules]` `[rules]Hazard;Hazards[/rules]`
-- `[rules]Burning[/rules]` `[rules]Burning;Burn Damage[/rules]`
-- `[rules]Dehydration[/rules]` `[rules]Dehydration;Dehydrating[/rules]` `[rules]Dehydration;Water[/rules]` `[rules]Dehydration;drink[/rules]`
-- `[rules]Falling[/rules]` `[rules]Falling;Fall Damage[/rules]`
-- `[rules]Malnutrition[/rules]` `[rules]Malnutrition;Nutrition[/rules]` `[rules]Malnutrition;Food[/rules]` `[rules]Malnutrition;eat[/rules]`
-- `[rules]Suffocation[/rules]` `[rules]Suffocation;Suffocating[/rules]` `[rules]Suffocation;Air[/rules]` `[rules]Suffocation;Breath[/rules]` `[rules]Suffocation;breathe[/rules]`
+- `[rules]Burning[/rules]` `[rules]Burning;Burn Damage[/rules]` `[rules]Burning;burn[/rules]`
+- `[rules]Dehydration[/rules]` `[rules]Dehydration;Dehydrating[/rules]` `[rules]Dehydration;dehydrate[/rules]`
+- `[rules]Falling[/rules]` `[rules]Falling;Fall Damage[/rules]` `[rules]Falling;fall[/rules]`
+- `[rules]Malnutrition[/rules]`
+- `[rules]Suffocation[/rules]` `[rules]Suffocation;Suffocating[/rules]` `[rules]Suffocation;suffocate[/rules]`
 ### Combat
 #### The Order of Combat
 - `[rules]Initiative[/rules]`
@@ -152,7 +152,7 @@
 - `[condition]Frightened[/condition]`
 - `[condition]Grappled[/condition]`
 - `[condition]Incapacitated[/condition]`
-- `[condition]Invisible[/condition]` `[condition]Invisible;Invisibility[/condition]`
+- `[condition]Invisible[/condition]`
 - `[condition]Paralyzed[/condition]`
 - `[condition]Petrified[/condition]`
 - `[condition]Poisoned[/condition]`
@@ -162,9 +162,9 @@
 - `[condition]Unconscious[/condition]`
 ## Creating a Character
 ### Get Ready
-- `[rules]Character Sheet[/rules]` `[rules]Character Sheet;Character Sheets[/rules]` `[rules]Character Sheet;Sheet[/rules]` `[rules]Character Sheet;Sheets[/rules]`
+- `[rules]Character Sheet[/rules]` `[rules]Character Sheet;Character Sheets[/rules]`
 ### Create Your Character
-- `[rules]Experience Points[/rules]` `[rules]Experience Points;Experience Point[/rules]` `[rules]Experience Points;XP[/rules]`
+- `[rules]Experience Points[/rules]` `[rules]Experience Points;XP[/rules]`
 - `[rules]Alignment[/rules]`
 - `[rules]Passive Perception[/rules]`
 - `[rules]Hit Point Dice[/rules]` `[rules]Hit Point Dice;Hit Point Die[/rules]` `[rules]Hit Point Dice;Hit Dice[/rules]` `[rules]Hit Point Dice;Hit Die[/rules]`
@@ -219,7 +219,7 @@
 - `[rules]Shape-Shifting[/rules]` `[rules]Shape-Shifting;shape-shift[/rules]`
 - `[rules]Telepathy[/rules]` `[rules]Telepathy;telepathic[/rules]`
 ## Creature Stat Blocks
-- `[rules]Stat Block[/rules]` `[rules]Stat Block;Stat Blocks[/rules]` `[rules]Stat Block;Monster Statistics[/rules]` `[rules]Stat Block;Monster Stats[/rules]` `[rules]Stat Block;Statistics[/rules]`
+- `[rules]Stat Block[/rules]` `[rules]Stat Block;Stat Blocks[/rules]` `[rules]Stat Block;Monster Statistics[/rules]`
 - `[rules]Creature[/rules]` `[rules]Creature;Creatures[/rules]`
 - `[rules]Creature Type[/rules]` `[rules]Creature Type;Creature Types[/rules]`
 - `[rules]Challenge Rating[/rules]` `[rules]Challenge Rating;CR[/rules]`
