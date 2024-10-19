@@ -95,7 +95,7 @@
 - `[rules]Surprise[/rules]` `[rules]Surprise;surprised[/rules]`
 - `[rules]Simultaneous Effects[/rules]`
 #### Movement and Position
-- `[rules]Speed[/rules]` `[rules]Speed;Movement[/rules]`
+- `[rules]Speed[/rules]`
 - `[rules]Climbing[/rules]` `[rules]Climbing;climb[/rules]`
 - `[rules]Climb Speed[/rules]`
 - `[rules]Crawling[/rules]` `[rules]Crawling;crawl[/rules]`
