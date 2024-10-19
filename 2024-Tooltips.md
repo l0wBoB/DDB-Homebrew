@@ -58,7 +58,7 @@
 - `[rules]Bonus Action[/rules]` `[rules]Bonus Action;Bonus Actions[/rules]`
 - `[rules]Reaction[/rules]` `[rules]Reaction;Reactions[/rules]`
 ### Social Interaction
-- `[rules]Player Character[/rules]` `[rules]Player Character;Player Characters[/rules]` `[rules]Player Character;PC[/rules]` `[rules]Player Character;PCs[/rules]`
+- `[rules]Player Character[/rules]` `[rules]Player Character;Player Characters[/rules]` `[rules]Player Character;Character[/rules]` `[rules]Player Character;Characters[/rules]` `[rules]Player Character;PC[/rules]` `[rules]Player Character;PCs[/rules]`
 - `[rules]Monster[/rules]` `[rules]Monster;Monsters[/rules]`
 - `[rules]Nonplayer Character[/rules]` `[rules]Nonplayer Character;Nonplayer Characters[/rules]` `[rules]Nonplayer Character;NPC[/rules]` `[rules]Nonplayer Character;NPCs[/rules]`
 - `[rules]Ally[/rules]` `[rules]Ally;Allies[/rules]`
