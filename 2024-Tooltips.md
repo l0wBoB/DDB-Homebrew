@@ -48,7 +48,7 @@
 - `[action]Disengage[/action]`
 - `[action]Dodge[/action]`
 - `[action]Help[/action]`
-- `[action]Hide[/action]`
+- `[action]Hide[/action]` `[action]Help;stabilize[/action]`
 - `[action]Influence[/action]`
 - `[action]Magic[/action]` `[action]Magic;Cast a Spell[/action]` `[action]Magic;cast[/action]`
 - `[action]Ready[/action]`
@@ -62,7 +62,7 @@
 - `[rules]Monster[/rules]` `[rules]Monster;Monsters[/rules]`
 - `[rules]Nonplayer Character[/rules]` `[rules]Nonplayer Character;Nonplayer Characters[/rules]` `[rules]Nonplayer Character;NPC[/rules]` `[rules]Nonplayer Character;NPCs[/rules]`
 - `[rules]Ally[/rules]` `[rules]Ally;Allies[/rules]` `[rules]Ally;Friend[/rules]` `[rules]Ally;Friends[/rules]` `[rules]Ally;Sidekick[/rules]` `[rules]Ally;Sidekicks[/rules]`
-- `[rules]Enemy[/rules]` `[rules]Enemy;Enemies[/rules]` `[rules]Enemy;Foe[/rules]` `[rules]Enemy;Foes[/rules]` `[rules]Enemy;BBEG[/rules]`
+- `[rules]Enemy[/rules]` `[rules]Enemy;Enemies[/rules]` `[rules]Enemy;Foe[/rules]` `[rules]Enemy;Foes[/rules]` `[rules]Enemy;Rival[/rules]` `[rules]Enemy;Rivals[/rules]`
 - `[rules]Attitude[/rules]`
 - `[rules]Friendly[/rules]`
 - `[rules]Hostile[/rules]`
@@ -80,7 +80,7 @@
 - `[sense]Tremorsense[/sense]`
 - `[sense]Truesight[/sense]`
 #### Interacting with Objects
-- `[rules]Object[/rules]` `[rules]Object;Objects[/rules]`
+- `[rules]Object[/rules]` `[rules]Object;Objects[/rules]` `[rules]Object;Item[/rules]` `[rules]Object;Items[/rules]`
 - `[rules]Breaking Objects[/rules]` `[rules]Breaking Objects;break[/rules]`
 #### Hazards
 - `[rules]Hazard[/rules]` `[rules]Hazard;Hazards[/rules]`
@@ -138,28 +138,28 @@
 - `[rules]Healing[/rules]` `[rules]Healing;heal[/rules]`
 - `[rules]Short Rest[/rules]` `[rules]Short Rest;SR[/rules]`
 - `[rules]Long Rest[/rules]` `[rules]Long Rest;LR[/rules]`
-- `[rules]Dead[/rules]`
+- `[rules]Dead[/rules]` `[rules]Dead;Death[/rules]`
 - `[rules]Knocking Out a Creature[/rules]` `[rules]Knocking Out a Creature;knock out[/rules]`
 - `[rules]Death Saving Throw[/rules]` `[rules]Death Saving Throw;Death Saving Throws[/rules]` `[rules]Death Saving Throw;Death Save[/rules]` `[rules]Death Saving Throw;Death Saves[/rules]`
-- `[rules]Stable[/rules]` `[rules]Stable;stabilize[/rules]`
-- `[rules]Temporary Hit Points[/rules]` `[rules]Temporary Hit Points;Temporary Hit Point[/rules]` `[rules]Temporary Hit Points;Temporary HP[/rules]` `[rules]Temporary Hit Points;Temp HP[/rules]` `[rules]Temporary Hit Points;THP[/rules]`
+- `[rules]Stable[/rules]`
+- `[rules]Temporary Hit Points[/rules]` `[rules]Temporary Hit Points;Temporary Hit Point[/rules]` `[rules]Temporary Hit Points;Temporary HP[/rules]` `[rules]Temporary Hit Points;Temp HP[/rules]`
 ### Conditions
 - `[rules]Condition[/rules]` `[rules]Condition;Conditions[/rules]`
-- `[condition]Blinded[/condition]` `[condition]Blinded;Blinding[/condition]` `[condition]Blinded;blind[/condition]`
-- `[condition]Charmed[/condition]` `[condition]Charmed;Charming[/condition]`
-- `[condition]Deafened[/condition]` `[condition]Deafened;Defeaning[/condition]` `[condition]Deafened;deaf[/condition]`
+- `[condition]Blinded[/condition]` `[condition]Blinded;blind[/condition]`
+- `[condition]Charmed[/condition]`
+- `[condition]Deafened[/condition]` `[condition]Deafened;deaf[/condition]`
 - `[condition]Exhaustion[/condition]` `[condition]Exhaustion;exhausted[/condition]` `[condition]Exhaustion;Sleep[/condition]`
-- `[condition]Frightened[/condition]` `[condition]Frightened;Frightening[/condition]`
-- `[condition]Grappled[/condition]` `[condition]Grappled;Grappling[/condition]`
-- `[condition]Incapacitated[/condition]` `[condition]Incapacitated;Incapacitation[/condition]`
+- `[condition]Frightened[/condition]`
+- `[condition]Grappled[/condition]`
+- `[condition]Incapacitated[/condition]`
 - `[condition]Invisible[/condition]` `[condition]Invisible;Invisibility[/condition]`
-- `[condition]Paralyzed[/condition]` `[condition]Paralyzed;Paralyzation[/condition]`
-- `[condition]Petrified[/condition]` `[condition]Petrified;Petrification[/condition]`
-- `[condition]Poisoned[/condition]` `[condition]Poisoned;Poisoning[/condition]`
+- `[condition]Paralyzed[/condition]`
+- `[condition]Petrified[/condition]`
+- `[condition]Poisoned[/condition]`
 - `[condition]Prone[/condition]`
-- `[condition]Restrained[/condition]` `[condition]Restrained;Restraining[/condition]`
-- `[condition]Stunned[/condition]` `[condition]Stunned;Stunning[/condition]` `[condition]Stunned;Stun[/condition]`
-- `[condition]Unconscious[/condition]` `[condition]Unconscious;Unconsciousness[/condition]`
+- `[condition]Restrained[/condition]`
+- `[condition]Stunned[/condition]`
+- `[condition]Unconscious[/condition]`
 ## Creating a Character
 ### Get Ready
 - `[rules]Character Sheet[/rules]` `[rules]Character Sheet;Character Sheets[/rules]` `[rules]Character Sheet;Sheet[/rules]` `[rules]Character Sheet;Sheets[/rules]`
@@ -167,8 +167,8 @@
 - `[rules]Experience Points[/rules]` `[rules]Experience Points;Experience Point[/rules]` `[rules]Experience Points;XP[/rules]`
 - `[rules]Alignment[/rules]`
 - `[rules]Passive Perception[/rules]`
-- `[rules]Hit Point Dice[/rules]` `[rules]Hit Point Dice;Hit Point Die[/rules]`
-- `[rules]Carrying Capacity[/rules]` `[rules]Carrying Capacity;Dragging[/rules]` `[rules]Carrying Capacity;drag[/rules]` `[rules]Carrying Capacity;Lifting[/rules]` `[rules]Carrying Capacity;lift[/rules]` `[rules]Carrying Capacity;Pushing[/rules]` `[rules]Carrying Capacity;push[/rules]` `[rules]Carrying Capacity;Encumberment[/rules]` `[rules]Carrying Capacity;encumbered[/rules]`
+- `[rules]Hit Point Dice[/rules]` `[rules]Hit Point Dice;Hit Point Die[/rules]` `[rules]Hit Point Dice;Hit Dice[/rules]` `[rules]Hit Point Dice;Hit Die[/rules]`
+- `[rules]Carrying Capacity[/rules]` `[rules]Carrying Capacity;Dragging[/rules]` `[rules]Carrying Capacity;drag[/rules]` `[rules]Carrying Capacity;Lifting[/rules]` `[rules]Carrying Capacity;lift[/rules]` `[rules]Carrying Capacity;Pushing[/rules]` `[rules]Carrying Capacity;push[/rules]`
 ## Equipment
 ### Weapons
 - `[rules]Weapon[/rules]` `[rules]Weapon;Weapons[/rules]`
@@ -203,8 +203,8 @@
 ## Spells
 - `[rules]Spell[/rules]` `[rules]Spell;Spells[/rules]`
 - `[rules]Cantrip[/rules]` `[rules]Cantrip;Cantrips[/rules]`
-- `[rules]Ritual[/rules]` `[rules]Ritual;Rituals[/rules]` `[rules]Ritual;Rite[/rules]` `[rules]Ritual;Rites[/rules]`
-- `[rules]Concentration[/rules]` `[rules]Concentration;concentrating[/rules]`
+- `[rules]Ritual[/rules]` `[rules]Ritual;Rituals[/rules]`
+- `[rules]Concentration[/rules]` `[rules]Concentration;Concentrating[/rules]` `[rules]Concentration;concentrate[/rules]`
 - `[rules]Spellcasting Focus[/rules]`
 - `[rules]Area of Effect[/rules]` `[rules]Area of Effect;AoE[/rules]`
 - `[rules]Cone[/rules]`
@@ -217,7 +217,7 @@
 - `[rules]Curses[/rules]` `[rules]Curses;Curse[/rules]` `[rules]Curses;cursed[/rules]`
 - `[rules]Possession[/rules]` `[rules]Possession;possessed[/rules]`
 - `[rules]Shape-Shifting[/rules]` `[rules]Shape-Shifting;shape-shift[/rules]`
-- `[rules]Telepathy[/rules]` `[rules]Telepathy;telepathically[/rules]`
+- `[rules]Telepathy[/rules]` `[rules]Telepathy;telepathic[/rules]`
 ## Creature Stat Blocks
 - `[rules]Stat Block[/rules]` `[rules]Stat Block;Stat Blocks[/rules]` `[rules]Stat Block;Monster Statistics[/rules]` `[rules]Stat Block;Monster Stats[/rules]` `[rules]Stat Block;Statistics[/rules]`
 - `[rules]Creature[/rules]` `[rules]Creature;Creatures[/rules]`
