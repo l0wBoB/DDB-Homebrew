@@ -1,8 +1,8 @@
 # Tooltips for the D&D Free Rules (2024)
 ## Playing the Game
+`[rules]Campaign[/rules]`  
 `[rules]Adventure[/rules]`  
 `[rules]Encounter[/rules]`  
-`[rules]Campaign[/rules]`  
 ### Dice
 `[rules]Damage[/rules]`  
 ### The Six Abilities
@@ -122,6 +122,7 @@
 `[rules]Critical Hit[/rules]`  
 `[rules]Damage Types[/rules]`  
 `[rules]Resistance[/rules]`  
+`[rules]Round Down[/rules]`  
 `[rules]Vulnerability[/rules]`  
 `[rules]Immunity[/rules]`  
 `[rules]Healing[/rules]`  
@@ -237,7 +238,7 @@
 `[rules]Illusions[/rules]`  
 `[rules]Magical Effect[/rules]`  
 `[rules]Per Day[/rules]`  
-`[rules]Round Down[/rules]`  
+
 `[rules]Shape-Shifting[/rules]`  
 `[rules]Simultaneous Effects[/rules]`  
 `[rules]Telepathy[/rules]`  
