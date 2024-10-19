@@ -85,7 +85,7 @@
 #### Hazards
 - `[rules]Hazard[/rules]` `[rules]Hazard;Hazards[/rules]`
 - `[rules]Burning[/rules]` `[rules]Burning;Burn Damage[/rules]`
-- `[rules]Dehydration[/rules]` `[rules]Dehydration;Dehydrating[/rules]` `[rules]Malnutrition;Water[/rules]`
+- `[rules]Dehydration[/rules]` `[rules]Dehydration;Dehydrating[/rules]` `[rules]Dehydration;Water[/rules]`
 - `[rules]Falling[/rules]` `[rules]Falling;Fall Damage[/rules]`
 - `[rules]Malnutrition[/rules]` `[rules]Malnutrition;Nutrition[/rules]` `[rules]Malnutrition;Food[/rules]`
 - `[rules]Suffocation[/rules]` `[rules]Suffocation;Suffocating[/rules]` `[rules]Suffocation;Air[/rules]`
