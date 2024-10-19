@@ -57,7 +57,7 @@
 - `[rule]Advantage[/rule]`
 - `[rule]Disadvantage[/rule]`
 ### Proficiency Bonus
-- `[rule]Proficiency Bonus[/rule]` `[rule]Proficiency Bonus;Proficiency[/rule]` `[rule]Proficiency Bonus;proficient[/rule]`
+- `[rule]Proficiency Bonus[/rule]` `[rule]Proficiency Bonus;Proficiency[/rule]` `[rule]Proficiency Bonus;proficient[/rule]` `[rule]Proficiency Bonus;PB[/rule]`
 ### Ability Checks
 #### Skills
 - `Strength ([skill]Athletics[/skill])`
