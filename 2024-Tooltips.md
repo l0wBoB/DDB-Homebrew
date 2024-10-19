@@ -19,7 +19,7 @@
 - `[rules]Disadvantage[/rules]`
 - `[rules]Heroic Inspiration[/rules]` `[rules]Heroic Inspiration;Inspiration[/rules]`
 ### Proficiency
-- `[rules]Proficiency[/rules]` `[rules]Proficiency;Proficiencies[/rules]` `[rules]Proficiency;Proficiency Bonus[/rules]` `[rules]Proficiency;proficient[/rules]`
+- `[rules]Proficiency[/rules]` `[rules]Proficiency;Proficiencies[/rules]` `[rules]Proficiency;Proficiency Bonus[/rules]` `[rules]Proficiency;proficient[/rules]` `[rules]Proficiency;PB[/rules]`
 - `[rules]Expertise[/rules]` `[rules]Expertise;Double Proficiency[/rules]`
 #### Skills
 - `[rules]Skill[/rules]` `[rules]Skill;Skills[/rules]`
@@ -203,8 +203,8 @@
 ## Spells
 - `[rules]Spell[/rules]` `[rules]Spell;Spells[/rules]`
 - `[rules]Cantrip[/rules]` `[rules]Cantrip;Cantrips[/rules]`
-- `[rules]Ritual[/rules]` `[rules]Ritual;Rituals[/rules]`
-- `[rules]Concentration[/rules]` `[rules]Concentration;Concentrating[/rules]` `[rules]Concentration;concentrate[/rules]`
+- `[rules]Ritual[/rules]` `[rules]Ritual;Rituals[/rules]` `[rules]Ritual;R[/rules]`
+- `[rules]Concentration[/rules]` `[rules]Concentration;Concentrating[/rules]` `[rules]Concentration;concentrate[/rules]` `[rules]Concentration;C[/rules]`
 - `[rules]Spellcasting Focus[/rules]`
 - `[rules]Area of Effect[/rules]` `[rules]Area of Effect;AoE[/rules]`
 - `[rules]Cone[/rules]`
