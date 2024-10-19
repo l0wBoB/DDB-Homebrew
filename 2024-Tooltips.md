@@ -61,8 +61,8 @@
 - `[rules]Player Character[/rules]` `[rules]Player Character;Player Characters[/rules]` `[rules]Player Character;Character[/rules]` `[rules]Player Character;Characters[/rules]` `[rules]Player Character;PC[/rules]` `[rules]Player Character;PCs[/rules]`
 - `[rules]Monster[/rules]` `[rules]Monster;Monsters[/rules]`
 - `[rules]Nonplayer Character[/rules]` `[rules]Nonplayer Character;Nonplayer Characters[/rules]` `[rules]Nonplayer Character;NPC[/rules]` `[rules]Nonplayer Character;NPCs[/rules]`
-- `[rules]Ally[/rules]` `[rules]Ally;Allies[/rules]`
-- `[rules]Enemy[/rules]` `[rules]Enemy;Enemies[/rules]`
+- `[rules]Ally[/rules]` `[rules]Ally;Allies[/rules]` `[rules]Ally;Friend[/rules]` `[rules]Ally;Friends[/rules]`
+- `[rules]Enemy[/rules]` `[rules]Enemy;Enemies[/rules]` `[rules]Enemy;Foe[/rules]` `[rules]Enemy;Foes[/rules]`
 - `[rules]Attitude[/rules]`
 - `[rules]Friendly[/rules]`
 - `[rules]Hostile[/rules]`
