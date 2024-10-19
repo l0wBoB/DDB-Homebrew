@@ -3,7 +3,7 @@
 ### 2. Choose a Class
 #### Level
 - `[rule]Level[/rule]` `[rule]Level;Levels[/rule]`
-- `[rule]Experience Points[/rule]` `[rule]Experience Points;Experience Point[/rule]` `[rule]Experience Points;XP[/rule]`
+- `[rule]Experience Points[/rule]` `[rule]Experience Points;XP[/rule]`
 #### Hit Points and Hit Dice
 - `[rule]Hit Dice[/rule]` `[rule]Hit Dice;Hit Die[/rule]` `[rule]Hit Dice;Hit Point Dice[/rule]` `[rule]Hit Dice;Hit Point Die[/rule]`
 ### 5. Choose Equipment
@@ -28,7 +28,7 @@
 - `[rule]Neutral Evil[/rule]` `[rule]Neutral Evil;NE[/rule]`
 - `[rule]Chaotic Evil[/rule]` `[rule]Chaotic Evil;CE[/rule]`
 ### Personal Characteristics
-- `[rule]Personality Traits[/rule]` `[rule]Personality Traits;Personality Trait[/rule]` `[rule]Personality Traits;Personality[/rule]` `[rule]Personality Traits;Trait[/rule]` `[rule]Personality Traits;Traits[/rule]`
+- `[rule]Personality Traits[/rule]` `[rule]Personality Traits;Personality Trait[/rule]`
 - `[rule]Ideals[/rule]` `[rule]Ideals;Ideal[/rule]`
 - `[rule]Bonds[/rule]` `[rule]Bonds;Bond[/rule]`
 - `[rule]Flaws[/rule]` `[rule]Flaws;Flaw[/rule]`
@@ -88,8 +88,8 @@
 - `[rule]Difficult Terrain[/rule]`
 - `[rule]Climbing Swimming Crawling[/rule]` `[rule]Climbing Swimming Crawling;Climbing[/rule]` `[rule]Climbing Swimming Crawling;climb[/rule]` `[rule]Climbing Swimming Crawling;Swimming[/rule]` `[rule]Climbing Swimming Crawling;swim[/rule]` `[rule]Climbing Swimming Crawling;Crawling[/rule]` `[rule]Climbing Swimming Crawling;crawl[/rule]`
 ### The Environment
-- `[rule]Falling[/rule]` `[rule]Falling;Fall Damage[/rule]` 
-- `[rule]Suffocating[/rule]` `[rule]Suffocating;Suffocation[/rule]` `[rule]Suffocating;Air[/rule]` `[rule]Suffocating;Breath[/rule]` `[rule]Suffocating;breathe[/rule]`
+- `[rule]Falling[/rule]` `[rule]Falling;Fall Damage[/rule]` `[rule]Falling;fall[/rule]`
+- `[rule]Suffocating[/rule]` `[rule]Suffocating;Suffocation[/rule]` `[rule]Suffocating;suffocate[/rule]`
 - `[rule]Lightly Obscured[/rule]`
 - `[rule]Heavily Obscured[/rule]`
 ## Chapter 9: Combat
@@ -146,7 +146,7 @@
 - `[rule]Instant Death[/rule]`
 - `[rule]Death Saving Throws[/rule]` `[rule]Death Saving Throws;Death Saving Throw[/rule]` `[rule]Death Saving Throws;Death Saves[/rule]` `[rule]Death Saving Throws;Death Save[/rule]`
 #### Temporary Hit Points
-- `[rule]Temporary Hit Points[/rule]` `[rule]Temporary Hit Points;Temporary Hit Point[/rule]` `[rule]Temporary Hit Points;Temporary HP[/rule]` `[rule]Temporary Hit Points;Temp HP[/rule]`
+- `[rule]Temporary Hit Points[/rule]` `[rule]Temporary Hit Points;Temporary Hit Point[/rule]`
 #### Underwater Combat
 - `[rule]Underwater[/rule]`
 ## Chapter 12: Monsters
