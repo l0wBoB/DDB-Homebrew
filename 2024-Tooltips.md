@@ -120,7 +120,7 @@
 - `[rules]Three-Quarters Cover[/rules]`
 - `[rules]Total Cover[/rules]`
 #### Melee Attacks
-- `[rules]Unarmed Strike[/rules]` - `[rules]Unarmed Strike;Unarmed Strikes[/rules]`
+- `[rules]Unarmed Strike[/rules]` `[rules]Unarmed Strike;Unarmed Strikes[/rules]`
 - `[action]Grapple[/action]`
 - `[action]Shove[/action]`
 - `[action]Opportunity Attack[/action]`
