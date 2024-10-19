@@ -1,7 +1,7 @@
 # Tooltips for the D&D Free Rules (2024)
 ## Playing the Game
 - `[rules]Adventure[/rules]` `[rules]Adventure;Adventures[/rules]`
-- `[rules]Encounter[/rules]`
+- `[rules]Encounter[/rules]` `[rules]Encounter;Encounters[/rules]`
 - `[rules]Campaign[/rules]` `[rules]Campaign;Campaigns[/rules]`
 ### Dice
 - `[rules]Damage[/rules]`
