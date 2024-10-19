@@ -113,7 +113,7 @@
 - `[rules]Occupied Space[/rules]`
 - `[rules]Unoccupied Space[/rules]`
 #### Making an Attack
-- `[rules]Target[/rules]` - `[rules]Target;targets[/rules]`
+- `[rules]Target[/rules]` `[rules]Target;Targets[/rules]`
 #### Cover
 - `[rules]Cover[/rules]`
 - `[rules]Half Cover[/rules]`
