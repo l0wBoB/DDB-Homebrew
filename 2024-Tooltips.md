@@ -47,8 +47,8 @@
 - `[action]Dash[/action]`
 - `[action]Disengage[/action]`
 - `[action]Dodge[/action]`
-- `[action]Help[/action]`
-- `[action]Hide[/action]` `[action]Help;stabilize[/action]`
+- `[action]Help[/action]` `[action]Help;stabilize[/action]`
+- `[action]Hide[/action]`
 - `[action]Influence[/action]`
 - `[action]Magic[/action]` `[action]Magic;Cast a Spell[/action]` `[action]Magic;cast[/action]`
 - `[action]Ready[/action]`
