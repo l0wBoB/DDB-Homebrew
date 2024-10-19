@@ -10,7 +10,7 @@
 ### D20 Tests
 - `[rules]D20 Test[/rules]` `[rules]D20 Test;D20 Tests[/rules]` `[rules]D20 Test;Roll[/rules]` `[rules]D20 Test;Rolls[/rules]`
 - `[rules]Difficulty Class[/rules]` `[rules]Difficulty Class;DC[/rules]`
-- `[rules]Ability Check[/rules]` `[rules]Ability Check;Ability Checks[/rules]`
+- `[rules]Ability Check[/rules]` `[rules]Ability Check;Ability Checks[/rules]` `[rules]Ability Check;Check[/rules]` `[rules]Ability Check;Checks[/rules]`
 - `[rules]Saving Throw[/rules]` `[rules]Saving Throw;Saving Throws[/rules]` `[rules]Saving Throw;Save[/rules]` `[rules]Saving Throw;Saves[/rules]`
 - `[rules]Attack Roll[/rules]` `[rules]Attack Roll;Attack Rolls[/rules]`
 - `[rules]Weapon Attack[/rules]` `[rules]Weapon Attack;Weapon Attacks[/rules]`
@@ -20,42 +20,42 @@
 - `[rules]Heroic Inspiration[/rules]` `[rules]Heroic Inspiration;Inspiration[/rules]`
 ### Proficiency
 - `[rules]Proficiency[/rules]` `[rules]Proficiency;Proficiencies[/rules]` `[rules]Proficiency;Proficiency Bonus[/rules]`
-- `[rules]Expertise[/rules]`
+- `[rules]Expertise[/rules]` `[rules]Expertise;Double Proficiency[/rules]`
 #### Skills
 - `[rules]Skill[/rules]` `[rules]Skill;Skills[/rules]`
-- `[skill]Athletics[/skill]`
-- `[skill]Acrobatics[/skill]`
-- `[skill]Sleight of Hand[/skill]`
-- `[skill]Stealth[/skill]`
-- `[skill]Arcana[/skill]`
-- `[skill]History[/skill]`
-- `[skill]Investigation[/skill]`
-- `[skill]Nature[/skill]`
-- `[skill]Religion[/skill]`
-- `[skill]Animal Handling[/skill]`
-- `[skill]Insight[/skill]`
-- `[skill]Medicine[/skill]`
-- `[skill]Perception[/skill]`
-- `[skill]Survival[/skill]`
-- `[skill]Deception[/skill]`
-- `[skill]Intimidation[/skill]`
-- `[skill]Performance[/skill]`
-- `[skill]Persuasion[/skill]`
+- `Strength ([skill]Athletics[/skill])`
+- `Dexterity ([skill]Acrobatics[/skill])`
+- `Dexterity ([skill]Sleight of Hand[/skill])`
+- `Dexterity ([skill]Stealth[/skill])`
+- `Intelligence ([skill]Arcana[/skill])`
+- `Intelligence ([skill]History[/skill])`
+- `Intelligence ([skill]Investigation[/skill])`
+- `Intelligence ([skill]Nature[/skill])`
+- `Intelligence ([skill]Religion[/skill])`
+- `Wisdom ([skill]Animal Handling[/skill])`
+- `Wisdom ([skill]Insight[/skill])`
+- `Wisdom ([skill]Medicine[/skill])`
+- `Wisdom ([skill]Perception[/skill])`
+- `Wisdom ([skill]Survival[/skill])`
+- `Charisma ([skill]Deception[/skill])`
+- `Charisma ([skill]Intimidation[/skill])`
+- `Charisma ([skill]Performance[/skill])`
+- `Charisma ([skill]Persuasion[/skill])`
 ### Actions
 - `[rules]Action[/rules]` `[rules]Action;Actions[/rules]`
-- `[action]Attack[/action]` `[action]Attack;Attacks[/action]`
+- `[action]Attack[/action]`
 - `[action]Dash[/action]`
 - `[action]Disengage[/action]`
 - `[action]Dodge[/action]`
 - `[action]Help[/action]`
 - `[action]Hide[/action]`
 - `[action]Influence[/action]`
-- `[action]Magic[/action]`
+- `[action]Magic[/action]` `[action]Magic;cast[/action]`
 - `[action]Ready[/action]`
 - `[action]Search[/action]`
 - `[action]Study[/action]`
-- `[action]Utilize[/action]`
-- `[rules]Bonus Action[/rules]` `[rules]Bonus Action;Bonus Action[/rules]`
+- `[action]Utilize[/action]` `[action]Utilize;use[/action]`
+- `[rules]Bonus Action[/rules]` `[rules]Bonus Action;Bonus Actions[/rules]`
 - `[rules]Reaction[/rules]` `[rules]Reaction;Reactions[/rules]`
 ### Social Interaction
 - `[rules]Player Character[/rules]` `[rules]Player Character;Player Characters[/rules]` `[rules]Player Character;PC[/rules]` `[rules]Player Character;PCs[/rules]`
