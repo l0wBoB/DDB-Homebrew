@@ -17,7 +17,7 @@
 - `[rule]Class[/rule]` `[rule]Class;Classes[/rule]`
 ## Chapter 4: Personality and Background
 ### Alignment
-- `[rule]Alignment[/rule]` `[rule]Alignment;Attitude[/rule]`
+- `[rule]Alignment[/rule]`
 - `[rule]Lawful Good[/rule]` `[rule]Lawful Good;LG[/rule]`
 - `[rule]Neutral Good[/rule]` `[rule]Neutral Good;NG[/rule]`
 - `[rule]Chaotic Good[/rule]` `[rule]Chaotic Good;CG[/rule]`
@@ -99,12 +99,12 @@
 ### Movement and Position
 - `[rule]Flying[/rule]` `[rule]Flying;Hovering[/rule]` `[rule]Flying;fly[/rule]` `[rule]Flying;hover[/rule]`
 ### Actions in Combat
-- `[action]Attack[/action]`
+- `[action]Attack[/action]` `[action]Attack;Weapon Attack[/action]` `[action]Attack;Unarmed Strike[/action]`
 - `[action]Cast a Spell[/action]` `[action]Cast a Spell;cast[/action]` (broken as of 2024-10-19)
 - `[action]Dash[/action]`
 - `[action]Disengage[/action]`
 - `[action]Dodge[/action]`
-- `[action]Help[/action]`
+- `[action]Help[/action]` `[action]Help;stabilize[/action]`
 - `[action]Hide[/action]`
 - `[action]Ready[/action]`
 - `[action]Search[/action]`
@@ -142,7 +142,7 @@
 - `[rule]Instant Death[/rule]`
 - `[rule]Death Saving Throws[/rule]` `[rule]Death Saving Throws;Death Saving Throw[/rule]` `[rule]Death Saving Throws;Death Saves[/rule]` `[rule]Death Saving Throws;Death Save[/rule]`
 #### Temporary Hit Points
-- `[rule]Temporary Hit Points[/rule]` `[rule]Temporary Hit Points;Temporary Hit Point[/rule]` `[rule]Temporary Hit Points;Temporary HP[/rule]` `[rule]Temporary Hit Points;Temp HP[/rule]` `[rule]Temporary Hit Points;THP[/rule]`
+- `[rule]Temporary Hit Points[/rule]` `[rule]Temporary Hit Points;Temporary Hit Point[/rule]` `[rule]Temporary Hit Points;Temporary HP[/rule]` `[rule]Temporary Hit Points;Temp HP[/rule]`
 #### Underwater Combat
 - `[rule]Underwater[/rule]`
 ## Chapter 12: Monsters
@@ -154,21 +154,21 @@
 - `[sense]Tremorsense[/sense]`
 - `[sense]Truesight[/sense]`
 ## Appendix A: Conditions
-- `[condition]Blinded[/condition]` `[condition]Blinded;Blinding[/condition]` `[condition]Blinded;blind[/condition]`
-- `[condition]Charmed[/condition]` `[condition]Charmed;Charming[/condition]`
-- `[condition]Deafened[/condition]` `[condition]Deafened;Defeaning[/condition]` `[condition]Deafened;deaf[/condition]`
+- `[condition]Blinded[/condition]` `[condition]Blinded;blind[/condition]`
+- `[condition]Charmed[/condition]`
+- `[condition]Deafened[/condition]` `[condition]Deafened;deaf[/condition]`
 - `[condition]Exhaustion[/condition]` `[condition]Exhaustion;exhausted[/condition]` `[condition]Exhaustion;Sleep[/condition]`
-- `[condition]Frightened[/condition]` `[condition]Frightened;Frightening[/condition]`
-- `[condition]Grappled[/condition]` `[condition]Grappled;Grappling[/condition]`
-- `[condition]Incapacitated[/condition]` `[condition]Incapacitated;Incapacitation[/condition]`
+- `[condition]Frightened[/condition]`
+- `[condition]Grappled[/condition]`
+- `[condition]Incapacitated[/condition]`
 - `[condition]Invisible[/condition]` `[condition]Invisible;Invisibility[/condition]`
-- `[condition]Paralyzed[/condition]` `[condition]Paralyzed;Paralyzation[/condition]`
-- `[condition]Petrified[/condition]` `[condition]Petrified;Petrification[/condition]`
-- `[condition]Poisoned[/condition]` `[condition]Poisoned;Poisoning[/condition]`
+- `[condition]Paralyzed[/condition]`
+- `[condition]Petrified[/condition]`
+- `[condition]Poisoned[/condition]`
 - `[condition]Prone[/condition]`
-- `[condition]Restrained[/condition]` `[condition]Restrained;Restraining[/condition]`
-- `[condition]Stunned[/condition]` `[condition]Stunned;Stunning[/condition]` `[condition]Stunned;Stun[/condition]`
-- `[condition]Unconscious[/condition]` `[condition]Unconscious;Unconsciousness[/condition]`
+- `[condition]Restrained[/condition]`
+- `[condition]Stunned[/condition]`
+- `[condition]Unconscious[/condition]`
 # Tooltips for the Dungeon Master's Guide (2014)
 ## Chapter 9: Dungeon Master's Workshop
 ### Adventuring Options
