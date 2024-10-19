@@ -50,11 +50,11 @@
 - `[action]Help[/action]`
 - `[action]Hide[/action]`
 - `[action]Influence[/action]`
-- `[action]Magic[/action]` `[action]Magic;cast[/action]`
+- `[action]Magic[/action]` `[action]Magic;Cast a Spell[/action]` `[action]Magic;cast[/action]`
 - `[action]Ready[/action]`
 - `[action]Search[/action]`
 - `[action]Study[/action]`
-- `[action]Utilize[/action]` `[action]Utilize;use[/action]`
+- `[action]Utilize[/action]` `[action]Utilize;Use an Object[/action]` `[action]Utilize;use[/action]`
 - `[rules]Bonus Action[/rules]` `[rules]Bonus Action;Bonus Actions[/rules]`
 - `[rules]Reaction[/rules]` `[rules]Reaction;Reactions[/rules]`
 ### Social Interaction
