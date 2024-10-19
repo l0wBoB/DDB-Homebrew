@@ -207,27 +207,30 @@
 
 
 
-
-
-`[rules]Ally[/rules]`  
-`[rules]Burrow Speed[/rules]`  
-`[rules]Campaign[/rules]`  
-`[rules]Carrying Capacity[/rules]`  
-`[rules]Curses[/rules]`  
-`[rules]Damage Threshold[/rules]`  
-`[rules]Encounter[/rules]`  
-`[rules]Enemy[/rules]`  
-`[rules]Expertise[/rules]`  
-`[rules]Flying[/rules]`  
-`[rules]Heroic Inspiration[/rules]`  
-`[rules]Hover[/rules]`  
-`[rules]Illusions[/rules]`  
-`[rules]Magical Effect[/rules]`  
+`[rules]Player Character[/rules]`  
 `[rules]Monster[/rules]`  
 `[rules]Nonplayer Character[/rules]`  
-`[rules]Per Day[/rules]`  
-`[rules]Player Character[/rules]`  
+`[rules]Ally[/rules]`  
+`[rules]Enemy[/rules]`  
+
+
+`[rules]Flying[/rules]`  
+`[rules]Hover[/rules]`  
+`[rules]Burrow Speed[/rules]`  
+
+`[rules]Campaign[/rules]`  
+`[rules]Encounter[/rules]`  
+
+`[rules]Curses[/rules]`  
 `[rules]Possession[/rules]`  
+
+`[rules]Carrying Capacity[/rules]`  
+`[rules]Damage Threshold[/rules]`  
+`[rules]Expertise[/rules]`  
+`[rules]Heroic Inspiration[/rules]`  
+`[rules]Illusions[/rules]`  
+`[rules]Magical Effect[/rules]`  
+`[rules]Per Day[/rules]`  
 `[rules]Round Down[/rules]`  
 `[rules]Shape-Shifting[/rules]`  
 `[rules]Simultaneous Effects[/rules]`  
