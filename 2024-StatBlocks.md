@@ -7,7 +7,7 @@
 - `Pack Tactics. The MONSTER has [rules]Advantage[/rules] on an [rules]Attack Roll[/rules] against a [rules]Creature[/rules] if at least one of the MONSTER's [rules]Ally;Allies[/rules] is within 5 feet of the [rules]Creature[/rules] and the [rules]Ally[/rules] doesn't have the [condition]Incapacitated[/condition] [rules]Condition[/rules].`
 - `Standing Leap. The MONSTER's [rules]Long Jump[/rules] is up to 10 feet and its [rules]High Jump[/rules] is up to 5 feet with or without a running start.`
 - `Water Breathing. The MONSTER can breathe only underwater.`
-- `Spider Climb. The SPIDER can [rules]Climbing;climb[/rules] difficult surfaces, including along ceilings, without needing to make an [rules]Ability Check[/rules].`
+- `Spider Climb. The SPIDER can [rules]Climbing;climb[/rules] [rules]Difficult Terrain;Difficult Surfaces[/rules], including along ceilings, without needing to make an [rules]Ability Check[/rules].`
 - `Web Walker. The SPIDER ignores movement restrictions caused by webs, and it knows the location of any other [rules]Creature[/rules] in contact with the same web.`
 - `Devil's Sight. [rules]Magical Effect;Magical[/rules] [rules]Darkness[/rules] doesn't impede the DEVIL's [sense]Darkvision[/sense].`
 - `Magic Resistance. The MONSTER has [rules]Advantage[/rules] on [rules]Saving Throw;Saving Throws[/rules] against [rules]Spell;Spells[/rules] and other [rules]Magical Effect;Magical Effects[/rules].`
