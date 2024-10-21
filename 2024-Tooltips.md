@@ -108,7 +108,7 @@
 - `[rules]Flying[/rules]` `[rules]Flying;fly[/rules]`
 - `[rules]Fly Speed[/rules]`
 - `[rules]Hover[/rules]` `[rules]Hover;Hovering[/rules]`
-- `[rules]Difficult Terrain[/rules]`
+- `[rules]Difficult Terrain[/rules]` `[rules]Difficult Terrain;Difficult Surfaces[/rules]`
 - `[rules]Size[/rules]`
 - `[rules]Occupied Space[/rules]`
 - `[rules]Unoccupied Space[/rules]`
@@ -138,7 +138,7 @@
 - `[rules]Healing[/rules]` `[rules]Healing;heal[/rules]`
 - `[rules]Short Rest[/rules]` `[rules]Short Rest;SR[/rules]`
 - `[rules]Long Rest[/rules]` `[rules]Long Rest;LR[/rules]`
-- `[rules]Dead[/rules]` `[rules]Dead;Death[/rules]`
+- `[rules]Dead[/rules]` `[rules]Dead;Death[/rules]` `[rules]Dead;die[/rules]`
 - `[rules]Knocking Out a Creature[/rules]` `[rules]Knocking Out a Creature;knock out[/rules]`
 - `[rules]Death Saving Throw[/rules]` `[rules]Death Saving Throw;Death Saving Throws[/rules]` `[rules]Death Saving Throw;Death Save[/rules]` `[rules]Death Saving Throw;Death Saves[/rules]`
 - `[rules]Stable[/rules]`
@@ -148,7 +148,7 @@
 - `[condition]Blinded[/condition]` `[condition]Blinded;blind[/condition]`
 - `[condition]Charmed[/condition]`
 - `[condition]Deafened[/condition]` `[condition]Deafened;deaf[/condition]`
-- `[condition]Exhaustion[/condition]` `[condition]Exhaustion;exhausted[/condition]` `[condition]Exhaustion;Sleep[/condition]`
+- `[condition]Exhaustion[/condition]` `[condition]Exhaustion;exhausted[/condition]`
 - `[condition]Frightened[/condition]`
 - `[condition]Grappled[/condition]`
 - `[condition]Incapacitated[/condition]`
@@ -168,7 +168,7 @@
 - `[rules]Alignment[/rules]`
 - `[rules]Passive Perception[/rules]`
 - `[rules]Hit Point Dice[/rules]` `[rules]Hit Point Dice;Hit Point Die[/rules]` `[rules]Hit Point Dice;Hit Dice[/rules]` `[rules]Hit Point Dice;Hit Die[/rules]`
-- `[rules]Carrying Capacity[/rules]` `[rules]Carrying Capacity;Dragging[/rules]` `[rules]Carrying Capacity;drag[/rules]` `[rules]Carrying Capacity;Lifting[/rules]` `[rules]Carrying Capacity;lift[/rules]` `[rules]Carrying Capacity;Pushing[/rules]` `[rules]Carrying Capacity;push[/rules]`
+- `[rules]Carrying Capacity[/rules]` `[rules]Carrying Capacity;Encumbrance[/rules]` `[rules]Carrying Capacity;Dragging[/rules]` `[rules]Carrying Capacity;drag[/rules]` `[rules]Carrying Capacity;Lifting[/rules]` `[rules]Carrying Capacity;lift[/rules]` `[rules]Carrying Capacity;Pushing[/rules]` `[rules]Carrying Capacity;push[/rules]`
 ## Equipment
 ### Weapons
 - `[rules]Weapon[/rules]` `[rules]Weapon;Weapons[/rules]`
