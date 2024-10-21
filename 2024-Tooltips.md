@@ -86,7 +86,7 @@
 - `[rules]Hazard[/rules]` `[rules]Hazard;Hazards[/rules]`
 - `[rules]Burning[/rules]` `[rules]Burning;Burn Damage[/rules]` `[rules]Burning;burn[/rules]`
 - `[rules]Dehydration[/rules]` `[rules]Dehydration;Dehydrating[/rules]` `[rules]Dehydration;dehydrate[/rules]`
-- `[rules]Falling[/rules]` `[rules]Falling;Fall Damage[/rules]` `[rules]Falling;fall[/rules]`
+- `[rules]Falling[/rules]` `[rules]Falling;fall[/rules]`
 - `[rules]Malnutrition[/rules]`
 - `[rules]Suffocation[/rules]` `[rules]Suffocation;Suffocating[/rules]` `[rules]Suffocation;suffocate[/rules]`
 ### Combat
