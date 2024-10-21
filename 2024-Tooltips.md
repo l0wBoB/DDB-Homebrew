@@ -108,7 +108,7 @@
 - `[rules]Flying[/rules]` `[rules]Flying;fly[/rules]`
 - `[rules]Fly Speed[/rules]`
 - `[rules]Hover[/rules]` `[rules]Hover;Hovering[/rules]`
-- `[rules]Difficult Terrain[/rules]` `[rules]Difficult Terrain;Difficult Surfaces[/rules]`
+- `[rules]Difficult Terrain[/rules]` `[rules]Difficult Terrain;difficult surfaces[/rules]`
 - `[rules]Size[/rules]`
 - `[rules]Occupied Space[/rules]`
 - `[rules]Unoccupied Space[/rules]`
@@ -181,7 +181,7 @@
 - `[wprop]Light[/wprop]`
 - `[wprop]Loading[/wprop]`
 - `[wprop]Range[/wprop]`
-- `[wprop]Reach[/wprop]`
+- `[wprop]Reach[/wprop]` `[wprop]Reach;reach[/wprop] 10 ft.` `[wprop]Reach;reach[/wprop] 15 ft.` `[wprop]Reach;reach[/wprop] 20 ft.`
 - `[wprop]Thrown[/wprop]`
 - `[wprop]Two-Handed[/wprop]`
 - `[wprop]Versatile[/wprop]`
