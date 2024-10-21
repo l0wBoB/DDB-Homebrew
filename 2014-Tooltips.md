@@ -79,7 +79,7 @@
 - `Charisma ([skill]Performance[/skill])`
 - `Charisma ([skill]Persuasion[/skill])`
 #### Passive Checks
-- `[rule]Senses (Passive Checks)[/rule]` `[rule]Senses (Passive Checks);Senses[/rule]` `[rule]Senses (Passive Checks);Passive Check[/rule]` `[rule]Senses (Passive Checks);Passive Checks[/rule]` `[rule]Senses (Passive Checks);Passive Perception[/rule]`
+- `[rule]Senses (Passive Checks)[/rule]` `[rule]Senses (Passive Checks);Senses[/rule]` `[rule]Senses (Passive Checks);Passive Check[/rule]` `[rule]Senses (Passive Checks);Passive Checks[/rule]` `[rule]Senses (Passive Checks);Passive Perception[/rule]` `[rule]Senses (Passive Checks);Passive Investigation[/rule]` `[rule]Senses (Passive Checks);Passive Insight[/rule]`
 ### Saving Throws
 - `[rule]Saving Throws[/rule]` `[rule]Saving Throws;Saving Throw[/rule]` `[rule]Saving Throws;Save[/rule]` `[rule]Saving Throws;Saves[/rule]`
 ## Chapter 8: Adventuring
