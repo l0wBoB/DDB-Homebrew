@@ -86,7 +86,7 @@
 ## Chapter 8: Adventuring
 ### Movement
 - `[rule]Speed[/rule]` `[rule]Speed;Jumping[/rule]` `[rule]Speed;jump[/rule]`
-- `[rule]Difficult Terrain[/rule]`
+- `[rule]Difficult Terrain[/rule]` `[rules]Difficult Terrain;Difficult Surfaces[/rules]`
 - `[rule]Climbing Swimming Crawling[/rule]` `[rule]Climbing Swimming Crawling;Climbing[/rule]` `[rule]Climbing Swimming Crawling;climb[/rule]` `[rule]Climbing Swimming Crawling;Swimming[/rule]` `[rule]Climbing Swimming Crawling;swim[/rule]` `[rule]Climbing Swimming Crawling;Crawling[/rule]` `[rule]Climbing Swimming Crawling;crawl[/rule]`
 ### The Environment
 - `[rule]Falling[/rule]` `[rule]Falling;fall[/rule]`
