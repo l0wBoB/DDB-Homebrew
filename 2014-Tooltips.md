@@ -38,6 +38,7 @@
 - `[rule]Background[/rule]` `[rule]Background;Backgrounds[/rule]`
 ## Chapter 5: Equipment
 ### Weapons
+- `[action]Two-Weapon Fighting[/action]`
 #### Properties
 - `[wprop]Ammunition[/wprop]`
 - `[wprop]Finesse[/wprop]`
