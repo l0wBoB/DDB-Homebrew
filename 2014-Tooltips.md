@@ -46,7 +46,7 @@
 - `[wprop]Light[/wprop]`
 - `[wprop]Loading[/wprop]`
 - `[wprop]Range[/wprop]`
-- `[wprop]Reach[/wprop]`
+- `[wprop]Reach[/wprop]` `[wprop]Reach;reach[/wprop] 10 ft.` `[wprop]Reach;reach[/wprop] 15 ft.` `[wprop]Reach;reach[/wprop] 20 ft.`
 - `[wprop]Special[/wprop]`
 - `[wprop]Thrown[/wprop]`
 - `[wprop]Two-Handed[/wprop]`
