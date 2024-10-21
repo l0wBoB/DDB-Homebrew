@@ -89,7 +89,7 @@
 - `[rule]Difficult Terrain[/rule]`
 - `[rule]Climbing Swimming Crawling[/rule]` `[rule]Climbing Swimming Crawling;Climbing[/rule]` `[rule]Climbing Swimming Crawling;climb[/rule]` `[rule]Climbing Swimming Crawling;Swimming[/rule]` `[rule]Climbing Swimming Crawling;swim[/rule]` `[rule]Climbing Swimming Crawling;Crawling[/rule]` `[rule]Climbing Swimming Crawling;crawl[/rule]`
 ### The Environment
-- `[rule]Falling[/rule]` `[rule]Falling;Fall Damage[/rule]` `[rule]Falling;fall[/rule]`
+- `[rule]Falling[/rule]` `[rule]Falling;fall[/rule]`
 - `[rule]Suffocating[/rule]` `[rule]Suffocating;Suffocation[/rule]` `[rule]Suffocating;suffocate[/rule]`
 - `[rule]Lightly Obscured[/rule]`
 - `[rule]Heavily Obscured[/rule]`
