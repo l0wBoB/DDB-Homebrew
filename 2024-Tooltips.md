@@ -168,7 +168,7 @@
 - `[rules]Alignment[/rules]`
 - `[rules]Passive Perception[/rules]`
 - `[rules]Hit Point Dice[/rules]` `[rules]Hit Point Dice;Hit Point Die[/rules]` `[rules]Hit Point Dice;Hit Dice[/rules]` `[rules]Hit Point Dice;Hit Die[/rules]`
-- `[rules]Carrying Capacity[/rules]` `[rules]Carrying Capacity;Encumbrance[/rules]` `[rules]Carrying Capacity;Dragging[/rules]` `[rules]Carrying Capacity;drag[/rules]` `[rules]Carrying Capacity;Lifting[/rules]` `[rules]Carrying Capacity;lift[/rules]` `[rules]Carrying Capacity;Pushing[/rules]` `[rules]Carrying Capacity;push[/rules]`
+- `[rules]Carrying Capacity[/rules]` `[rules]Carrying Capacity;Encumbrance[/rules]` `[rules]Carrying Capacity;encumbered[/rules]` `[rules]Carrying Capacity;heavily encumbered[/rules]` `[rules]Carrying Capacity;Dragging[/rules]` `[rules]Carrying Capacity;drag[/rules]` `[rules]Carrying Capacity;Lifting[/rules]` `[rules]Carrying Capacity;lift[/rules]` `[rules]Carrying Capacity;Pushing[/rules]` `[rules]Carrying Capacity;push[/rules]`
 ## Equipment
 ### Weapons
 - `[rules]Weapon[/rules]` `[rules]Weapon;Weapons[/rules]`
