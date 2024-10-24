@@ -1,4 +1,8 @@
 # Stat Blocks from the D&D Free Rules (2024)
+> [!NOTE]
+> - Feature names (e.g. ***Multiattack:*** ; ***Web (Recharge 5–6).***) are styled **bold** and _italic_.  
+> - Feature types (e.g. _Melee Attack Roll:_ ; _Constitution Saving Throw:_) are styled _italic_.  
+> - Feature effects (e.g. _Hit:_ ; _Trigger:_ ; _Failure by 5 or More:_) are styled _italic_.
 ## Traits
 - `Bloodied Fury. While [rules]Bloodied[/rules], the MONSTER has [rules]Advantage[/rules] on [rules]Attack Roll;Attack Rolls[/rules].`
 - `Jumper. The MONSTER's [rules]Jumping;jump[/rules] distance is determined using its Dexterity rather than its Strength.`
