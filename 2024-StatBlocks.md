@@ -65,3 +65,4 @@
 - `Bubble Dash. While underwater, the SEAHORSE moves up to half its [rules]Swim Speed[/rules] without provoking an [action]Opportunity Attack[/action] action.`
 ## Reactions
 - `Ink Cloud (1[rules]Per Day;/Day[/rules]). Trigger: A [rules]Creature[/rules] ends its turn within 5 feet of the OCTOPUS while underwater. Response: The OCTOPUS releases ink that fills a 5-foot [rules]Cube[/rules] centered on itself, and the OCTOPUS moves up to its [rules]Swim Speed[/rules]. The [rules]Cube[/rules] is [rules]Heavily Obscured[/rules] for 1 minute or until a strong current or similar effect disperses the ink.`
+- `Burst of Ingenuity (2[rules]Per Day;/Day[/rules]). Trigger: The SPHINX or another [rules]Creature[/rules] within 30 feet makes an [rules]Ability Check[/rules] or a [rules]Saving Throw[/rules]. Response: The SPHINX adds 2 to the [rules]D20 Test;Roll[/rules].`
