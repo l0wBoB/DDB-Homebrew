@@ -1,4 +1,4 @@
-# Stat Blocks from the D&D Free Rules (2024) and Player's Handbook (2024)
+# Stat Blocks from the D&D Free Rules (2024), Player's Handbook (2024), Dungeon Master's Guide (2024) and Monster Manual (2025)
 > [!NOTE]
 > - Feature names (e.g. ***Multiattack:*** ; ***Web (Recharge 5–6).***) are styled **bold** and _italic_.  
 > - Feature types (e.g. _Melee Attack Roll:_ ; _Constitution Saving Throw:_) are styled _italic_.  
