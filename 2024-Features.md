@@ -1,4 +1,4 @@
-# Features from the official sources of the D&D Revised Rules (2024)
+# Features from the official sources of the 2024 rules revisions
 > [!NOTE]
 > - Feature names (e.g. ***Multiattack:*** ; ***Web (Recharge 5–6).***) are styled **bold** and _italic_.  
 > - Feature types (e.g. _Melee Attack Roll:_ ; _Constitution Saving Throw:_) are styled _italic_.  
