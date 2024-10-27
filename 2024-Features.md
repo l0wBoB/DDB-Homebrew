@@ -1,4 +1,4 @@
-# Features from the official sources of the 2024 rules revisions
+# Features from official sources based on 2024 rules
 > [!NOTE]
 > - Feature names (e.g. ***Multiattack:*** ; ***Web (Recharge 5–6).***) are styled **bold** and _italic_.  
 > - Feature types (e.g. _Melee Attack Roll:_ ; _Constitution Saving Throw:_) are styled _italic_.  
