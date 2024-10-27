@@ -17,7 +17,7 @@
 - `[rules]Spell Attack[/rules]` `[rules]Spell Attack;Spell Attacks[/rules]`
 - `[rules]Advantage[/rules]`
 - `[rules]Disadvantage[/rules]`
-- `[rules]Heroic Inspiration[/rules]` `[rules]Heroic Inspiration;Inspiration[/rules]`
+- `[rules]Heroic Inspiration[/rules]`
 ### Proficiency
 - `[rules]Proficiency[/rules]` `[rules]Proficiency;Proficiencies[/rules]` `[rules]Proficiency;Proficiency Bonus[/rules]` `[rules]Proficiency;proficient[/rules]` `[rules]Proficiency;PB[/rules]`
 - `[rules]Expertise[/rules]` `[rules]Expertise;Double Proficiency[/rules]`
