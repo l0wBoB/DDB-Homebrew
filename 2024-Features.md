@@ -1,6 +1,6 @@
 # Features from official sources based on 2024 rules
 > [!NOTE]
-> - Feature names (e.g. ***Multiattack:*** ; ***Web (Recharge 5–6).***) are styled **bold** and _italic_.  
+> - Feature names (e.g. ***Multiattack.*** ; ***Web (Recharge 5–6).***) are styled **bold** and _italic_.  
 > - Feature types (e.g. _Melee Attack Roll:_ ; _Constitution Saving Throw:_) are styled _italic_.  
 > - Feature effects (e.g. _Hit:_ ; _Trigger:_ ; _Failure by 5 or More:_) are styled _italic_.
 > - ***Spellcasting*** has a blank line between each line.
