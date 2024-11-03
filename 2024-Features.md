@@ -6,29 +6,29 @@
 > - ***Spellcasting*** has a blank line between each line.
 ## Traits
 ### Dungeon Master's Guide (https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#CreatureTraits)
-- `Aversion to Fire. If the MONSTER takes Fire [rules]damage[/rules], it has [rules]Disadvantage[/rules] on [rules]Attack Roll;attack rolls[/rules] and [rules]Ability Check;ability checks[/rules] until the end of its next turn.
-- `Battle Ready. The MONSTER has [rules]Advantage[/rules] on [rules]Initiative[/rules] rolls.
-- `Beast Whisperer. The MONSTER can communicate with Beasts as if they shared a common language.
-- `Death Jinx. When the MONSTER [rules]Dead;dies[/rules], one random [rules]creature[/rules] within 10 feet of the [rules]dead[/rules] MONSTER is [rules]Target;targeted[/rules] by a [spells]Bane[/spells] [rules]spell[/rules] ([rules]Saving Throw;save[/rules] [rules]Difficulty Class;DC[/rules] 13), which lasts for its full duration.
-- `Dimensional Disruption. Disruptive energy extends from the MONSTER in a 30-foot [rules]Emanation[/rules]. Other [rules]Creature;creatures[/rules] can't [rules]Teleportation;teleport[/rules] to or from a space in that area. Any attempt to do so is wasted.
-- `Disciple of the Nine Hells. When the MONSTER [rules]Dead;dies[/rules], its body disgorges a [rules]Hostile[/rules] [monsters]Imp[/monsters] in the same space.
-- `Disintegration. When the MONSTER [rules]Dead;dies[/rules], its body and nonmagical possessions turn to dust. Any magic items it possessed are left behind in its space.
-- `Emissary of Juiblex. When the MONSTER [rules]Dead;dies[/rules], its body disgorges a [rules]Hostile[/rules] [monsters]Ochre Jelly[/monsters] in the same space.
-- `Fey Ancestry. The FEY has [rules]Advantage[rules] on [rules]Saving Throw;saving throws[/rules] it makes to avoid or end the [condition]Charmed[/condition] [rules]condition[/rules], and magic can't put it to sleep.
-- `Forbiddance. The MONSTER can't enter a residence without an invitation from one of its occupants.
-- `Gloom Shroud. Imperceptible energy channeled from the [lore]Shadowfell[/lore] extends from the MONSTER in a 20-foot [rules]Emanation[/rules]. Other [rules]Creature;creatures[/rules] in that area have [rules]Disadvantage[/rules] on Charisma [rules]Ability Check;checks[/rules] and Charisma [rules]Saving Throw;saving throws[/rules].
-- `Light. The MONSTER sheds [rules]Bright Light[/rules] in a 10-foot radius and [rules]Dim Light[/rules] for an additional 10 feet. As a [rules]Bonus Action[/rules], the MONSTER can suppress this light or cause it to return. The light winks out if the MONSTER [rules]Dead;dies[/rules].
-- `Mimicry. The MONSTER can mimic Beast sounds and Humanoid voices. A [rules]creature[/rules] that hears the sounds can tell they are imitations with a successful [rules]Difficulty Class;DC[/rules] 13 Wisdom ([skill]Insight[/skill]) [rules]Ability Check;check[/rules].
-- `Poison Tolerant. The MONSTER has [rules]Advantage[/rules] on [rules]Saving Throw;saving throws[/rules] it makes to avoid or end the [condition]Poisoned[/condition] [rules]condition[/rules].
-- `Resonant Connection. The MONSTER has a supernatural connection to another [rules]creature[/rules] or an [rules]object[/rules] and knows the most direct route to it, provided the two are within 1 mile of each other.
-- `Siege Monster. The MONSTER deals double [rules]damage[/rules] to [rules]Object;objects[/rules] and structures.
-- `Slaad Host. When the MONSTER [rules]Dead;dies[/rules], a [rules]Hostile[/rules] [monsters]Slaad Tadpole[/monsters] bursts from its innards in the same space.
-- `Steadfast. The MONSTER has [rules]Immunity[rules] to the [condition]Frightened[/condition] [rules]condition[rules] while it can see an ally within 30 feet of itself.
-- `Telepathic Bond. The MONSTER is linked psychically to another [rules]creature[/rules]. While both are on the same plane of existence, they can communicate [rules]Telepathy;telepathically[/rules] with each other.
-- `Telepathic Shroud. The MONSTER is [rules]Immunity;immune[/rules] to any effect that would sense its emotions or read its thoughts, as well as to [rules]Spell;spells[/rules] from the school of Divination. As a [rules]Bonus Action[/rules], the MONSTER can suppress this trait or reactivate it.
-- `Ventriloquism. Whenever the MONSTER speaks, it can choose a point within 30 feet of itself; its voice emanates from that point.
-- `Warrior's Wrath. The MONSTER has [rules]Advantage[/rules] on melee [rules]Attack Roll;attack rolls[/rules] against any [rules]Bloodied[/rules] [rules]creature[/rules].
-- `Wild Talent. The MONSTER can [action]Magic;cast[/action] CANTRIP without [rules]spell[/rules] components, using Intelligence, Wisdom, or Charisma as the spellcasting ability.
+- `Aversion to Fire. If the MONSTER takes Fire [rules]damage[/rules], it has [rules]Disadvantage[/rules] on [rules]Attack Roll;attack rolls[/rules] and [rules]Ability Check;ability checks[/rules] until the end of its next turn.`
+- `Battle Ready. The MONSTER has [rules]Advantage[/rules] on [rules]Initiative[/rules] rolls.`
+- `Beast Whisperer. The MONSTER can communicate with Beasts as if they shared a common language.`
+- `Death Jinx. When the MONSTER [rules]Dead;dies[/rules], one random [rules]creature[/rules] within 10 feet of the [rules]dead[/rules] MONSTER is [rules]Target;targeted[/rules] by a [spells]Bane[/spells] [rules]spell[/rules] ([rules]Saving Throw;save[/rules] [rules]Difficulty Class;DC[/rules] 13), which lasts for its full duration.`
+- `Dimensional Disruption. Disruptive energy extends from the MONSTER in a 30-foot [rules]Emanation[/rules]. Other [rules]Creature;creatures[/rules] can't [rules]Teleportation;teleport[/rules] to or from a space in that area. Any attempt to do so is wasted.`
+- `Disciple of the Nine Hells. When the MONSTER [rules]Dead;dies[/rules], its body disgorges a [rules]Hostile[/rules] [monsters]Imp[/monsters] in the same space.`
+- `Disintegration. When the MONSTER [rules]Dead;dies[/rules], its body and nonmagical possessions turn to dust. Any magic items it possessed are left behind in its space.`
+- `Emissary of Juiblex. When the MONSTER [rules]Dead;dies[/rules], its body disgorges a [rules]Hostile[/rules] [monsters]Ochre Jelly[/monsters] in the same space.`
+- `Fey Ancestry. The FEY has [rules]Advantage[rules] on [rules]Saving Throw;saving throws[/rules] it makes to avoid or end the [condition]Charmed[/condition] [rules]condition[/rules], and magic can't put it to sleep.`
+- `Forbiddance. The MONSTER can't enter a residence without an invitation from one of its occupants.`
+- `Gloom Shroud. Imperceptible energy channeled from the [lore]Shadowfell[/lore] extends from the MONSTER in a 20-foot [rules]Emanation[/rules]. Other [rules]Creature;creatures[/rules] in that area have [rules]Disadvantage[/rules] on Charisma [rules]Ability Check;checks[/rules] and Charisma [rules]Saving Throw;saving throws[/rules].`
+- `Light. The MONSTER sheds [rules]Bright Light[/rules] in a 10-foot radius and [rules]Dim Light[/rules] for an additional 10 feet. As a [rules]Bonus Action[/rules], the MONSTER can suppress this light or cause it to return. The light winks out if the MONSTER [rules]Dead;dies[/rules].`
+- `Mimicry. The MONSTER can mimic Beast sounds and Humanoid voices. A [rules]creature[/rules] that hears the sounds can tell they are imitations with a successful [rules]Difficulty Class;DC[/rules] 13 Wisdom ([skill]Insight[/skill]) [rules]Ability Check;check[/rules].`
+- `Poison Tolerant. The MONSTER has [rules]Advantage[/rules] on [rules]Saving Throw;saving throws[/rules] it makes to avoid or end the [condition]Poisoned[/condition] [rules]condition[/rules].`
+- `Resonant Connection. The MONSTER has a supernatural connection to another [rules]creature[/rules] or an [rules]object[/rules] and knows the most direct route to it, provided the two are within 1 mile of each other.`
+- `Siege Monster. The MONSTER deals double [rules]damage[/rules] to [rules]Object;objects[/rules] and structures.`
+- `Slaad Host. When the MONSTER [rules]Dead;dies[/rules], a [rules]Hostile[/rules] [monsters]Slaad Tadpole[/monsters] bursts from its innards in the same space.`
+- `Steadfast. The MONSTER has [rules]Immunity[rules] to the [condition]Frightened[/condition] [rules]condition[rules] while it can see an ally within 30 feet of itself.`
+- `Telepathic Bond. The MONSTER is linked psychically to another [rules]creature[/rules]. While both are on the same plane of existence, they can communicate [rules]Telepathy;telepathically[/rules] with each other.`
+- `Telepathic Shroud. The MONSTER is [rules]Immunity;immune[/rules] to any effect that would sense its emotions or read its thoughts, as well as to [rules]Spell;spells[/rules] from the school of Divination. As a [rules]Bonus Action[/rules], the MONSTER can suppress this trait or reactivate it.`
+- `Ventriloquism. Whenever the MONSTER speaks, it can choose a point within 30 feet of itself; its voice emanates from that point.`
+- `Warrior's Wrath. The MONSTER has [rules]Advantage[/rules] on melee [rules]Attack Roll;attack rolls[/rules] against any [rules]Bloodied[/rules] [rules]creature[/rules].`
+- `Wild Talent. The MONSTER can [action]Magic;cast[/action] CANTRIP without [rules]spell[/rules] components, using Intelligence, Wisdom, or Charisma as the spellcasting ability.`
 ### Miscellaneous sources
 - `Bloodied Fury. While [rules]Bloodied[/rules], the MONSTER has [rules]Advantage[/rules] on [rules]Attack Roll;Attack Rolls[/rules].`
 - `Jumper. The MONSTER's [rules]Jumping;jump[/rules] distance is determined using its Dexterity rather than its Strength.`
