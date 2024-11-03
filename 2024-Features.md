@@ -23,12 +23,12 @@
 - `Resonant Connection. The MONSTER has a supernatural connection to another [rules]creature[/rules] or an [rules]object[/rules] and knows the most direct route to it, provided the two are within 1 mile of each other.`
 - `Siege Monster. The MONSTER deals double [rules]damage[/rules] to [rules]Object;objects[/rules] and structures.`
 - `Slaad Host. When the MONSTER [rules]Dead;dies[/rules], a [rules]Hostile[/rules] [monsters]Slaad Tadpole[/monsters] bursts from its innards in the same space.`
-- `Steadfast. The MONSTER has [rules]Immunity[/rules] to the [condition]Frightened[/condition] [rules]condition[rules] while it can see an ally within 30 feet of itself.`
+- `Steadfast. The MONSTER has [rules]Immunity[/rules] to the [condition]Frightened[/condition] [rules]condition[/rules] while it can see an ally within 30 feet of itself.`
 - `Telepathic Bond. The MONSTER is linked psychically to another [rules]creature[/rules]. While both are on the same plane of existence, they can communicate [rules]Telepathy;telepathically[/rules] with each other.`
 - `Telepathic Shroud. The MONSTER is [rules]Immunity;immune[/rules] to any effect that would sense its emotions or read its thoughts, as well as to [rules]Spell;spells[/rules] from the school of Divination. As a [rules]Bonus Action[/rules], the MONSTER can suppress this trait or reactivate it.`
 - `Ventriloquism. Whenever the MONSTER speaks, it can choose a point within 30 feet of itself; its voice emanates from that point.`
 - `Warrior's Wrath. The MONSTER has [rules]Advantage[/rules] on melee [rules]Attack Roll;attack rolls[/rules] against any [rules]Bloodied[/rules] [rules]creature[/rules].`
-- `Wild Talent. The MONSTER can [action]Magic;cast[/action] CANTRIP without [rules]spell[/rules] components, using Intelligence, Wisdom, or Charisma as the spellcasting ability.`
+- `Wild Talent. The MONSTER can [action]Magic;cast[/action] CANTRIP without [rules]spell[/rules] components, using INTELLIGENCE/WISDOM/CHARISMA as the spellcasting ability.`
 ### Miscellaneous sources
 - `Bloodied Fury. While [rules]Bloodied[/rules], the MONSTER has [rules]Advantage[/rules] on [rules]Attack Roll;Attack Rolls[/rules].`
 - `Jumper. The MONSTER's [rules]Jumping;jump[/rules] distance is determined using its Dexterity rather than its Strength.`
