@@ -217,7 +217,7 @@
 - `[rules]Curses[/rules]` `[rules]Curses;Curse[/rules]` `[rules]Curses;cursed[/rules]`
 - `[rules]Possession[/rules]` `[rules]Possession;possessed[/rules]`
 - `[rules]Shape-Shifting[/rules]` `[rules]Shape-Shifting;shape-shift[/rules]`
-- `[rules]Telepathy[/rules]` `[rules]Telepathy;telepathic[/rules]`
+- `[rules]Telepathy[/rules]` `[rules]Telepathy;telepathic[/rules]` `[rules]Telepathy;telepathically[/rules]`
 ## Creature Stat Blocks
 - `[rules]Stat Block[/rules]` `[rules]Stat Block;Stat Blocks[/rules]` `[rules]Stat Block;Monster Statistics[/rules]`
 - `[rules]Creature[/rules]` `[rules]Creature;Creatures[/rules]`
