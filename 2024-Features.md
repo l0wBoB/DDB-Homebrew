@@ -14,7 +14,7 @@
 - `Disciple of the Nine Hells. When the MONSTER [rules]Dead;dies[/rules], its body disgorges a [rules]Hostile[/rules] [monsters]Imp[/monsters] in the same space.`
 - `Disintegration. When the MONSTER [rules]Dead;dies[/rules], its body and nonmagical possessions turn to dust. Any magic items it possessed are left behind in its space.`
 - `Emissary of Juiblex. When the MONSTER [rules]Dead;dies[/rules], its body disgorges a [rules]Hostile[/rules] [monsters]Ochre Jelly[/monsters] in the same space.`
-- `Fey Ancestry. The FEY has [rules]Advantage[rules] on [rules]Saving Throw;saving throws[/rules] it makes to avoid or end the [condition]Charmed[/condition] [rules]condition[/rules], and magic can't put it to sleep.`
+- `Fey Ancestry. The FEY has [rules]Advantage[/rules] on [rules]Saving Throw;saving throws[/rules] it makes to avoid or end the [condition]Charmed[/condition] [rules]condition[/rules], and magic can't put it to sleep.`
 - `Forbiddance. The MONSTER can't enter a residence without an invitation from one of its occupants.`
 - `Gloom Shroud. Imperceptible energy channeled from the [lore]Shadowfell[/lore] extends from the MONSTER in a 20-foot [rules]Emanation[/rules]. Other [rules]Creature;creatures[/rules] in that area have [rules]Disadvantage[/rules] on Charisma [rules]Ability Check;checks[/rules] and Charisma [rules]Saving Throw;saving throws[/rules].`
 - `Light. The MONSTER sheds [rules]Bright Light[/rules] in a 10-foot radius and [rules]Dim Light[/rules] for an additional 10 feet. As a [rules]Bonus Action[/rules], the MONSTER can suppress this light or cause it to return. The light winks out if the MONSTER [rules]Dead;dies[/rules].`
