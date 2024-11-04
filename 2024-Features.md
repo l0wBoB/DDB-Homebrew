@@ -44,11 +44,11 @@
 - `Fiery Aura. At the end of each of the MONSTER's turns, each [rules]creature[/rules] in a 10-foot [rules]Emanation[/rules] originating from the MONSTER takes 4 [rollable](1d8);{"diceNotation":"1d8","rollType":"damage","rollAction":"Fiery Aura","rollDamageType":"Fire"}[/rollable] Fire [rules]damage[/rules]. [rules]Creature;Creatures[/rules] and flammable [rules]Object;objects[/rules] in the [rules]Emanation[/rules] start [rules]burning[/rules].`
 - `Fire Form. The MONSTER can move through a space as narrow as 1 inch wide without expending extra movement to do so, and it can enter a [rules]creature[/rules]'s space and stop there. The first time it enters a [rules]creature[/rules]'s space on a turn, that [rules]creature[/rules] takes 4 [rollable](1d8);{"diceNotation":"1d8","rollType":"damage","rollAction":"Fire Form","rollDamageType":"Fire"}[/rollable] Fire [rules]damage[/rules].`
 - `Flyby. The MONSTER doesn't provoke an [action]Opportunity Attack[/action] action when it [rules]Flying;flies[/rules] out of an [rules]enemy[/rules]'s reach.`
-- `Gear. [items]Javelin;Javelins[/items] (3), [items]Greatsword[/items], [items]Heavy Crossbow[/items],[items]Plate Armor[/items]`
+- `Gear. [items]Javelin;Javelins[/items] (3), [items]Greatsword[/items], [items]Crossbow, Heavy;Heavy Crossbow[/items],[items]Armor, Plate;Plate Armor[/items]`
 - `Hold Breath. The MONSTER can hold its breath for 1 hour.`
 - `Illumination. The MONSTER sheds [rules]Bright Light[/rules] in a 15-foot radius and [rules]Dim Light[/rules] for an additional 15 feet.`
 - `Immutable Form. The MONSTER can't [rules]Shape-Shifting;shape-shift[/rules].`
-- `Incubus Form. When the SUCCUBUS finishes a [rules]Long Rest[/rules], it can [rules]Shape-Shifting;shape-shift[/rules] into an [monsters]Incubus[monsters], using that [rules]stat block[/rules] instead of this one. Any equipment it's wearing or carrying isn't transformed.`
+- `Incubus Form. When the SUCCUBUS finishes a [rules]Long Rest[/rules], it can [rules]Shape-Shifting;shape-shift[/rules] into an [monsters]Incubus[/monsters], using that [rules]stat block[/rules] instead of this one. Any equipment it's wearing or carrying isn't transformed.`
 - `Jumper. The MONSTER's [rules]Jumping;jump[/rules] distance is determined using its Dexterity rather than its Strength.`
 - `Legendary Resistance (3[rules]Per Day;/Day[/rules] or 4[rules]Per Day;/Day[/rules]). If the MONSTER fails a [rules]saving throw[/rules], it can choose to succeed instead.`
 - `Magic Resistance. The MONSTER has [rules]Advantage[/rules] on [rules]Saving Throw;saving throws[/rules] against [rules]Spell;spells[/rules] and other [rules]Magical Effect;magical effects[/rules].`
@@ -64,7 +64,7 @@
 - `Undead Fortitude. If [rules]damage[/rules] reduces the UNDEAD to 0 [rules]Hit Points[/rules], it must make a Constitution [rules]saving throw[/rules] with a [rules]Difficulty Class;DC[/rules] of 5 plus the [rules]damage[/rules] taken unless the [rules]damage[/rules] is Radiant or from a [rules]Critical Hit[/rules]. On a successful [rules]Saving Throw;save[/rules], the UNDEAD drops to 1 [rules]Hit Points;Hit Point[/rules] instead.`
 - `Water Breathing. The MONSTER can breathe only underwater.`
 - `Water Susceptibility. The MONSTER takes 3 [rollable](1d6);{"diceNotation":"1d8+3","rollType":"damage","rollAction":"Water Susceptibility","rollDamageType":"Cold"}[/rollable] Cold [rules]damage[/rules] for every 5 feet the MONSTER moves in water or for every gallon of water splashed on it.`
-- `Web Walker. The SPIDER ignores movement restrictions caused by webs, and it knows the location of any other [rules]Creature[/rules] in contact with the same web.`
+- `Web Walker. The SPIDER ignores movement restrictions caused by webs, and it knows the location of any other [rules]creature[/rules] in contact with the same web.`
 ## Actions
 ### Multiattack examples
 - `Multiattack. The MONSTER makes two WEAPON attacks.`
