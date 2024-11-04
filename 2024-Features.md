@@ -30,27 +30,27 @@
 - `Warrior's Wrath. The MONSTER has [rules]Advantage[/rules] on melee [rules]Attack Roll;attack rolls[/rules] against any [rules]Bloodied[/rules] [rules]creature[/rules].`
 - `Wild Talent. The MONSTER can [action]Magic;cast[/action] CANTRIP without [rules]spell[/rules] components, using INTELLIGENCE|WISDOM|CHARISMA as the spellcasting ability.`
 ### Other sources
-- `Bloodied Fury. While [rules]Bloodied[/rules], the MONSTER has [rules]Advantage[/rules] on [rules]Attack Roll;Attack Rolls[/rules].`
-- `Jumper. The MONSTER's [rules]Jumping;jump[/rules] distance is determined using its Dexterity rather than its Strength.`
-- `Amphibious. The MONSTER can breathe air and water.`
-- `Hold Breath. The MONSTER can hold its breath for 1 hour.`
-- `Pack Tactics. The MONSTER has [rules]Advantage[/rules] on an [rules]Attack Roll[/rules] against a [rules]Creature[/rules] if at least one of the MONSTER's [rules]Ally;Allies[/rules] is within 5 feet of the [rules]Creature[/rules] and the [rules]Ally[/rules] doesn't have the [condition]Incapacitated[/condition] [rules]Condition[/rules].`
-- `Standing Leap. The MONSTER's [rules]Long Jump[/rules] is up to 10 feet and its [rules]High Jump[/rules] is up to 5 feet with or without a running start.`
-- `Water Breathing. The MONSTER can breathe only underwater.`
-- `Spider Climb. The SPIDER can [rules]Climbing;climb[/rules] [rules]Difficult Terrain;difficult surfaces[/rules], including along ceilings, without needing to make an [rules]Ability Check[/rules].`
-- `Web Walker. The SPIDER ignores movement restrictions caused by webs, and it knows the location of any other [rules]Creature[/rules] in contact with the same web.`
-- `Devil's Sight. [rules]Magical Effect;Magical[/rules] [rules]Darkness[/rules] doesn't impede the DEVIL's [sense]Darkvision[/sense].`
-- `Magic Resistance. The MONSTER has [rules]Advantage[/rules] on [rules]Saving Throw;Saving Throws[/rules] against [rules]Spell;Spells[/rules] and other [rules]Magical Effect;Magical Effects[/rules].`
-- `Running Leap. With a 10-foot running start, the MONSTER can [rules]Long Jump[/rules] up to 25 feet.`
-- `Beast of Burden. The BEAST counts as one [rules]Size[/rules] larger for the purpose of determining its [rules]Carrying Capacity[/rules].`
-- `Compression. The MONSTER can move through a space as narrow as 1 inch without spending extra movement to do so.`
-- `Flyby. The MONSTER doesn't provoke an [action]Opportunity Attack[/action] action when it [rules]Flying;flies[/rules] out of an enemy's reach.`
-- `Agile. The MONSTER doesn't provoke an [action]Opportunity Attack[/action] action when it moves out of an enemy's reach.`
-- `Mimicry. The MONSTER can mimic simple sounds it has heard, such as a whisper or chitter. A hearer can discern the sounds are imitations with a successful [rules]Difficulty Class;DC[/rules] 10 Wisdom ([skill]Insight[/skill]) [rules]Ability Check;Check[/rules].`
-- `Undead Fortitude. If [rules]Damage[/rules] reduces the UNDEAD to 0 [rules]Hit Points[/rules], it must make a Constitution [rules]Saving Throw[/rules] with a [rules]Difficulty Class;DC[/rules] of 5 plus the [rules]Damage[/rules] taken unless the [rules]Damage[/rules] is Radiant or from a [rules]Critical Hit[/rules]. On a successful [rules]Saving Throw;Save[/rules], the UNDEAD drops to 1 [rules]Hit Points;Hit Point[/rules] instead.`
 - `Abduct. The MONSTER's [rules]Speed[/rules] isn't halved when it moves a creature [condition]Grappled[/condition] by it.`
+- `Agile. The MONSTER doesn't provoke an [action]Opportunity Attack[/action] action when it moves out of an enemy's reach.`
+- `Amphibious. The MONSTER can breathe air and water.`
+- `Beast of Burden. The BEAST counts as one [rules]size[/rules] larger for the purpose of determining its [rules]carrying capacity[/rules].`
+- `Bloodied Fury. While [rules]Bloodied[/rules], the MONSTER has [rules]Advantage[/rules] on [rules]Attack Roll;attack rolls[/rules].`
+- `Compression. The MONSTER can move through a space as narrow as 1 inch without spending extra movement to do so.`
+- `Devil's Sight. [rules]Magical Effect;Magical[/rules] [rules]Darkness[/rules] doesn't impede the DEVIL's [sense]Darkvision[/sense].`
+- `Flyby. The MONSTER doesn't provoke an [action]Opportunity Attack[/action] action when it [rules]Flying;flies[/rules] out of an enemy's reach.`
 - `Gear. [items]Hide Armor[/items], three [items]Light Hammer;Light Hammers[/items]`
-- `Speak with Frogs and Toads. The BULLYWUG can communicate simple concepts to [monsters]frog;frogs[/monsters] and toads when it speaks in Bullywug.`
+- `Hold Breath. The MONSTER can hold its breath for 1 hour.`
+- `Jumper. The MONSTER's [rules]Jumping;jump[/rules] distance is determined using its Dexterity rather than its Strength.`
+- `Magic Resistance. The MONSTER has [rules]Advantage[/rules] on [rules]Saving Throw;saving throws[/rules] against [rules]Spell;spells[/rules] and other [rules]Magical Effect;magical effects[/rules].`
+- `Mimicry. The MONSTER can mimic simple sounds it has heard, such as a whisper or chitter. A hearer can discern the sounds are imitations with a successful [rules]Difficulty Class;DC[/rules] 10 Wisdom ([skill]Insight[/skill]) [rules]Ability Check;check[/rules].`
+- `Pack Tactics. The MONSTER has [rules]Advantage[/rules] on an [rules]attack roll[/rules] against a [rules]creature[/rules] if at least one of the MONSTER's [rules]Ally;allies[/rules] is within 5 feet of the [rules]creature[/rules] and the [rules]ally[/rules] doesn't have the [condition]Incapacitated[/condition] [rules]condition[/rules].`
+- `Running Leap. With a 10-foot running start, the MONSTER can [rules]Long Jump[/rules] up to 25 feet.`
+- `Speak with Frogs and Toads. The BULLYWUG can communicate simple concepts to [monsters]frog;Frogs[/monsters] and toads when it speaks in Bullywug.`
+- `Spider Climb. The SPIDER can [rules]Climbing;climb[/rules] [rules]Difficult Terrain;difficult surfaces[/rules], including along ceilings, without needing to make an [rules]ability check[/rules].`
+- `Standing Leap. The MONSTER's [rules]Long Jump[/rules] is up to 10 feet and its [rules]High Jump[/rules] is up to 5 feet with or without a running start.`
+- `Undead Fortitude. If [rules]damage[/rules] reduces the UNDEAD to 0 [rules]Hit Points[/rules], it must make a Constitution [rules]saving throw[/rules] with a [rules]Difficulty Class;DC[/rules] of 5 plus the [rules]damage[/rules] taken unless the [rules]damage[/rules] is Radiant or from a [rules]Critical Hit[/rules]. On a successful [rules]Saving Throw;save[/rules], the UNDEAD drops to 1 [rules]Hit Points;Hit Point[/rules] instead.`
+- `Water Breathing. The MONSTER can breathe only underwater.`
+- `Web Walker. The SPIDER ignores movement restrictions caused by webs, and it knows the location of any other [rules]Creature[/rules] in contact with the same web.`
 ## Actions
 ### Multiattack examples
 - `Multiattack. The MONSTER makes two WEAPON attacks.`
