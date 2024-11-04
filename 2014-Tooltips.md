@@ -181,16 +181,16 @@
 - `[wprop]Ammunition (Firearms)[/wprop]`
 - `[wprop]Burst Fire[/wprop]`
 - `[wprop]Reload[/wprop]`
-# Tooltips for the Basic Rules (2014), Dungeon Master's Guide (2014) and Monster Manual (2014)
+# Tooltips for the Legacy and Expanded Rules
 ## Spells
-- `[spell]Spell Name[/spell]` (https://www.dndbeyond.com/spells?filter-source=1&filter-source=3&filter-source=5)
+- `[spell]Spell Name[/spell]` (https://www.dndbeyond.com/spells?filter-source-category=1&filter-source-category=23)
 ## Equipment 
-- `[item]Item Name[/item]` (https://www.dndbeyond.com/equipment?filter-source=1&filter-source=3&filter-source=5)
+- `[item]Item Name[/item]` (https://www.dndbeyond.com/equipment?filter-source-category=1&filter-source-category=23)
 ## Magic Items 
-- `[magicitem]Magic Item Name[/magicitem]` (https://www.dndbeyond.com/magic-items?filter-source=1&filter-source=3&filter-source=5)
+- `[magicitem]Magic Item Name[/magicitem]` (https://www.dndbeyond.com/magic-items?filter-source-category=1&filter-source-category=23)
 ## Monsters 
-- `[monster]Monster Name[/monster]` (https://www.dndbeyond.com/monsters?filter-source=1&filter-source=3&filter-source=5)
+- `[monster]Monster Name[/monster]` (https://www.dndbeyond.com/monsters?filter-source-category=1&filter-source-category=23)
 ## Monster Images 
-- `[monimg]Monster Name[/monimg]` (https://www.dndbeyond.com/monsters?filter-source=1&filter-source=3&filter-source=5)
+- `[monimg]Monster Name[/monimg]` (https://www.dndbeyond.com/monsters?filter-source-category=1&filter-source-category=23)
 ## Vehicles 
 - `[vehicle]Vehicle Name[/vehicle]` (https://www.dndbeyond.com/vehicles)
