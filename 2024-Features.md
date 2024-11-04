@@ -134,7 +134,7 @@
 - `Force Bolt. Ranged [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"spell","rollAction":"Force Bolt"}[/rollable], range 90 ft. Hit: 6 [rollable](1d12);{"diceNotation":"1d12","rollType":"damage","rollAction":"Force Bolt","rollDamageType":"Force"}[/rollable] Force [rules]damage[/rules].`
 
 ### Breath Weapons
-- `Poison Breath [rollable](Recharge 5–6);{"diceNotation":"1d6", "rollType":"recharge", "rollAction":"Poison Breath"}[/rollable]. Constitution [rules]Saving Throw[/rules]: [rules]Difficulty Class;DC[/rules] 13, each [rules]creature[/rules] in a 90-foot [rules]Cone[/rules]. Failure: 7 [rollable](2d6);{"diceNotation":"2d6","rollType":"damage","rollAction":"Poison Breath","rollDamageType":"Poison"}[/rollable] Poison [rules]damage[/rules]. Success: Half [rules]damage[/rules].`
+- `Poison Breath [rollable](Recharge 5–6);{"diceNotation":"1d6","rollType":"recharge","rollAction":"Poison Breath"}[/rollable]. Constitution [rules]Saving Throw[/rules]: [rules]Difficulty Class;DC[/rules] 13, each [rules]creature[/rules] in a 90-foot [rules]Cone[/rules]. Failure: 7 [rollable](2d6);{"diceNotation":"2d6","rollType":"damage","rollAction":"Poison Breath","rollDamageType":"Poison"}[/rollable] Poison [rules]damage[/rules]. Success: Half [rules]damage[/rules].`
  
 ### Other Actions
 
