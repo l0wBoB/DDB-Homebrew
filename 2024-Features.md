@@ -29,7 +29,7 @@
 - `Ventriloquism. Whenever the MONSTER speaks, it can choose a point within 30 feet of itself; its voice emanates from that point.`
 - `Warrior's Wrath. The MONSTER has [rules]Advantage[/rules] on melee [rules]Attack Roll;attack rolls[/rules] against any [rules]Bloodied[/rules] [rules]creature[/rules].`
 - `Wild Talent. The MONSTER can [action]Magic;cast[/action] CANTRIP without [rules]spell[/rules] components, using INTELLIGENCE|WISDOM|CHARISMA as the spellcasting ability.`
-### Miscellaneous sources
+### Other sources
 - `Bloodied Fury. While [rules]Bloodied[/rules], the MONSTER has [rules]Advantage[/rules] on [rules]Attack Roll;Attack Rolls[/rules].`
 - `Jumper. The MONSTER's [rules]Jumping;jump[/rules] distance is determined using its Dexterity rather than its Strength.`
 - `Amphibious. The MONSTER can breathe air and water.`
@@ -61,9 +61,9 @@
 - `Multiattack. The MONSTER makes two WEAPON attacks. It can replace one of these attacks with a use of ACTION.`
 - `Multiattack. The MONSTER makes two WEAPON attacks. It can replace one of these attacks with a use of Spellcasting (at will spells only).`
 - `Multiattack. The MONSTER makes two WEAPON attacks and can use Spellcasting to cast SPELL. It can replace one attack with a use of SPELL.`
-### Natural Weapons
+### Natural Weapon Attacks
 
-### Simple Melee Weapons
+### Simple Melee Weapon Attacks
 - `Club. Melee [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Club"}[/rollable], reach 5 ft. Hit: 3 [rollable](1d4 + 1);{"diceNotation":"1d4+1","rollType":"damage","rollAction":"Club","rollDamageType":"Bludgeoning"}[/rollable] Bludgeoning [rules]damage[/rules].`
 - `Dagger. Melee or Ranged [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Dagger"}[/rollable], reach 5 ft. or [wprop]range[/wprop] 20/60 ft. Hit: 3 [rollable](1d4 + 1);{"diceNotation":"1d4+1","rollType":"damage","rollAction":"Dagger","rollDamageType":"Piercing"}[/rollable] Piercing [rules]damage[/rules].`
 - `Greatclub. Melee [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Greatclub"}[/rollable], reach 5 ft. Hit: 5 [rollable](1d8 + 1);{"diceNotation":"1d8+1","rollType":"damage","rollAction":"Greatclub","rollDamageType":"Bludgeoning"}[/rollable] Bludgeoning [rules]damage[/rules], and if the [rules]target[/rules] is Large or smaller, the WEAPONMASTER can push the [rules]target[/rules] up to 10 feet straight away from itself.`
@@ -74,7 +74,7 @@
 - `Quarterstaff. Melee [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Quarterstaff"}[/rollable], reach 5 ft. Hit: 4 [rollable](1d6 + 1);{"diceNotation":"1d6+1","rollType":"damage","rollAction":"Quarterstaff","rollDamageType":"Bludgeoning"}[/rollable] Bludgeoning [rules]damage[/rules].`
 - `Sickle. Melee [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Sickle"}[/rollable], reach 5 ft. Hit: 3 [rollable](1d4 + 1);{"diceNotation":"1d4+1","rollType":"damage","rollAction":"Sickle","rollDamageType":"Slashing"}[/rollable] Slashing [rules]damage[/rules].`
 - `Spear. Melee or Ranged [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Spear"}[/rollable], reach 5 ft. or [wprop]range[/wprop] 20/60 ft. Hit: 4 [rollable](1d6 + 1);{"diceNotation":"1d6+1","rollType":"damage","rollAction":"Spear","rollDamageType":"Piercing"}[/rollable] Piercing [rules]damage[/rules].`
-### Martial Melee Weapons
+### Martial Melee Weapon Attacks
 - `Battleaxe. Melee [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Battleaxe"}[/rollable], reach 5 ft. Hit: 5 [rollable](1d8 + 1);{"diceNotation":"1d8+1","rollType":"damage","rollAction":"Battleaxe","rollDamageType":"Slashing"}[/rollable] Slashing [rules]damage[/rules].`
 - `Flail. Melee [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Flail"}[/rollable], reach 5 ft. Hit: 5 [rollable](1d8 + 1);{"diceNotation":"1d8+1","rollType":"damage","rollAction":"Flail","rollDamageType":"Bludgeoning"}[/rollable] Bludgeoning [rules]damage[/rules].`
 - `Glaive. Melee [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Glaive"}[/rollable], [wprop]reach[/wprop] 10 ft. Hit: 6 [rollable](1d10 + 1);{"diceNotation":"1d10+1","rollType":"damage","rollAction":"Glaive","rollDamageType":"Slashing"}[/rollable] Slashing [rules]damage[/rules].`
@@ -93,12 +93,12 @@
 - `Warhammer. Melee [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Warhammer"}[/rollable], reach 5 ft. Hit: 5 [rollable](1d8 + 1);{"diceNotation":"1d8+1","rollType":"damage","rollAction":"Warhammer","rollDamageType":"Bludgeoning"}[/rollable] Bludgeoning [rules]damage[/rules], and if the [rules]target[/rules] is Large or smaller, the WEAPONMASTER can push the [rules]target[/rules] up to 10 feet straight away from itself.`
 - `War Pick. Melee [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"War Pick"}[/rollable], reach 5 ft. Hit: 5 [rollable](1d8 + 1);{"diceNotation":"1d8+1","rollType":"damage","rollAction":"War Pick","rollDamageType":"Piercing"}[/rollable] Piercing [rules]damage[/rules].`
 - `Whip. Melee [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Whip"}[/rollable], [wprop]reach[/wprop] 10 ft. Hit: 3 [rollable](1d4 + 1);{"diceNotation":"1d4+1","rollType":"damage","rollAction":"Whip","rollDamageType":"Slashing"}[/rollable] Slashing [rules]damage[/rules].`
-### Simple Ranged Weapons
+### Simple Ranged Weapon Attacks
 - `Dart. Ranged [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Dart"}[/rollable], [wprop]range[/wprop] 20/60 ft. Hit: 3 [rollable](1d4 + 1);{"diceNotation":"1d4+1","rollType":"damage","rollAction":"Dart","rollDamageType":"Piercing"}[/rollable] Piercing [rules]damage[/rules], and the WEAPONMASTER has [rules]Advantage[/rules] on the next [rules]attack roll[/rules] it makes before the end of this turn.`
 - `Light Crossbow. Ranged [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Light Crossbow"}[/rollable], [wprop]range[/wprop] 80/320 ft. Hit: 5 [rollable](1d8 + 1);{"diceNotation":"1d8+1","rollType":"damage","rollAction":"Light Crossbow","rollDamageType":"Piercing"}[/rollable] Piercing [rules]damage[/rules].`
 - `Shortbow. Ranged [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Shortbow"}[/rollable], [wprop]range[/wprop] 80/320 ft. Hit: 4 [rollable](1d6 + 1);{"diceNotation":"1d6+1","rollType":"damage","rollAction":"Shortbow","rollDamageType":"Piercing"}[/rollable] Piercing [rules]damage[/rules], and the WEAPONMASTER has [rules]Advantage[/rules] on the next [rules]attack roll[/rules] it makes before the end of this turn.`
 - `Sling. Ranged [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Sling"}[/rollable], [wprop]range[/wprop] 30/120 ft. Hit: 3 [rollable](1d4 + 1);{"diceNotation":"1d4+1","rollType":"damage","rollAction":"Sling","rollDamageType":"Bludgeoning"}[/rollable] Bludgeoning [rules]damage[/rules].`
-### Martial Ranged Weapons
+### Martial Ranged Weapon Attacks
 - `Blowgun. Ranged [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Blowgun"}[/rollable], [wprop]range[/wprop] 25/100 ft. Hit: 2 (1 + 1) Piercing [rules]damage[/rules], and the WEAPONMASTER has [rules]Advantage[/rules] on the next [rules]attack roll[/rules] it makes before the end of this turn.`
 - `Hand Crossbow. Ranged [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Hand Crossbow"}[/rollable], [wprop]range[/wprop] 30/120 ft. Hit: 4 [rollable](1d6 + 1);{"diceNotation":"1d6+1","rollType":"damage","rollAction":"Hand Crossbow","rollDamageType":"Piercing"}[/rollable] Piercing [rules]damage[/rules], and the WEAPONMASTER has [rules]Advantage[/rules] on the next [rules]attack roll[/rules] it makes before the end of this turn.`
 - `Heavy Crossbow. Ranged [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Heavy Crossbow"}[/rollable], [wprop]range[/wprop] 100/400 ft. Hit: 6 [rollable](1d10 + 1);{"diceNotation":"1d10+1","rollType":"damage","rollAction":"Heavy Crossbow","rollDamageType":"Piercing"}[/rollable] Piercing [rules]damage[/rules], and if the [rules]target[/rules] is Large or smaller, the WEAPONMASTER can push the [rules]target[/rules] up to 10 feet straight away from itself.`
@@ -113,12 +113,12 @@
 - `Antimatter Rifle. Ranged [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Antimatter Rifle"}[/rollable], [wprop]range[/wprop] 120/360 ft. Hit: 28 [rollable](6d8 + 1);{"diceNotation":"6d8+1","rollType":"damage","rollAction":"Antimatter Rifle","rollDamageType":"Necrotic"}[/rollable] Necrotic [rules]damage[/rules].`
 - `Laser Pistol. Ranged [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Laser Pistol"}[/rollable], [wprop]range[/wprop] 40/120 ft. Hit: 12 [rollable](3d6 + 1);{"diceNotation":"3d6+1","rollType":"damage","rollAction":"Laser Pistol","rollDamageType":"Radiant"}[/rollable] Radiant [rules]damage[/rules], and the WEAPONMASTER has [rules]Advantage[/rules] on the next [rules]attack roll[/rules] it makes before the end of this turn.`
 - `Laser Rifle. Ranged [rules]Attack Roll[/rules]: [rollable]+3;{"diceNotation":"1d20+3","rollType":"to hit","rollAction":"Laser Rifle"}[/rollable], [wprop]range[/wprop] 100/300 ft. Hit: 15 [rollable](3d8 + 1);{"diceNotation":"3d8+1","rollType":"damage","rollAction":"Laser Rifle","rollDamageType":"Radiant"}[/rollable] Radiant [rules]damage[/rules].`
-### Special Weapons
+### Special Weapon Attacks
 - `Needle Sword. Melee [rules]Attack Roll[/rules]: +3, reach 5 ft. Hit: 3 [rollable](1d4 + 1);{"diceNotation":"1d4+1","rollType":"damage","rollAction":"Needle Sword","rollDamageType":"Piercing"}[/rollable] Piercing [rules]damage[/rules].`
 - `Insectile Rapier. Melee [rules]Attack Roll[/rules]: +3, reach 5 ft. Hit: 5 [rollable](1d8 + 1);{"diceNotation":"1d8+1","rollType":"damage","rollAction":"Insectile Rapier","rollDamageType":"Piercing"}[/rollable] Piercing [rules]damage[/rules] plus 2 [rollable](1d4);{"diceNotation":"1d4","rollType":"damage","rollAction":"Insectile Rapier","rollDamageType":"Poison"}[/rollable] Poison [rules]damage[/rules].`
 - `Putrid Staff. Melee [rules]Attack Roll[/rules]: +3, reach 5 ft. Hit: 5 [rollable](1d8 + 1);{"diceNotation":"1d8+1","rollType":"damage","rollAction":"Putrid Staff","rollDamageType":"Bludgeoning"}[/rollable] Bludgeoning [rules]damage[/rules] plus 7 [rollable](2d6);{"diceNotation":"2d6","rollType":"damage","rollAction":"Putrid Staff","rollDamageType":"Poison"}[/rollable] Poison [rules]damage[/rules].`
-- `Enchanting Bow. Ranged [rules]Attack Roll[/rules]: +3, [wprop]range[/wprop] 40/160 ft. Hit: 1 Piercing [rules]damage[/rules], and the [rules]target[/rules] has the [condition]Charmed[/condition] [rules]condition[/rules] until the start of the MONSTERS's next turn.`
-### Other
+- `Enchanting Bow. Ranged [rules]Attack Roll[/rules]: +3, [wprop]range[/wprop] 40/160 ft. Hit: 1 Piercing [rules]damage[/rules], and the [rules]target[/rules] has the [condition]Charmed[/condition] [rules]condition[/rules] until the start of the SPRITE's next turn.`
+### Other Actions
 - `Sting. Melee [rules]Attack Roll[/rules]: +5, reach 5 ft. Hit: 6 (1d6 + 3) Piercing [rules]Damage[/rules] plus 7 (2d6) Poison [rules]Damage[/rules].`
 - `Sting. Constitution [rules]Saving Throw[/rules]: [rules]Difficulty Class;DC[/rules] 12, one [rules]Creature[/rules] the MONSTER can see within 5 feet. Failure: 5 (2d4) Poison [rules]Damage[/rules], and the [rules]Target[/rules] has the [condition]Poisoned[/condition] [rules]Condition[/rules] for 1 hour. Failure by 5 or More: The [condition]Poisoned[/condition] [rules]Target[/rules] also has the [condition]Unconscious[/condition] [rules]Condition[/rules] until it takes [rules]Damage[/rules] or another [rules]Creature[/rules] takes an [rules]Action[/rules] to shake it awake.`
 - `Beak. Melee [rules]Attack Roll[/rules]: +4, reach 5 ft. Hit: 1 Piercing [rules]Damage[/rules].`
@@ -154,6 +154,7 @@
 
 - `Heart Sight. Charisma [rules]Saving Throw[/rules]: [rules]Difficulty Class;DC[/rules] 10, one [rules]Creature[/rules] within 5 feet the FEY can see. Celestials, Fiends, and Undead automatically fail the [rules]Saving Throw;Save[/rules]. Failure: The FEY knows the [rules]Target[/rules]'s emotions and [rules]Alignment[/rules].`
 - `Arcane Burst. Melee or Ranged [rules]Attack Roll[/rules]: +6, reach 5 ft. or range 120 ft. Hit: 16 (3d10) Force damage.`
+### Spellcasting
 - `Spellcasting. The MONSTER [action]Magic;casts[/action] one of the following [rules]Spell;Spells[/rules], using ABILITY as the spellcasting ability ([rules]Spell[/rules] [rules]Saving Throw;Save[/rules] [rules]Difficulty Class;DC[/rules] 13):`  
 `At Will: [spells]Mage Hand[/spells], [spells]Ray of Sickness[/spells] (level 2 version)`  
 `2[rules]Per Day;/Day[/rules] Each: Fog Cloud, Grease`  
@@ -161,10 +162,10 @@
 ## Bonus Actions
 - `Trample. Dexterity [rules]Saving Throw[/rules]: [rules]Difficulty Class;DC[/rules] 16, one [rules]Creature[/rules] within 5 feet that has the [condition]Prone[/condition] [rules]Condition[/rules]. Failure: 17 (2d10 + 6) Bludgeoning [rules]Damage[/rules]. Success: Half [rules]Damage[/rules].`
 - `Bubble Dash. While underwater, the SEAHORSE moves up to half its [rules]Swim Speed[/rules] without provoking an [action]Opportunity Attack[/action] action.`
-- `Teleport [rollable](Recharge 4–6);{"diceNotation":"1d6", "rollType":"recharge", "rollAction":"Teleport"}[/rollable]. The MONSTER [rules]Teleportation;teleports[/rules] up to 40 feet to an [rules]Unoccupied Space[/rules] it can see.`
+- `Teleport [rollable](Recharge 5–6);{"diceNotation":"1d6", "rollType":"recharge", "rollAction":"Teleport"}[/rollable]. The MONSTER [rules]Teleportation;teleports[/rules] up to 40 feet to an [rules]Unoccupied Space[/rules] it can see.`
 - `Leap. The MONSTER can [rules]Jumping;jump[/rules] up to 30 feet by spending 10 feet of movement.`
 ## Reactions
 - `Ink Cloud (1[rules]Per Day;/Day[/rules]). Trigger: A [rules]Creature[/rules] ends its turn within 5 feet of the OCTOPUS while underwater. Response: The OCTOPUS releases ink that fills a 5-foot [rules]Cube[/rules] centered on itself, and the OCTOPUS moves up to its [rules]Swim Speed[/rules]. The [rules]Cube[/rules] is [rules]Heavily Obscured[/rules] for 1 minute or until a strong current or similar effect disperses the ink.`
 - `Burst of Ingenuity (2[rules]Per Day;/Day[/rules]). Trigger: The SPHINX or another [rules]Creature[/rules] within 30 feet makes an [rules]Ability Check[/rules] or a [rules]Saving Throw[/rules]. Response: The SPHINX adds 2 to the [rules]D20 Test;Roll[/rules].`
-- `Counterspell (1[rules]Per Day;/Day[/rules]). The MONSTER [action]Magic;casts[/action] [spells]Counterspell[/spells] in response to that [rules]Spell[/rules]'s trigger, using the same spellcasting ability in Spellcasting.`
 - `Shield (2[rules]Per Day;/Day[/rules]). The MONSTER [action]Magic;casts[/action] [spells]Shield[/spells] in response to that [rules]Spell[/rules]'s trigger, using the same spellcasting ability in Spellcasting.`
+- `Counterspell (1[rules]Per Day;/Day[/rules]). The MONSTER [action]Magic;casts[/action] [spells]Counterspell[/spells] in response to that [rules]Spell[/rules]'s trigger, using the same spellcasting ability in Spellcasting.`
