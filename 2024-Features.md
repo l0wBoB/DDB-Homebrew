@@ -50,7 +50,7 @@
 - `Immutable Form. The MONSTER can't [rules]Shape-Shifting;shape-shift[/rules].`
 - `Incubus Form. When the SUCCUBUS finishes a [rules]Long Rest[/rules], it can [rules]Shape-Shifting;shape-shift[/rules] into an [monsters]Incubus[/monsters], using that [rules]stat block[/rules] instead of this one. Any equipment it's wearing or carrying isn't transformed.`
 - `Jumper. The MONSTER's [rules]Jumping;jump[/rules] distance is determined using its Dexterity rather than its Strength.`
-- `Legendary Resistance (3[rules]Per Day;/Day[/rules] or 4[rules]Per Day;/Day[/rules]). If the MONSTER fails a [rules]saving throw[/rules], it can choose to succeed instead.`
+- `Legendary Resistance (3[rules]Per Day;/Day[/rules] or 4[rules]Per Day;/Day[/rules] in Lair). If the MONSTER fails a [rules]saving throw[/rules], it can choose to succeed instead.`
 - `Magic Resistance. The MONSTER has [rules]Advantage[/rules] on [rules]Saving Throw;saving throws[/rules] against [rules]Spell;spells[/rules] and other [rules]Magical Effect;magical effects[/rules].`
 - `Mimicry. The MONSTER can mimic simple sounds it has heard, such as a whisper or chitter. A hearer can discern the sounds are imitations with a successful [rules]Difficulty Class;DC[/rules] 10 Wisdom ([skill]Insight[/skill]) [rules]Ability Check;check[/rules].`
 - `Otherworldly Perception. The MONSTER can sense the presence of any [rules]creature[/rules] within 30 feet of it that has the [condition]Invisible[/condition] [rules]condition[/rules] or is on the [lore]Ethereal Plane[/lore]. It can pinpoint such a [rules]creature[/rules] that is moving.`
