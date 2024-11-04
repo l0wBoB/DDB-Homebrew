@@ -5,7 +5,7 @@
 > - Feature effects (e.g. _Hit:_ ; _Trigger:_ ; _Failure by 5 or More:_) are styled _italic_.
 > - ***Spellcasting*** has a blank line between each line.
 ## Traits
-### Dungeon Master's Guide (https://www.dndbeyond.com/sources/dnd/dmg-2024/dms-toolbox#CreatureTraits)
+### Dungeon Master's Guide
 - `Aversion to Fire. If the MONSTER takes Fire [rules]damage[/rules], it has [rules]Disadvantage[/rules] on [rules]Attack Roll;attack rolls[/rules] and [rules]Ability Check;ability checks[/rules] until the end of its next turn.`
 - `Battle Ready. The MONSTER has [rules]Advantage[/rules] on [rules]Initiative[/rules] rolls.`
 - `Beast Whisperer. The MONSTER can communicate with Beasts as if they shared a common language.`
