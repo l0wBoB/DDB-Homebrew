@@ -29,27 +29,41 @@
 - `Ventriloquism. Whenever the MONSTER speaks, it can choose a point within 30 feet of itself; its voice emanates from that point.`
 - `Warrior's Wrath. The MONSTER has [rules]Advantage[/rules] on melee [rules]Attack Roll;attack rolls[/rules] against any [rules]Bloodied[/rules] [rules]creature[/rules].`
 - `Wild Talent. The MONSTER can [action]Magic;cast[/action] CANTRIP without [rules]spell[/rules] components, using INTELLIGENCE|WISDOM|CHARISMA as the spellcasting ability.`
-### Other sources
+### Other official sources
 - `Abduct. The MONSTER's [rules]Speed[/rules] isn't halved when it moves a creature [condition]Grappled[/condition] by it.`
 - `Agile. The MONSTER doesn't provoke an [action]Opportunity Attack[/action] action when it moves out of an enemy's reach.`
+- `Amorphous. The MONSTER can move through a space as narrow as 1 inch without expending extra movement to do so.`
 - `Amphibious. The MONSTER can breathe air and water.`
+- `Battle Ready. The MONSTER has [rules]Advantage[/rules] on [rules]Initiative[/rules] rolls.`
 - `Beast of Burden. The BEAST counts as one [rules]size[/rules] larger for the purpose of determining its [rules]carrying capacity[/rules].`
 - `Bloodied Fury. While [rules]Bloodied[/rules], the MONSTER has [rules]Advantage[/rules] on [rules]Attack Roll;attack rolls[/rules].`
 - `Compression. The MONSTER can move through a space as narrow as 1 inch without spending extra movement to do so.`
+- `Corrosive Form. A [rules]creature[/rules] that hits the MONSTER with a melee [rules]attack roll[/rules] takes 4 [rollable](1d8);{"diceNotation":"1d8","rollType":"damage","rollAction":"Corrosive Form","rollDamageType":"Acid"}[/rollable] Acid [rules]damage[/rules]. The MONSTER eats through 2-inch-thick nonmagical wood or metal in 1 round.`
+- `Death Burst. Dexterity [rules]Saving Throw[/rules]: [rules]Difficulty Class;DC[/rules] 13, each [rules]creature[/rules] in a 10-foot [rules]Emanation[/rules] originating from the MONSTER when it [rules]Dead;dies[/rules]. Failure: 7 [rollable](2d6);{"diceNotation":"2d6","rollType":"damage","rollAction":"Death Burst","rollDamageType":"Piercing"}[/rollable] Piercing [rules]damage[/rules] plus 7 [rollable](2d6);{"diceNotation":"2d6","rollType":"damage","rollAction":"Death Burst","rollDamageType":"Fire"}[/rollable] Fire [rules]damage[/rules]. Success: Half [rules]damage[/rules].`
 - `Devil's Sight. [rules]Magical Effect;Magical[/rules] [rules]Darkness[/rules] doesn't impede the DEVIL's [sense]Darkvision[/sense].`
+- `Fiery Aura. At the end of each of the MONSTER's turns, each [rules]creature[/rules] in a 10-foot [rules]Emanation[/rules] originating from the MONSTER takes 4 [rollable](1d8);{"diceNotation":"1d8","rollType":"damage","rollAction":"Fiery Aura","rollDamageType":"Fire"}[/rollable] Fire [rules]damage[/rules]. [rules]Creature;Creatures[/rules] and flammable [rules]Object;objects[/rules] in the [rules]Emanation[rules] start [rules]burning[/rules].`
+- `Fire Form. The MONSTER can move through a space as narrow as 1 inch wide without expending extra movement to do so, and it can enter a [rules]creature[/rules]'s space and stop there. The first time it enters a [rules]creature[/rules]'s space on a turn, that [rules]creature[/rules] takes 4 [rollable](1d8);{"diceNotation":"1d8","rollType":"damage","rollAction":"Fire Form","rollDamageType":"Fire"}[/rollable] Fire [rules]damage[/rules].`
 - `Flyby. The MONSTER doesn't provoke an [action]Opportunity Attack[/action] action when it [rules]Flying;flies[/rules] out of an enemy's reach.`
-- `Gear. [items]Hide Armor[/items], three [items]Light Hammer;Light Hammers[/items]`
+- `Gear. [items]Javelin;Javelins[/items] (3), [items]Greatsword[/items], [items]Heavy Crossbow[/items],[items]Plate Armor[/items]`
 - `Hold Breath. The MONSTER can hold its breath for 1 hour.`
+- `Illumination. The MONSTER sheds [rules]Bright Light[/rules] in a 15-foot radius and [rules]Dim Light[/rules] for an additional 15 feet.`
+- `Immutable Form. The MONSTER can't [rules]Shape-Shifting;shape-shift[/rules].`
+- `Incubus Form. When the SUCCUBUS finishes a [rules]Long Rest[/rules], it can [rules]Shape-Shifting;shape-shift[/rules] into an [monsters]Incubus[monsters], using that [rules]stat block[/rules] instead of this one. Any equipment it's wearing or carrying isn't transformed.`
 - `Jumper. The MONSTER's [rules]Jumping;jump[/rules] distance is determined using its Dexterity rather than its Strength.`
+- `Legendary Resistance (3[rules]Per Day;/Day[/rules] or 4[rules]Per Day;/Day[/rules]). If the MONSTER fails a [rules]saving throw[/rules], it can choose to succeed instead.`
 - `Magic Resistance. The MONSTER has [rules]Advantage[/rules] on [rules]Saving Throw;saving throws[/rules] against [rules]Spell;spells[/rules] and other [rules]Magical Effect;magical effects[/rules].`
 - `Mimicry. The MONSTER can mimic simple sounds it has heard, such as a whisper or chitter. A hearer can discern the sounds are imitations with a successful [rules]Difficulty Class;DC[/rules] 10 Wisdom ([skill]Insight[/skill]) [rules]Ability Check;check[/rules].`
+- `Otherworldly Perception. The MONSTER can sense the presence of any [rules]creature[/rules] within 30 feet of it that has the [condition]Invisible[/condition] [rules]condition[/rules] or is on the [lore]Ethereal Plane[/lore]. It can pinpoint such a [rules]creature[/rules] that is moving.`
 - `Pack Tactics. The MONSTER has [rules]Advantage[/rules] on an [rules]attack roll[/rules] against a [rules]creature[/rules] if at least one of the MONSTER's [rules]Ally;allies[/rules] is within 5 feet of the [rules]creature[/rules] and the [rules]ally[/rules] doesn't have the [condition]Incapacitated[/condition] [rules]condition[/rules].`
 - `Running Leap. With a 10-foot running start, the MONSTER can [rules]Long Jump[/rules] up to 25 feet.`
 - `Speak with Frogs and Toads. The BULLYWUG can communicate simple concepts to [monsters]frog;Frogs[/monsters] and toads when it speaks in Bullywug.`
 - `Spider Climb. The SPIDER can [rules]Climbing;climb[/rules] [rules]Difficult Terrain;difficult surfaces[/rules], including along ceilings, without needing to make an [rules]ability check[/rules].`
 - `Standing Leap. The MONSTER's [rules]Long Jump[/rules] is up to 10 feet and its [rules]High Jump[/rules] is up to 5 feet with or without a running start.`
+- `Succubus Form. When the INCUBUS finishes a [rules]Long Rest[/rules], it can [rules]Shape-Shifting;shape-shift[/rules] into a [monsters]Succubus[/monsters], using that [rules]stat block[/rules] instead of this one. Any equipment it's wearing or carrying isn't transformed.`
+- `Sunlight Sensitivity. While in sunlight, the MONSTER has [rules]Disadvantage[/rules] on [rules]Ability Check;ability checks[/rules] and [rules]Attack Roll;attack rolls[/rules].`
 - `Undead Fortitude. If [rules]damage[/rules] reduces the UNDEAD to 0 [rules]Hit Points[/rules], it must make a Constitution [rules]saving throw[/rules] with a [rules]Difficulty Class;DC[/rules] of 5 plus the [rules]damage[/rules] taken unless the [rules]damage[/rules] is Radiant or from a [rules]Critical Hit[/rules]. On a successful [rules]Saving Throw;save[/rules], the UNDEAD drops to 1 [rules]Hit Points;Hit Point[/rules] instead.`
 - `Water Breathing. The MONSTER can breathe only underwater.`
+- `Water Susceptibility. The MONSTER takes 3 [rollable](1d6);{"diceNotation":"1d8+3","rollType":"damage","rollAction":"Water Susceptibility","rollDamageType":"Cold"}[/rollable] Cold [rules]damage[/rules] for every 5 feet the MONSTER moves in water or for every gallon of water splashed on it.`
 - `Web Walker. The SPIDER ignores movement restrictions caused by webs, and it knows the location of any other [rules]Creature[/rules] in contact with the same web.`
 ## Actions
 ### Multiattack examples
