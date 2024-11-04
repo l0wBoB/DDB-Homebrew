@@ -44,7 +44,7 @@
 - `Fiery Aura. At the end of each of the MONSTER's turns, each [rules]creature[/rules] in a 10-foot [rules]Emanation[/rules] originating from the MONSTER takes 4 [rollable](1d8);{"diceNotation":"1d8","rollType":"damage","rollAction":"Fiery Aura","rollDamageType":"Fire"}[/rollable] Fire [rules]damage[/rules]. [rules]Creature;Creatures[/rules] and flammable [rules]Object;objects[/rules] in the [rules]Emanation[/rules] start [rules]burning[/rules].`
 - `Fire Form. The MONSTER can move through a space as narrow as 1 inch wide without expending extra movement to do so, and it can enter a [rules]creature[/rules]'s space and stop there. The first time it enters a [rules]creature[/rules]'s space on a turn, that [rules]creature[/rules] takes 4 [rollable](1d8);{"diceNotation":"1d8","rollType":"damage","rollAction":"Fire Form","rollDamageType":"Fire"}[/rollable] Fire [rules]damage[/rules].`
 - `Flyby. The MONSTER doesn't provoke an [action]Opportunity Attack[/action] action when it [rules]Flying;flies[/rules] out of an [rules]enemy[/rules]'s reach.`
-- `Gear. [items]Javelin;Javelins[/items] (3), [items]Greatsword[/items], [items]Crossbow, Heavy;Heavy Crossbow[/items],[items]Armor, Plate;Plate Armor[/items]`
+- `Gear. [items]Javelin;Javelins[/items] (3), [items]Greatsword[/items], [items]Crossbow, Heavy;Heavy Crossbow[/items], [items]Plate;Plate Armor[/items]`
 - `Hold Breath. The MONSTER can hold its breath for 1 hour.`
 - `Illumination. The MONSTER sheds [rules]Bright Light[/rules] in a 15-foot radius and [rules]Dim Light[/rules] for an additional 15 feet.`
 - `Immutable Form. The MONSTER can't [rules]Shape-Shifting;shape-shift[/rules].`
