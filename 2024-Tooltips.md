@@ -224,16 +224,30 @@
 - `[rules]Creature Type[/rules]` `[rules]Creature Type;Creature Types[/rules]`
 - `[rules]Challenge Rating[/rules]` `[rules]Challenge Rating;CR[/rules]`
 - `[rules]Per Day[/rules]` `[rules]Per Day;/Day[/rules]`
-# Tooltips for the D&D Free Rules (2024)
+# Tooltips for the Dungeon Master's Guide (2024)
+## Chapter 3: DM's Toolbox
+### Firearms and Explosives
+#### Firearms
+- `[wprop]Burst Fire[/wprop]`
+- `[wprop]Reload[/wprop]`
+- `[wprop]Ammunition (Firearms)[/wprop]`
+## Chapter 6: Cosmology
+### The Planes
+- `[lore][/lore]`
+### Planar Travel
+### Planar Adventuring
+### Tour of the Multiverse
+## Appendix A: Lore Glossary
+# Tooltips for official sources based on 2024 rules
 ## Spells
-- `[spells]Spell Name[/spells]` (https://www.dndbeyond.com/spells?filter-source=148)
+- `[spells]Spell Name[/spells]` (https://www.dndbeyond.com/spells?filter-source=145&filter-source=146&filter-source=148&filter-source=149&filter-source=153)
 ## Equipment
-- `[items]Item Name[/items]` (https://www.dndbeyond.com/equipment?filter-source=148)
+- `[items]Item Name[/items]` (https://www.dndbeyond.com/equipment?filter-source=145&filter-source=146&filter-source=148&filter-source=149&filter-source=153)
 ## Magic Items
-- `[magicitems]Magic Item Name[/magicitems]` (https://www.dndbeyond.com/magic-items?filter-source=148)
+- `[magicitems]Magic Item Name[/magicitems]` (https://www.dndbeyond.com/magic-items?filter-source=145&filter-source=146&filter-source=148&filter-source=149&filter-source=153)
 ## Monsters
-- `[monsters]Monster Name[/monsters]` (https://www.dndbeyond.com/monsters?filter-source=148)
+- `[monsters]Monster Name[/monsters]` (https://www.dndbeyond.com/monsters?filter-source=145&filter-source=146&filter-source=148&filter-source=149&filter-source=153)
 ## Monster Images
-- `[monimgs]Monster Name[/monimgs]` (https://www.dndbeyond.com/monsters?filter-source=148)
+- `[monimgs]Monster Name[/monimgs]` (https://www.dndbeyond.com/monsters?filter-source=145&filter-source=146&filter-source=148&filter-source=149&filter-source=153)
 ## Vehicles
 - `[vehicles]Vehicle Name[/vehicles]` (https://www.dndbeyond.com/vehicles)
