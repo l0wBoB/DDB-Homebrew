@@ -28,7 +28,7 @@
 - `Telepathic Shroud. The MONSTER is [rules]Immunity;immune[/rules] to any effect that would sense its emotions or read its thoughts, as well as to [rules]Spell;spells[/rules] from the school of Divination. As a [rules]Bonus Action[/rules], the MONSTER can suppress this trait or reactivate it.`
 - `Ventriloquism. Whenever the MONSTER speaks, it can choose a point within 30 feet of itself; its voice emanates from that point.`
 - `Warrior's Wrath. The MONSTER has [rules]Advantage[/rules] on melee [rules]Attack Roll;attack rolls[/rules] against any [rules]Bloodied[/rules] [rules]creature[/rules].`
-- `Wild Talent. The MONSTER can [action]Magic;cast[/action] CANTRIP without [rules]spell[/rules] components, using INTELLIGENCE/WISDOM/CHARISMA as the spellcasting ability.`
+- `Wild Talent. The MONSTER can [action]Magic;cast[/action] CANTRIP without [rules]spell[/rules] components, using INTELLIGENCE|WISDOM|CHARISMA as the spellcasting ability.`
 ### Miscellaneous sources
 - `Bloodied Fury. While [rules]Bloodied[/rules], the MONSTER has [rules]Advantage[/rules] on [rules]Attack Roll;Attack Rolls[/rules].`
 - `Jumper. The MONSTER's [rules]Jumping;jump[/rules] distance is determined using its Dexterity rather than its Strength.`
