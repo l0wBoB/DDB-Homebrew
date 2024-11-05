@@ -151,8 +151,8 @@
 ### Spellcasting
 - `Spellcasting. The MONSTER [action]Magic;casts[/action] one of the following [rules]Spell;spells[/rules], using ABILITY as the spellcasting ability ([rules]spell[/rules] [rules]Saving Throw;save[/rules] [rules]Difficulty Class;DC[/rules] 13):`  
 `At Will: [spells]Mage Hand[/spells], [spells]Ray of Sickness[/spells] (level 2 version)`  
-`2[rules]Per Day;/Day[/rules] Each: Fog Cloud, Grease`  
-`1[rules]Per Day;/Day[/rules]: Vitriolic Sphere`
+`2[rules]Per Day;/Day[/rules] Each: [spells]Fog Cloud[/spells], [spells]Grease[/spells]`  
+`1[rules]Per Day;/Day[/rules]: [spells]Vitriolic Sphere[/spells]`
 ## Bonus Actions
 - `Trample. Dexterity [rules]Saving Throw[/rules]: [rules]Difficulty Class;DC[/rules] 13, one [rules]creature[/rules] within 5 feet that has the [condition]Prone[/condition] [rules]condition[/rules]. Failure: 17 (2d10 + 6) Bludgeoning [rules]damage[/rules]. Success: Half [rules]damage[/rules].`
 - `Bubble Dash. While underwater, the SEAHORSE moves up to half its [rules]Swim Speed[/rules] without provoking an [action]Opportunity Attack[/action] action.`
