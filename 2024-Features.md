@@ -30,7 +30,7 @@
 - `Warrior's Wrath. The MONSTER has [rules]Advantage[/rules] on melee [rules]Attack Roll;attack rolls[/rules] against any [rules]Bloodied[/rules] [rules]creature[/rules].`
 - `Wild Talent. The MONSTER can [action]Magic;cast[/action] CANTRIP without spell components, using INTELLIGENCE|WISDOM|CHARISMA as the spellcasting ability.`
 ### Other official sources
-- `Abduct. The MONSTER's [rules]Speed[/rules] isn't halved when it moves a creature [condition]Grappled[/condition] by it.`
+- `Abduct. The MONSTER's [rules]Speed[/rules] isn't halved when it moves a [rules]creature[/rules] [condition]Grappled[/condition] by it.`
 - `Agile. The MONSTER doesn't provoke an [action]Opportunity Attack[/action] action when it moves out of an [rules]enemy[/rules]'s reach.`
 - `Amorphous. The MONSTER can move through a space as narrow as 1 inch without expending extra movement to do so.`
 - `Amphibious. The MONSTER can breathe air and water.`
