@@ -280,7 +280,7 @@
 - `[lore]Hades[/lore]` `[lore]Hades;Plane of Gloom[/lore]` `[lore]Hades;Three Glooms[/lore]` `[lore]Hades;Oinos[/lore]` `[lore]Hades;Niflheim[/lore]` `[lore]Hades;Pluton[/lore]` `[lore]Hades;Gray Waste[/lore]`
 - `[lore]Limbo[/lore]` `[lore]Limbo;Plane of Pure Chaos[/lore]` `[lore]Limbo;Ever-Changing Chaos[/lore]`
 - `[lore]Mechanus[/lore]` `[lore]Mechanus;Clockwork Nirvana[/lore]` `[lore]Mechanus;Nirvana[/lore]`
--  `[lore]Mount Celestia[/lore]` `[lore]Mount Celestia;Plane of Good[/lore]` `[lore]Mount Celestia;Lunia[/lore]` `[lore]Mount Celestia;Mercuria[/lore]` `[lore]Mount Celestia;Venya[/lore]` `[lore]Mount Celestia;Solania[/lore]` `[lore]Mount Celestia;Mertion[/lore]` `[lore]Mount Celestia;Jovar[/lore]` `[lore]Mount Celestia;Chronias[/lore]` `[lore]Mount Celestia;Seven Heavens[/lore]` `[lore]Mount Celestia;Seven Mountains of Goodness and Law[/lore]` `[lore]Mount Celestia;Seven Mounting Heavens[/lore]`
+-  `[lore]Mount Celestia[/lore]` `[lore]Mount Celestia;Plane of Good[/lore]` `[lore]Mount Celestia;Lunia[/lore]` `[lore]Mount Celestia;Mercuria[/lore]` `[lore]Mount Celestia;Venya[/lore]` `[lore]Mount Celestia;Solania[/lore]` `[lore]Mount Celestia;Mertion[/lore]` `[lore]Mount Celestia;Jovar[/lore]` `[lore]Mount Celestia;Chronias[/lore]` `[lore]Mount Celestia;Seven Mounting Heavens[/lore]` `[lore]Mount Celestia;Seven Heavens[/lore]` `[lore]Mount Celestia;Seven Mountains of Goodness and Law[/lore]`
   -  `[lore]Bahamut[/lore]` `[lore]Bahamut;Paladine[/lore]` `[lore]Bahamut;Xymor[/lore]`
   -  `[lore]Moradin[/lore]` `[lore]Moradin;Soul Forger[/lore]` `[lore]Moradin;Dwarffather[/lore]`
 -  `[lore]Nine Hells[/lore]` `[lore]Nine Hells;Plane of Evil[/lore]` `[lore]Nine Hells;Hells[/lore]` `[lore]Nine Hells;Hell[/lore]` `[lore]Nine Hells;Baator[/lore]`
