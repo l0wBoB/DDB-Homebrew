@@ -302,7 +302,7 @@
 - `[lore]Infinite Staircase[/lore]`
 - `[lore]River Oceanus[/lore]` `[lore]River Oceanus;Oceanus[/lore]`
 - `[lore]River Styx[/lore]` `[lore]River Styx;Styx[/lore]`
-- `[lore]Yggdrasil, the World Tree[/lore]` `[lore]Yggdrasil, the World Tree;Yggdrasil[/lore]`
+- `[lore]Yggdrasil, the World Tree[/lore]` `[lore]Yggdrasil, the World Tree;Yggdrasil[/lore]` `[lore]Yggdrasil, the World Tree;World Tree[/lore]`
 ### Tour of the Multiverse
 - `[lore]Demiplane[/lore]`
 - `[lore]Far Realm[/lore]`
