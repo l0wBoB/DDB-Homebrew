@@ -236,94 +236,93 @@
 #### The Great Wheel
 `[lore]The Great Wheel[/lore]`
 #### Material Realms
-- `[lore]Material Plane[/lore]`
+- `[lore]Material Plane[/lore]` `[lore]Material Plane;Prime Material Plane[/lore]` `[lore]Material Plane;Prime[/lore]`
   - `[lore]First World[/lore]`
 #### Transitive Planes
-- `[lore]Ethereal Plane[/lore]`
+- `[lore]Ethereal Plane[/lore]` `[lore]Ethereal Plane;Misty Shore[/lore]` `[lore]Ethereal Plane;Waveless Sea[/lore]`
   - `[lore]Border Ethereal[/lore]`
   - `[lore]Deep Ethereal[/lore]`
   - `[lore]Radiant Citadel[/lore]`
-- `[lore]Astral Plane[/lore]`
+- `[lore]Astral Plane[/lore]` `[lore]Astral Plane;Astral Sea[/lore]`
   - `[lore]Wildspace[/lore]`
 #### Inner Planes
 - `[lore]Inner Planes[/lore]`
-  - `[lore]Elemental Plane of Air[/lore]`
-  - `[lore]Elemental Plane of Earth[/lore]`
-  - `[lore]Elemental Plane of Fire[/lore]`
+  - `[lore]Elemental Plane of Air[/lore]` `[lore]Elemental Plane of Air;Plane of Air[/lore]`
+  - `[lore]Elemental Plane of Earth[/lore]` `[lore]Elemental Plane of Earth;Plane of Earth[/lore]`
+  - `[lore]Elemental Plane of Fire[/lore]` `[lore]Elemental Plane of Fire;Plane of Fire[/lore]`
     - `[lore]City of Brass[/lore]`
-  - `[lore]Elemental Plane of Water[/lore]`
+  - `[lore]Elemental Plane of Water[/lore]` `[lore]Elemental Plane of Water;Plane of Water[/lore]`
+  - `[lore]Plane of Ash[/lore]` `[lore]Plane of Ash;Great Conflagration[/lore]`
+  - `[lore]Plane of Ice[/lore]` `[lore]Plane of Ice;Frostfell[/lore]`
+  - `[lore]Plane of Magma[/lore]` `[lore]Plane of Magma;Fountains of Creation[/lore]`
+  - `[lore]Plane of Ooze[/lore]` `[lore]Plane of Ooze;Swamp of Oblivion[/lore]`
+  - `[lore]Positive Plane[/lore]`
+  - `[lore]Negative Plane[/lore]`
 #### Outer Planes
 - `[lore]Abyss[/lore]` `[lore]Abyss;Plain of Infinite Portals[/lore]` `[lore]Abyss;Azzagrat[/lore]` `[lore]Abyss;Demonweb[/lore]` `[lore]Abyss;Gaping Maw[/lore]` `[lore]Abyss;Thanatos[/lore]` `[lore]Abyss;Slime Pits[/lore]` `[lore]Abyss;Shedaklah[/lore]` `[lore]Abyss;Death Dells[/lore]` `[lore]Abyss;Endless Maze[/lore]`
-  - `[lore]Graz'zt[/lore]`
-  - `[lore]Lolth[/lore]` `[lore]Lolth;Demon Queen of Spiders[/lore]`
-  - `[lore]Demogorgon[/lore]` `[lore]Demogorgon;Sibilant Beast[/lore]` `[lore]Demogorgon;Prince of Demons[/lore]`
-  - `[lore]Orcus[/lore]` `[lore]Orcus;Demon Prince of Undeath[/lore]` `[lore]Orcus;Blood Lord[/lore]`
+  - `[lore]Graz'zt[/lore]` `[lore]Graz'zt;Dark Prince[/lore]` `[lore]Graz'zt;Prince of Pleasure[/lore]` 
+  - `[lore]Lolth[/lore]` `[lore]Lolth;Demon Queen of Spiders[/lore]` `[lore]Lolth;Queen of Spiders[/lore]` `[lore]Lolth;Queen of the Demonweb Pits[/lore]`
+  - `[lore]Demogorgon[/lore]` `[lore]Demogorgon;Sibilant Beast[/lore]` `[lore]Demogorgon;Prince of Demons[/lore]` `[lore]Demogorgon;Imprisoned One[/lore]` `[lore]Demogorgon;Deep Father[/lore]` `[lore]Demogorgon;Siosivash[/lore]`
+  - `[lore]Orcus[/lore]` `[lore]Orcus;Demon Prince of Undeath[/lore]` `[lore]Orcus;Blood Lord[/lore]` `[lore]Orcus;Tenebrous[/lore]` `[lore]Orcus;Demon Lord of Undeath[/lore]` `[lore]Orcus;Shadow That Was[/lore]`
     - `[lore]Kyuss[/lore]` `[lore]Kyuss;Worm That Walks[/lore]`
-  - `[lore]Juiblex[/lore]` `[lore]Juiblex;Demon Lord of Slimes and Oozes[/lore]` `[lore]Juiblex;Faceless Lord[/lore]`
+  - `[lore]Juiblex[/lore]` `[lore]Juiblex;Demon Lord of Slimes and Oozes[/lore]` `[lore]Juiblex;Faceless Lord[/lore]` `[lore]Juiblex;Lord of Nothing[/lore]`
   - `[lore]Zuggtmoy[/lore]` `[lore]Zuggtmoy;Demon Queen of Fungi[/lore]` `[lore]Zuggtmoy;Lady of Rot and Decay[/lore]`
-  - `[lore]Yeenoghu[/lore]` `[lore]Yeenoghu;Gnoll Lord[/lore]`
+  - `[lore]Yeenoghu[/lore]` `[lore]Yeenoghu;Gnoll Lord[/lore]` `[lore]Yeenoghu;Ruler of Ruin[/lore]`
   - `[lore]Baphomet[/lore]` `[lore]Baphomet;Horned King[/lore]` `[lore]Baphomet;Prince of Beasts[/lore]`
-- `[lore]Acheron[/lore]` `[lore]Acheron;Avalas[/lore]` `[lore]Acheron;Thuldanin[/lore]` `[lore]Acheron;Tintibulus[/lore]` `[lore]Acheron;Ocanthus[/lore]`
-- `[lore]Arborea[/lore]` `[lore]Arborea;Arvandor[/lore]` `[lore]Arborea;Aquallor[/lore]` `[lore]Arborea;Mithardir[/lore]`
-- `[lore]Arcadia[/lore]` `[lore]Arcadia;Abellio[/lore]` `[lore]Arcadia;Buxenus[/lore]`
-- `[lore]Beastlands[/lore]` `[lore]Beastlands;Krigala[/lore]` `[lore]Beastlands;Brux[/lore]` `[lore]Beastlands;Karasuthra[/lore]`
-- `[lore]Bytopia[/lore]` `[lore]Bytopia;Dothion[/lore]` `[lore]Bytopia;Shurrock[/lore]`
-- `[lore]Carceri[/lore]` `[lore]Carceri;Prison Plane[/lore]` `[lore]Carceri;Orthrys[/lore]` `[lore]Carceri;Cathrys[/lore]` `[lore]Carceri;Minethys[/lore]` `[lore]Carceri;Colothys[/lore]` `[lore]Carceri;Porphatys[/lore]` `[lore]Carceri;Agathys[/lore]`
-- `[lore]Elysium[/lore]` `[lore]Elysium;Amoria[/lore]` `[lore]Elysium;Eronia[/lore]` `[lore]Elysium;Belierin[/lore]` `[lore]Elysium;Thalasia[/lore]`
-- `[lore]Gehenna[/lore]` `[lore]Gehenna;Plane of Suspicion and Greed` `[lore]Gehenna;Khalas[/lore]` `[lore]Gehenna;Chamada[/lore]` `[lore]Gehenna;Mungoth[/lore]` `[lore]Gehenna;Krangath[/lore]`
-- `[lore]Hades[/lore]` `[lore]Hades;Plane of Gloom[/lore]` `[lore]Hades;Three Glooms[/lore]` `[lore]Hades;Oinos[/lore]` `[lore]Hades;Niflheim[/lore]` `[lore]Hades;Pluton[/lore]`
-- `[lore]Limbo[/lore]` `[lore]Limbo;Plane of Pure Chaos[/lore]`
-- `[lore]Mechanus[/lore]`
--  `[lore]Mount Celestia[/lore]` `[lore]Mount Celestia;Plane of Good[/lore]` `[lore]Mount Celestia;Lunia[/lore]` `[lore]Mount Celestia;Mercuria[/lore]` `[lore]Mount Celestia;Venya[/lore]` `[lore]Mount Celestia;Solania[/lore]` `[lore]Mount Celestia;Mertion[/lore]` `[lore]Mount Celestia;Jovar[/lore]` `[lore]Mount Celestia;Chronias[/lore]`
-  -  `[lore]Bahamut[/lore]` `[lore]Bahamut;Paladine[/lore]`
-  -  `[lore]Moradin[/lore]`
--  `[lore]Nine Hells[/lore]` `[lore]Nine Hells;Plane of Evil[/lore]`
+- `[lore]Acheron[/lore]` `[lore]Acheron;Avalas[/lore]` `[lore]Acheron;Thuldanin[/lore]` `[lore]Acheron;Tintibulus[/lore]` `[lore]Acheron;Ocanthus[/lore]` `[lore]Acheron;Infinite Battlefield[/lore]` `[lore]Acheron;Infernal Battlefield[/lore]`
+- `[lore]Arborea[/lore]` `[lore]Arborea;Arvandor[/lore]` `[lore]Arborea;Aquallor[/lore]` `[lore]Arborea;Mithardir[/lore]` `[lore]Arborea;Olympian Glades[/lore]` `[lore]Arborea;Olympus[/lore]`
+- `[lore]Arcadia[/lore]` `[lore]Arcadia;Abellio[/lore]` `[lore]Arcadia;Buxenus[/lore]` `[lore]Arcadia;Peaceable Kingdoms[/lore]`
+- `[lore]Beastlands[/lore]` `[lore]Beastlands;Krigala[/lore]` `[lore]Beastlands;Brux[/lore]` `[lore]Beastlands;Karasuthra[/lore]` `[lore]Beastlands;Wilderness[/lore]` `[lore]Beastlands;Happy Hunting Grounds[/lore]`
+- `[lore]Bytopia[/lore]` `[lore]Bytopia;Dothion[/lore]` `[lore]Bytopia;Shurrock[/lore]` `[lore]Bytopia;Twin Paradises[/lore]`
+- `[lore]Carceri[/lore]` `[lore]Carceri;Prison Plane[/lore]` `[lore]Carceri;Orthrys[/lore]` `[lore]Carceri;Cathrys[/lore]` `[lore]Carceri;Minethys[/lore]` `[lore]Carceri;Colothys[/lore]` `[lore]Carceri;Porphatys[/lore]` `[lore]Carceri;Agathys[/lore]` `[lore]Carceri;Tarterian Depths[/lore]` `[lore]Carceri;Tarterus[/lore]`
+- `[lore]Elysium[/lore]` `[lore]Elysium;Amoria[/lore]` `[lore]Elysium;Eronia[/lore]` `[lore]Elysium;Belierin[/lore]` `[lore]Elysium;Thalasia[/lore]` `[lore]Elysium;Blessed Fields[/lore]`
+- `[lore]Gehenna[/lore]` `[lore]Gehenna;Plane of Suspicion and Greed` `[lore]Gehenna;Khalas[/lore]` `[lore]Gehenna;Chamada[/lore]` `[lore]Gehenna;Mungoth[/lore]` `[lore]Gehenna;Krangath[/lore]` `[lore]Gehenna;Bleak Eternity[/lore]`
+- `[lore]Hades[/lore]` `[lore]Hades;Plane of Gloom[/lore]` `[lore]Hades;Three Glooms[/lore]` `[lore]Hades;Oinos[/lore]` `[lore]Hades;Niflheim[/lore]` `[lore]Hades;Pluton[/lore]` `[lore]Hades;Gray Waste[/lore]`
+- `[lore]Limbo[/lore]` `[lore]Limbo;Plane of Pure Chaos[/lore]` `[lore]Limbo;Ever-Changing Chaos[/lore]`
+- `[lore]Mechanus[/lore]` `[lore]Mechanus;Clockwork Nirvana[/lore]` `[lore]Mechanus;Nirvana[/lore]`
+-  `[lore]Mount Celestia[/lore]` `[lore]Mount Celestia;Plane of Good[/lore]` `[lore]Mount Celestia;Lunia[/lore]` `[lore]Mount Celestia;Mercuria[/lore]` `[lore]Mount Celestia;Venya[/lore]` `[lore]Mount Celestia;Solania[/lore]` `[lore]Mount Celestia;Mertion[/lore]` `[lore]Mount Celestia;Jovar[/lore]` `[lore]Mount Celestia;Chronias[/lore]` `[lore]Mount Celestia;Seven Heavens[/lore]` `[lore]Mount Celestia;Seven Mountains of Goodness and Law[/lore]` `[lore]Mount Celestia;Seven Mounting Heavens[/lore]`
+  -  `[lore]Bahamut[/lore]` `[lore]Bahamut;Paladine[/lore]` `[lore]Bahamut;Xymor[/lore]`
+  -  `[lore]Moradin[/lore]` `[lore]Moradin;Soul Forger[/lore]` `[lore]Moradin;Dwarffather[/lore]`
+-  `[lore]Nine Hells[/lore]` `[lore]Nine Hells;Plane of Evil[/lore]` `[lore]Nine Hells;Hells[/lore]` `[lore]Nine Hells;Hell[/lore]` `[lore]Nine Hells;Baator[/lore]`
   - `[lore]Avernus[/lore]`
-    - `[lore]Zariel[/lore]`
+    - `[lore]Zariel[/lore]` `[lore]Zariel;Lord of the First[/lore]`
   - `[lore]Dis[/lore]`
     - `[lore]Dispater[/lore]`
-  - `[lore]Minauros[/lore]`
+  - `[lore]Minauros[/lore]` `[lore]Minauros;Endless Bog[/lore]` `[lore]Minauros;Stinking Mire[/lore]`
     - `[lore]Mammon[/lore]`
-  - `[lore]Phlegethos[/lore]`
-  - `[lore]Stygia[/lore]`
-  - `[lore]Malbolge[/lore]`
-    - `[lore]Glasya[/lore]`
-  - `[lore]Maladomini[/lore]`
-    - `[lore]Baalzebul[/lore]` `[lore]Baalzebul;Lord of Flies[/lore]`
+  - `[lore]Phlegethos[/lore]` `[lore]Phlegethos;Heart of Flames[/lore]` `[lore]Phlegethos;Belial[/lore]` `[lore]Phlegethos;Fierna[/lore]`
+  - `[lore]Stygia[/lore]` `[lore]Stygia;Frozen Wastes[/lore]` `[lore]Stygia;Great Sea[/lore]` `[lore]Stygia;Levistus[/lore]`
+  - `[lore]Malbolge[/lore]` `[lore]Malbolge;Tyranny of Turmoil[/lore]` `[lore]Malbolge;Crushing Lands[/lore]`
+    - `[lore]Glasya[/lore]` `[lore]Glasya;Dark Prodigy[/lore]`
+  - `[lore]Maladomini[/lore]` `[lore]Maladomini;Circle of Ruins[/lore]`
+    - `[lore]Baalzebul[/lore]` `[lore]Baalzebul;Lord of Flies[/lore]` `[lore]Baalzebul;Slug Archduke[/lore]` `[lore]Baalzebul;Triel[/lore]`
   - `[lore]Cania[/lore]`
-    - `[lore]Mephistopheles[/lore]`
+    - `[lore]Mephistopheles[/lore]` `[lore]Mephistopheles;Mephisto[/lore]` `[lore]Mephistopheles;Molikroth[/lore]` `[lore]Mephistopheles;Cold Lord[/lore]` `[lore]Mephistopheles;Lord of Hellfire[/lore]`
   - `[lore]Nessus[/lore]`
-    - `[lore]Asmodeus[/lore]`
-- `[lore]Outlands[/lore]` `[lore]Outlands;Plane of Chaos[/lore]` `[lore]Outlands;Plane of Neutrality[/lore]` `[lore]Outlands;Plane of Balance[/lore]`
-- `[lore]Pandemonium[/lore]` `[lore]Pandemonium;Plane of Last Straws[/lore]` `[lore]Pandemonium;Pandesmos[/lore]` `[lore]Pandemonium;Cocytus[/lore]` `[lore]Pandemonium;Phlegethon[/lore]` `[lore]Pandemonium;Agathion[/lore]`
-- `[lore]Ysgard[/lore]` `[lore]Ysgard;Muspelheim[/lore]` `[lore]Ysgard;Nidavellir[/lore]`
+    - `[lore]Asmodeus[/lore]` `[lore]Asmodeus;Asmodei[/lore]` `[lore]Asmodeus;Supreme Master of the Nine Hells[/lore]` `[lore]Asmodeus;Lord of the Ninth[/lore]` `[lore]Asmodeus;Lord of Lies[/lore]`
+- `[lore]Outlands[/lore]` `[lore]Outlands;Plane of Chaos[/lore]` `[lore]Outlands;Plane of Neutrality[/lore]` `[lore]Outlands;Plane of Balance[/lore]` `[lore]Outlands;Concordant Domain[/lore]` `[lore]Outlands;Concordant Opposition[/lore]` `[lore]Outlands;Friendly Opposition[/lore]` `[lore]Outlands;Godsland[/lore]`
+  - `[lore]Sigil[/lore]` `[lore]Sigil;City of Doors[/lore]` `[lore]Sigil;City of Secrets[/lore]`
+- `[lore]Pandemonium[/lore]` `[lore]Pandemonium;Plane of Last Straws[/lore]` `[lore]Pandemonium;Pandesmos[/lore]` `[lore]Pandemonium;Cocytus[/lore]` `[lore]Pandemonium;Phlegethon[/lore]` `[lore]Pandemonium;Agathion[/lore]` `[lore]Pandemonium;Windswept Depths[/lore]`
+- `[lore]Ysgard[/lore]` `[lore]Ysgard;Muspelheim[/lore]` `[lore]Ysgard;Nidavellir[/lore]` `[lore]Ysgard;Heroic Domains[/lore]` `[lore]Ysgard;Gladsheim[/lore]`
 ### Planar Travel
 #### Traveling the Outer Planes
-- `[lore]Infinite Staircase[/lore]`
+- `[lore]Infinite Staircase[/lore]` `[lore]Infinite Staircase;Celestial Staircase[/lore]` `[lore]Infinite Staircase;Celestial Stairway[/lore]`
 - `[lore]River Oceanus[/lore]` `[lore]River Oceanus;Oceanus[/lore]`
-- `[lore]River Styx[/lore]` `[lore]River Styx;Styx[/lore]`
-- `[lore]Yggdrasil, the World Tree[/lore]` `[lore]Yggdrasil, the World Tree;Yggdrasil[/lore]` `[lore]Yggdrasil, the World Tree;World Tree[/lore]`
-### Tour of the Multiverse
+- `[lore]River Styx[/lore]` `[lore]River Styx;Styx[/lore]` `[lore]River Styx;River of Blood[/lore]`
+- `[lore]Yggdrasil, the World Tree[/lore]` `[lore]Yggdrasil, the World Tree;Yggdrasil[/lore]` `[lore]Yggdrasil, the World Tree;World Tree[/lore]` `[lore]Yggdrasil, the World Tree;World Ash[/lore]`
+### Tour of the Multiverse 
 - `[lore]Demiplane[/lore]`
-- `[lore]Far Realm[/lore]`
+- `[lore]Far Realm[/lore]` `[lore]Far Realm;Outside[/lore]`
   - `[lore]Hadar[/lore]` `[lore]Hadar;Dark Hunger[/lore]`
-- `[lore]Feywild[/lore]` `[lore]Feywild;Plane of Fairie[/lore]`
+- `[lore]Feywild[/lore]` `[lore]Feywild;Plane of Fairie[/lore]` `[lore]Feywild;Isan Meidan[/lore]`
   - `[lore]Domains of Delight[/lore]`
-    - `[lore]Gloaming Court[/lore]`
-    - `[lore]Summer Court[/lore]`
-- `[lore]Mechanus[/lore]`
-- `[lore]Negative Plane[/lore]`
-- `[lore]Plane of Ash[/lore]` `[lore]Plane of Ash;Para-elemental Plane of Ash[/lore]`
-- `[lore]Plane of Ice[/lore]` `[lore]Plane of Ice;Para-elemental Plane of Ice[/lore]`
-- `[lore]Plane of Magma[/lore]` `[lore]Plane of Magma;Para-elemental Plane of Magma[/lore]`
-- `[lore]Plane of Ooze[/lore]` `[lore]Plane of Ooze;Para-elemental Plane of Ooze[/lore]`
-- `[lore]Positive Plane[/lore]`
-- `[lore]Shadowfell[/lore]` `[lore]Shadowfell;Plane of Shadow[/lore]`
-  - `[lore]Domains of Dread[/lore]`
+    - `[lore]Gloaming Court[/lore]` `[lore]Gloaming Court;Unseelie Court[/lore]`
+    - `[lore]Summer Court[/lore]` `[lore]Summer Court;Seelie Court[/lore]`
+- `[lore]Shadowfell[/lore]` `[lore]Shadowfell;Plane of Shadow[/lore]` `[lore]Shadowfell;Shadowland[/lore]` `[lore]Shadowfell;Shadow Deep[/lore]` `[lore]Shadowfell;Shadow[/lore]`
+  - `[lore]Domains of Dread[/lore]` `[lore]Domains of Dread;Ravenloft[/lore]`
     - `[lore]Barovia[/lore]`
       - `[lore]Castle Ravenloft[/lore]`
-      - `[lore]Strahd von Zarovich[/lore]` `[lore]Strahd von Zarovich;Strahd[/lore]`
-- `[lore]Sigil[/lore]` `[lore]Sigil;City of Doors[/lore]`
+      - `[lore]Strahd von Zarovich[/lore]` `[lore]Strahd von Zarovich;Strahd[/lore]` `[lore]Strahd von Zarovich;First Vampire[/lore]`
 ## Appendix A: Lore Glossary
 # Tooltips for official sources based on 2024 rules
 ## Spells
