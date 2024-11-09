@@ -234,7 +234,7 @@
 ## Chapter 6: Cosmology
 ### The Planes
 #### The Great Wheel
-`[lore]The Great Wheel[/lore]`
+- `[lore]The Great Wheel[/lore]`
 #### Material Realms
 - `[lore]Material Plane[/lore]` `[lore]Material Plane;Prime Material Plane[/lore]` `[lore]Material Plane;Prime[/lore]`
   - `[lore]First World[/lore]`
