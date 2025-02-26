@@ -152,8 +152,8 @@
 - `Shape-Shifting. The DEVIL [rules]Shape-Shifting;shape-shifts[/rules] to resemble a [monsters]Rat[/monsters] ([rules]Speed[/rules] 20 ft.), a [monsters]Raven[/monsters] (20 ft., [rules]Fly Speed;Fly[/rules] 60 ft.), or a [monsters]Spider[/monsters] (20 ft., [rules]Climb Speed;Climb[/rules] 20 ft.), or it returns to its true form. Its statistics are the same in each form, except for its [rules]Speed[/rules]. Any equipment it's wearing or carrying isn't transformed.`
 ### Spellcasting
 - `Spellcasting. The MONSTER [action]Magic;casts[/action] one of the following [rules]Spell;spells[/rules], using ABILITY as the spellcasting ability ([rules]spell[/rules] [rules]Saving Throw;save[/rules] [rules]Difficulty Class;DC[/rules] 13):`  
-`At Will: [spells]Mage Hand[/spells], [spells]Ray of Sickness[/spells] (level 2 version)`  
-`2[rules]Per Day;/Day[/rules] Each: [spells]Fog Cloud[/spells], [spells]Grease[/spells]`  
+`At Will: [spells]Mage Hand[/spells], [spells]Ray of Sickness[/spells] (level 2 version)`
+`2[rules]Per Day;/Day[/rules] Each: [spells]Fog Cloud[/spells], [spells]Grease[/spells], [spells]Invisibility[/spells] (self only)`
 `1[rules]Per Day;/Day[/rules]: [spells]Vitriolic Sphere[/spells], [spells]Mage Armor[/spells] (included in [rules]Armor Class;AC[/rules])`
 ## Bonus Actions
 - `Trample. Dexterity [rules]Saving Throw[/rules]: [rules]Difficulty Class;DC[/rules] 13, one [rules]creature[/rules] within 5 feet that has the [condition]Prone[/condition] [rules]condition[/rules]. Failure: 17 (2d10 + 6) Bludgeoning [rules]damage[/rules]. Success: Half [rules]damage[/rules].`
