@@ -29,6 +29,8 @@
 - `Ventriloquism. Whenever the MONSTER speaks, it can choose a point within 30 feet of itself; its voice emanates from that point.`
 - `Warrior's Wrath. The MONSTER has [rules]Advantage[/rules] on melee [rules]Attack Roll;attack rolls[/rules] against any [rules]Bloodied[/rules] [rules]creature[/rules].`
 - `Wild Talent. The MONSTER can [action]Magic;cast[/action] CANTRIP without spell components, using INTELLIGENCE|WISDOM|CHARISMA as the spellcasting ability.`
+### Monster's Manual
+
 ### Other official sources
 - `Abduct. The MONSTER's [rules]Speed[/rules] isn't halved when it moves a [rules]creature[/rules] [condition]Grappled[/condition] by it.`
 - `Agile. The MONSTER doesn't provoke an [action]Opportunity Attack[/action] action when it moves out of an [rules]enemy[/rules]'s reach.`
@@ -152,7 +154,7 @@
 - `Spellcasting. The MONSTER [action]Magic;casts[/action] one of the following [rules]Spell;spells[/rules], using ABILITY as the spellcasting ability ([rules]spell[/rules] [rules]Saving Throw;save[/rules] [rules]Difficulty Class;DC[/rules] 13):`  
 `At Will: [spells]Mage Hand[/spells], [spells]Ray of Sickness[/spells] (level 2 version)`  
 `2[rules]Per Day;/Day[/rules] Each: [spells]Fog Cloud[/spells], [spells]Grease[/spells]`  
-`1[rules]Per Day;/Day[/rules]: [spells]Vitriolic Sphere[/spells]`
+`1[rules]Per Day;/Day[/rules]: [spells]Vitriolic Sphere[/spells], [spells]Mage Armor[/spells] (included in [rules]Armor Class;AC[/rules])`
 ## Bonus Actions
 - `Trample. Dexterity [rules]Saving Throw[/rules]: [rules]Difficulty Class;DC[/rules] 13, one [rules]creature[/rules] within 5 feet that has the [condition]Prone[/condition] [rules]condition[/rules]. Failure: 17 (2d10 + 6) Bludgeoning [rules]damage[/rules]. Success: Half [rules]damage[/rules].`
 - `Bubble Dash. While underwater, the SEAHORSE moves up to half its [rules]Swim Speed[/rules] without provoking an [action]Opportunity Attack[/action] action.`
@@ -163,3 +165,5 @@
 - `Burst of Ingenuity (2[rules]Per Day;/Day[/rules]). Trigger: The SPHINX or another [rules]creature[/rules] within 30 feet makes an [rules]ability check[/rules] or a [rules]saving throw[/rules]. Response: The SPHINX adds 2 to the [rules]D20 Test;roll[/rules].`
 - `Shield (2[rules]Per Day;/Day[/rules]). The MONSTER [action]Magic;casts[/action] [spells]Shield[/spells] in response to that [rules]Spell[/rules]'s trigger, using the same spellcasting ability in Spellcasting.`
 - `Counterspell (1[rules]Per Day;/Day[/rules]). The MONSTER [action]Magic;casts[/action] [spells]Counterspell[/spells] in response to that [rules]Spell[/rules]'s trigger, using the same spellcasting ability in Spellcasting.`
+## Legendary Actions
+
