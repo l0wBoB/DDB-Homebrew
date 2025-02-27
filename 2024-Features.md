@@ -154,7 +154,7 @@
 - `Spellcasting. The MONSTER [action]Magic;casts[/action] one of the following [rules]Spell;spells[/rules], using ABILITY as the spellcasting ability ([rules]spell[/rules] [rules]Saving Throw;save[/rules] [rules]Difficulty Class;DC[/rules] 13):`  
 `At Will: [spells]Mage Hand[/spells], [spells]Ray of Sickness[/spells] (level 2 version), [spells]Shapechange[/spells] (Beast or Humanoid form only, no [rules]Temporary Hit Points[/rules] gained from the [rules]spell[/rules], and no [rules]Concentration[/rules] or [rules]Temporary Hit Points[/rules] required to maintain the [rules]spell[/rules]),`
 `2[rules]Per Day;/Day[/rules] Each: [spells]Fog Cloud[/spells], [spells]Grease[/spells], [spells]Invisibility[/spells] (self only)`
-`1[rules]Per Day;/Day[/rules]: [spells]Vitriolic Sphere[/spells], [spells]Mage Armor[/spells] (included in [rules]Armor Class;AC[/rules])`
+`1[rules]Per Day;/Day[/rules]: [spells]Vitriolic Sphere[/spells], [spells]Mage Armor[/spells] (included in [rules]Armor Class;AC[/rules]), [spells]Destructive Wave[/spells] (Necrotic)`
 ## Bonus Actions
 - `Trample. Dexterity [rules]Saving Throw[/rules]: [rules]Difficulty Class;DC[/rules] 13, one [rules]creature[/rules] within 5 feet that has the [condition]Prone[/condition] [rules]condition[/rules]. Failure: 17 (2d10 + 6) Bludgeoning [rules]damage[/rules]. Success: Half [rules]damage[/rules].`
 - `Bubble Dash. While underwater, the SEAHORSE moves up to half its [rules]Swim Speed[/rules] without provoking an [action]Opportunity Attack[/action] action.`
